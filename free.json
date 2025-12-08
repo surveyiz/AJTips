@@ -17,21 +17,21 @@
     "id": "f6j8h3i6-6f6f-6f6f-g6f6-6f6f6f6f6f06",
     "teamA": {
       "name": "Osasuna",
-      "icon": "https://example.com/icons/osasuna.png"
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png"
     },
     "teamB": {
       "name": "Levante",
-      "icon": "https://example.com/icons/levante.png"
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png"
     },
     "leagueName": "La Liga",
     "prediction": "HOME WIN",
     "date": "2025-12-08"
   },
   {
-    "id": "g7k9i4j7-7g7g-7g7g-h7g7-7g7g7g7g7g07",
+    "id": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
     "teamA": {
       "name": "Torino",
-      "icon": "https://example.com/icons/torino.png"
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png"
     },
     "teamB": {
       "name": "AC Milan",
