@@ -1,0 +1,56 @@
+[
+  {
+    "id": "live_01",
+    "teamA": { "name": "Arsenal", "icon": "https://.../arsenal.png" },
+    "teamB": { "name": "Chelsea", "icon": "https://.../chelsea.png" },
+    "startTime": "20:00 GMT",
+    "videoUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8", 
+    "thumbnail": "https://.../thumb1.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_02",
+    "teamA": { "name": "Real Madrid", "icon": "..." },
+    "teamB": { "name": "Barcelona", "icon": "..." },
+    "startTime": "21:45 GMT",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
+    "isYoutube": true
+  }
+  {
+    "id": "live_03",
+    "teamA": { "name": "Arsenal", "icon": "https://.../arsenal.png" },
+    "teamB": { "name": "Chelsea", "icon": "https://.../chelsea.png" },
+    "startTime": "20:00 GMT",
+    "videoUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8", 
+    "thumbnail": "https://.../thumb1.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_04",
+    "teamA": { "name": "Real Madrid", "icon": "..." },
+    "teamB": { "name": "Barcelona", "icon": "..." },
+    "startTime": "21:45 GMT",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
+    "isYoutube": true
+  }
+  {
+    "id": "live_05",
+    "teamA": { "name": "Arsenal", "icon": "https://.../arsenal.png" },
+    "teamB": { "name": "Chelsea", "icon": "https://.../chelsea.png" },
+    "startTime": "20:00 GMT",
+    "videoUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8", 
+    "thumbnail": "https://.../thumb1.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_06",
+    "teamA": { "name": "Real Madrid", "icon": "..." },
+    "teamB": { "name": "Barcelona", "icon": "..." },
+    "startTime": "21:45 GMT",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
+    "isYoutube": true
+  }
+]
