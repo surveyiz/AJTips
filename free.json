@@ -3,11 +3,11 @@
     "id": "e5i7g2h5-5e5e-5e5e-f5e5-5e5e5e5e5e05",
     "teamA": {
       "name": "Wolverhampton Wanderers",
-      "icon": "https://example.com/icons/wolverhampton-wanderers.png"
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ0dm09Zsrk0Kf0MSWwJvqse2Tu-KIXKCqA&s"
     },
     "teamB": {
       "name": "Manchester United",
-      "icon": "https://example.com/icons/manchester-united.png"
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQ0dm09Zsrk0Kf0MSWwJvqse2Tu-KIXKCqA&s"
     },
     "leagueName": "Premier League",
     "prediction": "AWAY WIN",
