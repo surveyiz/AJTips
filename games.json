@@ -9,7 +9,7 @@
   },
   {
     "name": "id_basic_sub",
-    "date": "09/07/2025",
+    "date": "09/12/2025",
     "games": [
       { "fixture": "France Women vs Wales Women", "prediction": "Home Win" },
       { "fixture": "Paris Saint‑Germain vs Real Madrid", "prediction": "Home Win" },
@@ -34,7 +34,7 @@
   },
   {
     "name": "id_premium_sub",
-    "date": "09/07/2025",
+    "date": "09/12/2025",
     "games": [
       { "fixture": "France Women vs Wales Women", "prediction": "Home Win" },
       { "fixture": "Paris Saint‑Germain vs Real Madrid", "prediction": "Home Win" },
@@ -51,7 +51,7 @@
   },
   {
     "name": "id_correctScore_sub",
-    "date": "09/07/2025",
+    "date": "09/12/2025",
     "games": [
       { "fixture": "France Women vs Wales Women", "prediction": "2-0" },
       { "fixture": "Paris Saint‑Germain vs Real Madrid", "prediction": "2-1" },
