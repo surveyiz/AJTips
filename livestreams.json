@@ -1,35 +1,63 @@
 [
   {
     "id": "live_01",
-    "teamA": { "name": "Arsenal", "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png" },
+    "league": "Premier League",
+    "teamA": {
+      "name": "Arsenal",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png"
+    },
+    "teamB": {
+      "name": "Chelsea",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png"
+    },
     "startTime": "20:00 GMT",
-    "videoUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8", 
+    "videoUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
     "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
     "isYoutube": false
   },
   {
     "id": "live_02",
-    "teamA": { "name": "Real Madrid", "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png" },
-    "teamB": { "name": "Barcelona", "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png" },
+    "league": "La Liga",
+    "teamA": {
+      "name": "Real Madrid",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png"
+    },
+    "teamB": {
+      "name": "Barcelona",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png"
+    },
     "startTime": "21:45 GMT",
     "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
     "isYoutube": true
-  }, 
+  },
   {
     "id": "live_03",
-    "teamA": { "name": "Man City", "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png" },
-    "teamB": { "name": "Liverpool", "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png" },
+    "league": "Premier League",
+    "teamA": {
+      "name": "Man City",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png"
+    },
+    "teamB": {
+      "name": "Liverpool",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png"
+    },
     "startTime": "20:00 GMT",
-    "videoUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8", 
+    "videoUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
     "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
     "isYoutube": false
   },
   {
     "id": "live_04",
-    "teamA": { "name": "Bayern", "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png" },
-    "teamB": { "name": "Dortmund", "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png" },
+    "league": "Bundesliga",
+    "teamA": {
+      "name": "Bayern",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png"
+    },
+    "teamB": {
+      "name": "Dortmund",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png"
+    },
     "startTime": "21:45 GMT",
     "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
@@ -37,17 +65,31 @@
   },
   {
     "id": "live_05",
-    "teamA": { "name": "PSG", "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png" },
-    "teamB": { "name": "Marseille", "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Olympique_de_Marseille_logo.svg/1200px-Olympique_de_Marseille_logo.svg.png" },
+    "league": "Ligue 1",
+    "teamA": {
+      "name": "PSG",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png"
+    },
+    "teamB": {
+      "name": "Marseille",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Olympique_de_Marseille_logo.svg/1200px-Olympique_de_Marseille_logo.svg.png"
+    },
     "startTime": "20:00 GMT",
-    "videoUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8", 
+    "videoUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
     "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
     "isYoutube": false
   },
   {
     "id": "live_06",
-    "teamA": { "name": "Milan", "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png" },
-    "teamB": { "name": "Inter", "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png" },
+    "league": "Serie A",
+    "teamA": {
+      "name": "Milan",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png"
+    },
+    "teamB": {
+      "name": "Inter",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png"
+    },
     "startTime": "21:45 GMT",
     "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg",
