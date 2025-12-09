@@ -2,11 +2,11 @@
   {
     "id": "live_01",
     "league": "Premier League",
-    "leagueLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",
-    "teamA": { "name": "Arsenal", "icon": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg" },
-    "teamB": { "name": "Chelsea", "icon": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg" },
+    "leagueLogo": "https://upload.wikimedia.org/wikipedia/it/6/6d/Premier_League_Logo_2016.png",
+    "teamA": { "name": "Arsenal", "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/330px-Arsenal_FC.png" },
+    "teamB": { "name": "Chelsea", "icon": "https://upload.wikimedia.org/wikipedia/sco/thumb/c/cc/Chelsea_FC.svg/330px-Chelsea_FCpng" },
     "startTime": "20:00",
-    "videoUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "videoUrl": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index_sp1_video_enc_1080p25.m3u8",
     "thumbnail": "",
     "isYoutube": false
   }
