@@ -1,7 +1,7 @@
 [
   {
     "id": "live_01",
-    "league": "Premier League",
+    "league": "Champions League",
     "teamA": {
       "name": "Kairat Almaty",
       "icon": "https://static.vecteezy.com/system/resources/previews/030/461/061/non_2x/kairat-almaty-club-logo-symbol-kazakhstan-league-football-abstract-design-illustration-free-vector.jpg"
@@ -10,7 +10,7 @@
       "name": "Olympiacos",
       "icon": "https://static.vecteezy.com/system/resources/previews/030/184/139/non_2x/olympiacos-club-logo-symbol-greece-league-football-abstract-design-illustration-with-black-background-free-vector.jpg"
     },
-    "startTime": "20:00 GMT",
+    "startTime": "18:30 EAT",
     "videoUrl": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index_sp1_video_enc_1080p25.m3u8",
     "thumbnail": "https://static.independent.co.uk/2024/11/10/18/2024-11-10T180215Z_480360357_UP1EKBA1E3PTS_RTRMADP_3_SOCCER-ENGLAND-CHE-ARS-REPORT.jpg",
     "isYoutube": false
