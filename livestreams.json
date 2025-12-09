@@ -3,12 +3,12 @@
     "id": "live_01",
     "league": "Premier League",
     "teamA": {
-      "name": "Arsenal",
-      "icon": "https://1000logos.net/wp-content/uploads/2016/10/Arsenal-Logo.png"
+      "name": "Kairat Almaty",
+      "icon": "https://static.vecteezy.com/system/resources/previews/030/461/061/non_2x/kairat-almaty-club-logo-symbol-kazakhstan-league-football-abstract-design-illustration-free-vector.jpg"
     },
     "teamB": {
-      "name": "Chelsea",
-      "icon": "https://cdn.freebiesupply.com/logos/large/2x/chelsea-fc-2-logo-svg-vector.svg"
+      "name": "Olympiacos",
+      "icon": "https://static.vecteezy.com/system/resources/previews/030/184/139/non_2x/olympiacos-club-logo-symbol-greece-league-football-abstract-design-illustration-with-black-background-free-vector.jpg"
     },
     "startTime": "20:00 GMT",
     "videoUrl": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index_sp1_video_enc_1080p25.m3u8",
