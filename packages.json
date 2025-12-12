@@ -22,11 +22,6 @@
       "name": "Basic",
       "prices": [
         {
-          "amount": 1,
-          "duration": "DAILY",
-          "baseCurrency": "USD"
-        },
-        {
           "amount": 3,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
@@ -54,11 +49,6 @@
     "price": {
       "name": "Premium",
       "prices": [
-        {
-          "amount": 2,
-          "duration": "DAILY",
-          "baseCurrency": "USD"
-        },
         {
           "amount": 6,
           "duration": "WEEKLY",
@@ -89,11 +79,6 @@
       "name": "Jackpot",
       "prices": [
         {
-          "amount": 3,
-          "duration": "DAILY",
-          "baseCurrency": "USD"
-        },
-        {
           "amount": 9,
           "duration": "WEEKLY",
           "baseCurrency": "USD"
@@ -121,11 +106,6 @@
     "price": {
       "name": "Correct Score",
       "prices": [
-        {
-          "amount": 3,
-          "duration": "DAILY",
-          "baseCurrency": "USD"
-        },
         {
           "amount": 8,
           "duration": "WEEKLY",
