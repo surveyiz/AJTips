@@ -1,10 +1,10 @@
 [
   {
     "id": "live_01",
-    "league": "Premier League",
-    "leagueLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPBjXm5XyTS4Xh-EAI4M7MUEfMv9yjElrow&s",
-    "teamA": { "name": "Arsenal", "icon": "https://brandlogos.net/wp-content/uploads/2015/10/arsenal_fc-logo_brandlogos.net_kae1j-768x905.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://brandlogos.net/wp-content/uploads/2025/02/chelsea_fc-logo_brandlogos.net_jrklu-512x515.png" },
+    "league": "Copa del Rey",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-copa-del-rey.png",
+    "teamA": { "name": "Deportivo La Coruna", "icon": "https://storage.livescore.com/images/team/high/enet/9783.png" },
+    "teamB": { "name": "Mallorca", "icon": "https://storage.livescore.com/images/team/high/enet/8661.png" },
     "startTime": "20:00",
     "videoUrl": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index_sp1_video_enc_1080p25.m3u8",
     "thumbnail": "",
