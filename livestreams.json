@@ -9,60 +9,8 @@
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": "",
     "isYoutube": false
-  }, {
-    "id": "live_01",
-    "league": "La  Liga",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-spain-laliga.png",
-    "teamA": { "name": "Valencia", "icon": "https://storage.livescore.com/images/team/high/enet/10267.pngg" },
-    "teamB": { "name": "Mallorca", "icon": "https://storage.livescore.com/images/team/high/enet/8661.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  }, {
-    "id": "live_01",
-    "league": "La  Liga",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-spain-laliga.png",
-    "teamA": { "name": "Valencia", "icon": "https://storage.livescore.com/images/team/high/enet/10267.pngg" },
-    "teamB": { "name": "Mallorca", "icon": "https://storage.livescore.com/images/team/high/enet/8661.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_01",
-    "league": "Highlights",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-copa-del-rey.png",
-    "teamA": { "name": "Eibar", "icon": "https://storage.livescore.com/images/team/high/enet/8372.png" },
-    "teamB": { "name": "Elche", "icon": "https://storage.livescore.com/images/team/high/enet/10268.png" },
-    "startTime": "21:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_01",
-    "league": "Highlights",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-copa-del-rey.png",
-    "teamA": { "name": "CD Eldense", "icon": "https://storage.livescore.com/images/team/high/enet/8288.png" },
-    "teamB": { "name": "Real Soceiedad", "icon": "https://storage.livescore.com/images/team/high/enet/8560.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_01",
-    "league": "Highlights",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-copa-del-rey.png",
-    "teamA": { "name": "Guadalajara", "icon": "https://storage.livescore.com/images/team/high/enet/161782.png" },
-    "teamB": { "name": "Barcelona", "icon": "https://storage.livescore.com/images/team/high/enet/8634.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
+  }, 
+  
   {
     "id": "live_02",
     "league": "Bundesliga",
@@ -73,27 +21,8 @@
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": "",
     "isYoutube": false
-  },{
-    "id": "live_02",
-    "league": "Bundesliga",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
-    "teamA": { "name": "Borrusia Dormund", "icon": "https://storage.livescore.com/images/team/high/enet/9789.png" },
-    "teamB": { "name": "Borrusia M'gladbach", "icon": "https://storage.livescore.com/images/team/high/enet/9788.png" },
-    "startTime": "22:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },{
-    "id": "live_02",
-    "league": "Bundesliga",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
-    "teamA": { "name": "Borrusia Dormund", "icon": "https://storage.livescore.com/images/team/high/enet/9789.png" },
-    "teamB": { "name": "Borrusia M'gladbach", "icon": "https://storage.livescore.com/images/team/high/enet/9788.png" },
-    "startTime": "22:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
   },
+  
   {
     "id": "live_02",
     "league": "Super Cup",
@@ -127,175 +56,10 @@
   },
   {
     "id": "live_01",
-    "league": "Highlights 2",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_02",
-    "league": "Highlights 2",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_02",
-    "league": "EFL Cup",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_02",
-    "league": "Highlights 2",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_02",
-    "league": "EFL Cup",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_02",
-    "league": "EFL Cup",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_02",
-    "league": "EFL Cup",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_02",
-    "league": "EFL Cup",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_02",
-    "league": "EFL Cup",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_02",
-    "league": "EFL Cup",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_02",
-    "league": "EFL Cup",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_02",
-    "league": "EFL Cup",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_02",
-    "league": "EFL Cup",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_02",
-    "league": "EFL Cup",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_02",
-    "league": "EFL Cup",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_02",
-    "league": "EFL Cup",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-efl-cup.png",
-    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/enet/8344.png" },
-    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
+    "league": "Championship",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-championship.png",
+    "teamA": { "name": "Cardiff City", "icon": "https://storage.livescore.com/images/team/high/teambadge/swansea-city-2024.png" },
+    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/teambadge/wrexham-afc-2024.pngg" },
     "startTime": "23:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": "",
