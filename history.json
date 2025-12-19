@@ -1,4 +1,23 @@
 [
+   {
+    "date": "Dec 18, 2025",
+    "categories": {
+      "Daily Correct Score": [
+        { "teamA": "Man City", "teamB": "Luton", "prediction": "3-1", "odds": "10.50", "results": "Win" },
+        { "teamA": "Everton", "teamB": "Chelsea", "prediction": "2-0", "odds": "8.00", "results": "Win" }
+      ],
+      "Premium Tips": [
+        { "teamA": "Spurs", "teamB": "Newcastle", "prediction": "Over 2.5", "odds": "1.60", "results": "Win" }
+      ],
+      "Basic Tips": [
+        { "teamA": "Lorient", "teamB": "Marseille", "prediction": "Away Win", "odds": "1.80", "results": "Loss" }
+      ]
+      ,
+      "Free Tips": [
+        { "teamA": "Lorient", "teamB": "Marseille", "prediction": "Away Win", "odds": "1.80", "results": "Loss" }
+      ]
+    }
+  },
   {
     "date": "Dec 08, 2025",
     "categories": {
