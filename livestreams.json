@@ -33,27 +33,8 @@
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": "",
     "isYoutube": false
-  },{
-    "id": "live_02",
-    "league": "Super Cup",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-italian-super-cup.png",
-    "teamA": { "name": "Bologna", "icon": "https://storage.livescore.com/images/team/high/enet/9857.png" },
-    "teamB": { "name": "Inter", "icon": "https://storage.livescore.com/images/team/high/enet/8636.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },{
-    "id": "live_02",
-    "league": "Super Cup",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-italian-super-cup.png",
-    "teamA": { "name": "Bologna", "icon": "https://storage.livescore.com/images/team/high/enet/9857.png" },
-    "teamB": { "name": "Inter", "icon": "https://storage.livescore.com/images/team/high/enet/8636.png" },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
   },
+  
   {
     "id": "live_01",
     "league": "Championship",
