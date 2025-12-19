@@ -3,18 +3,41 @@
     "date": "Dec 18, 2025",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Man City", "teamB": "Luton", "prediction": "3-1", "odds": "10.50", "results": "Win" },
-        { "teamA": "Everton", "teamB": "Chelsea", "prediction": "2-0", "odds": "8.00", "results": "Win" }
+        { "teamA": "Celje", "teamB": "Shelbourne FC", "prediction": "0-0", "odds": "6.22", "results": "Win" },
+        { "teamA": "Nasr Salalah", "teamB": "Oman Club", "prediction": "2-1", "odds": "8.7", "results": "Win" }
       ],
       "Premium Tips": [
-        { "teamA": "Spurs", "teamB": "Newcastle", "prediction": "Over 2.5", "odds": "1.60", "results": "Win" }
+        { "teamA": "USM Alger", "teamB": "ES Ben Aknoun", "prediction": "Draw", "odds": "3.1", "results": "Win" }
+      ],[
+        { "teamA": "Volendam", "teamB": "SC Genemuiden", "prediction": "Under 1.5", "odds": "2.79", "results": "Win" }
+      ],[
+        { "teamA": "Lausanne-Sport", "teamB": "Fiorentina", "prediction": "HT/FT X/1", "odds": "5.21", "results": "Win" }
       ],
       "Basic Tips": [
-        { "teamA": "Lorient", "teamB": "Marseille", "prediction": "Away Win", "odds": "1.80", "results": "Loss" }
-      ]
-      ,
+        { "teamA": "Napoli", "teamB": "Milan", "prediction": "Home Win", "odds": "2.32", "results": "Win" }
+      ],[
+        { "teamA": "Real Murcia", "teamB": "Real Betis", "prediction": "Away Win", "odds": "1.44", "results": "Win" }
+      ],[
+        { "teamA": "Rayo Vallecano", "teamB": "Drita", "prediction": "Over 2.5", "odds": "2.32", "results": "Win" }
+      ],[
+        { "teamA": "Sparta Praha", "teamB": "Aberdeen", "prediction": "Over 2.5", "odds": "1.73", "results": "Win" }
+      ],
       "Free Tips": [
-        { "teamA": "Lorient", "teamB": "Marseille", "prediction": "Away Win", "odds": "1.80", "results": "Loss" }
+        { "teamA": "Burgos CF", "teamB": "Getafe", "prediction": "Over 2.5", "odds": "1.62", "results": "Win" }
+      ],[
+        { "teamA": "Porto", "teamB": "FC Famalicão", "prediction": "Home Win", "odds": "1.50", "results": "Win" }
+      ],[
+        { "teamA": "Sparta Praha", "teamB": "Aberdeen", "prediction": "Home Win", "odds": "1.22", "results": "Win" }
+      ],[
+        { "teamA": "Shakhtar Donetsk", "teamB": "Rijeka", "prediction": "Under 3.5", "odds": "1.8", "results": "Win" }
+      ],[
+        { "teamA": "Crystal Palace", "teamB": "KuPS Kuopio", "prediction": "Over 2.5", "odds": "1.7", "results": "Win" }
+      ],[
+        { "teamA": "Ourense CF", "teamB": "Athletic Bilbao", "prediction": "Away Win", "odds": "1.50", "results": "Loss" }
+      ],[
+        { "teamA": "Reading", "teamB": "Luton Town", "prediction": "BTTS", "odds": "1.68", "results": "Win" }
+      ],[
+        { "teamA": "Napoli", "teamB": "Milan", "prediction": "Draw", "odds": "3.12", "results": "Loss" }
       ]
     }
   },
