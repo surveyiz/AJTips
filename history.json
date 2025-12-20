@@ -23,31 +23,31 @@
         { "teamA": "Sparta Praha", "teamB": "Aberdeen", "prediction": "Over 2.5", "odds": "1.73", "results": "Win" }
       ],
       "Free Tips": [
-        { "teamA": "Borussia Dortmund", "teamB": "Borussia M'gladbach", "prediction": "Home Win", "odds": "1.62", "results": "Win" },
+        { "teamA": "Borussia Dortmund", "teamB": "Borussia M'gladbach", "prediction": "Home Win", "odds": "1.54", "results": "Win" },
       
-        { "teamA": "Beroe", "teamB": "Ludogorets Razgrad", "prediction": "Away Win", "odds": "1.50", "results": "Win" },
+        { "teamA": "Beroe", "teamB": "Ludogorets Razgrad", "prediction": "Away Win", "odds": "1.62", "results": "Win" },
       
         { "teamA": "Crewe", "teamB": "Bristol Rovers", "prediction": "Home or Draw", "odds": "1.22", "results": "Win" },
       
-        { "teamA": "Hertha Berlin", "teamB": "Arminia Bielefeld", "prediction": "Home or Draw", "odds": "1.8", "results": "Win" },
+        { "teamA": "Hertha Berlin", "teamB": "Arminia Bielefeld", "prediction": "Home or Draw", "odds": "1.21", "results": "Win" },
       
-        { "teamA": "Cambuur Leeuwarden", "teamB": "Maastricht", "prediction": "Over 2.5", "odds": "1.7", "results": "Win" },
+        { "teamA": "Cambuur Leeuwarden", "teamB": "Maastricht", "prediction": "Over 2.5", "odds": "1.55", "results": "Win" },
       
-        { "teamA": "ADO Den Haag", "teamB": "Jong PSV", "prediction": "Over 2.5", "odds": "1.50", "results": "Loss" },
+        { "teamA": "ADO Den Haag", "teamB": "Jong PSV", "prediction": "Over 2.5", "odds": "1.52", "results": "Win" },
       
-        { "teamA": "FC Botosani", "teamB": "CFR Cluj", "prediction": "Draw", "odds": "1.68", "results": "Win" },
+        { "teamA": "FC Botosani", "teamB": "CFR Cluj", "prediction": "Draw", "odds": "3.21", "results": "Loss" },
       
-        { "teamA": "Western Sydney Wanderers", "teamB": "Auckland FC", "prediction": "Over 1.5", "odds": "3.12", "results": "Loss" },
+        { "teamA": "Western Sydney Wanderers", "teamB": "Auckland FC", "prediction": "Over 1.5", "odds": "1.17", "results": "Win" },
          
-       { "teamA": "Swansea", "teamB": "Wrexham", "prediction": "Over 2.5", "odds": "1.50", "results": "Loss" },
+       { "teamA": "Swansea", "teamB": "Wrexham", "prediction": "Over 2.5", "odds": "1.57", "results": "Win" },
       
-        { "teamA": "Valencia", "teamB": "Mallorca", "prediction": "Home Win", "odds": "1.68", "results": "Win" },
+        { "teamA": "Valencia", "teamB": "Mallorca", "prediction": "Home Win", "odds": "1.78", "results": "Loss" },
       
-        { "teamA": "VVV-Venlo", "teamB": "FC Dordrecht", "prediction": "Over 1.5", "odds": "3.12", "results": "Loss" },
+        { "teamA": "VVV-Venlo", "teamB": "FC Dordrecht", "prediction": "Over 1.5", "odds": "1.21", "results": "Win" },
          
          { "teamA": "Bari", "teamB": "Catanzaro", "prediction": "Under 2.5", "odds": "1.50", "results": "Loss" },
       
-        { "teamA": "Estoril", "teamB": "Braga", "prediction": "Away Win", "odds": "1.68", "results": "Win" }
+        { "teamA": "Estoril", "teamB": "Braga", "prediction": "Away Win", "odds": "2.8", "results": "Loss" }
       ]
     }
   },
