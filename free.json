@@ -2,184 +2,128 @@
   {
     "id": "e5i7g2h5-5e5e-5e5e-f5e5-5e5e5e5e5e05",
     "teamA": {
-      "name": "Borussia Dortmund",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9789.png"
+      "name": "Man City",
+      "icon": "https://storage.livescore.com/images/team/high/enet/8456.png"
     },
     "teamB": {
-      "name": "Borussia M'gladbach",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9788.png"
+      "name": "West Ham",
+      "icon": "https://storage.livescore.com/images/team/high/enet/8654.png"
     },
-    "leagueName": "Bundesliga",
+    "leagueName": "Premier league",
     "prediction": "Home Win",
-    "date": "2025-12-19"
+    "date": "2025-12-20"
   },
   {
     "id": "f6j8h3i6-6f6f-6f6f-g6f6-6f6f6f6f6f06",
     "teamA": {
-      "name": "Beroe",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10126.png"
+      "name": "Bournemouth",
+      "icon": "https://storage.livescore.com/images/team/high/enet/8678.png"
     },
     "teamB": {
-      "name": "Ludogorets Razgrad",
-      "icon": "https://storage.livescore.com/images/team/high/enet/210173.png"
+      "name": "Burnley",
+      "icon": "https://storage.livescore.com/images/team/high/enet/8191.png"
     },
-    "leagueName": "Parva Liga",
-    "prediction": "Away Win",
+    "leagueName": "Premier League",
+    "prediction": "Home or Draw",
     "date": "2025-12-19"
   },
   {
     "id": "h8l0j5k8-8h8h-8h8h-i8h8-8h8h8h8h8h08fs",
     "teamA": {
-      "name": "Crewe",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9784.png"
+      "name": "Everton",
+      "icon": "https://storage.livescore.com/images/team/high/enet/8668.png"
     },
     "teamB": {
-      "name": "Bristol Rovers",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10104.png"
+      "name": "Arsenal",
+      "icon": "https://storage.livescore.com/images/team/high/enet/9825.png"
     },
-    "leagueName": "League 2",
-    "prediction": "1 or X",
-    "date": "2025-12-19"
+    "leagueName": "Premier League",
+    "prediction": "Away or Draw",
+    "date": "2025-12-20"
   },
   {
     "id": "h8l0j5k8-8h8h-8h8h-i8h8-8h8h8h8h8h08",
     "teamA": {
-      "name": "Hertha Berlin",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8177.png"
+      "name": "Tottenham",
+      "icon": "https://storage.livescore.com/images/team/high/teambadge/tottenham-hotspur-2024.png"
     },
     "teamB": {
-      "name": "Arminia Bielefeld",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9912.png"
+      "name": "Liverpool",
+      "icon": "hhttps://storage.livescore.com/images/team/high/teambadge/liverpool-2024.pngg"
     },
-    "leagueName": "2. Bundesliga",
-    "prediction": "1 or X",
-    "date": "2025-12-19"
+    "leagueName": "Premier League",
+    "prediction": "BTTS",
+    "date": "2025-12-20"
   },
   {
     "id": "i9m1k6l9-9i9i-9i9i-j9i9-9i9i9i9i9i09",
     "teamA": {
-      "name": "Cambuur Leeuwarden",
-      "icon": "https://storage.livescore.com/images/team/high/enet/7788.png"
+      "name": "Newcastle",
+      "icon": "https://storage.livescore.com/images/team/high/enet/10261.png"
     },
     "teamB": {
-      "name": "Maastricht",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9838.png"
+      "name": "Chelsea",
+      "icon": "https://storage.livescore.com/images/team/high/enet/8455.png"
     },
-    "leagueName": "Eerste Divisie",
-    "prediction": "Over 2.5",
-    "date": "2025-12-19"
+    "leagueName": "Premier League",
+    "prediction": "Home or Draw",
+    "date": "2025-12-20"
   },
   {
     "id": "i9m1k6l9-9i9i-9i9i-j9i9-9i9i9i9i9i09",
     "teamA": {
-      "name": "ADO Den Haag",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10217.png"
+      "name": "Wolverhampton",
+      "icon": "https://storage.livescore.com/images/team/high/enet/8602.png"
     },
     "teamB": {
-      "name": "Jong PSV",
-      "icon": "https://storage.livescore.com/images/team/high/enet/455494.png"
+      "name": "Brentford",
+      "icon": "https://storage.livescore.com/images/team/high/enet/9937.png"
     },
-    "leagueName": "Eerste Divisie",
-    "prediction": "Over 2.5",
-    "date": "2025-12-19"
+    "leagueName": "Premier League",
+    "prediction": "BTTS",
+    "date": "2025-12-20"
   },
   {
     "id": "i9m1k6l9-9i9i-9i9i-j9i9-9i9i9i9i9i09",
     "teamA": {
-      "name": "FC Botosani",
-      "icon": "https://storage.livescore.com/images/team/high/enet/188191.png"
+      "name": "Lazio",
+      "icon": "https://storage.livescore.com/images/team/high/enet/8543.png"
     },
     "teamB": {
-      "name": "CFR Cluj",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9731.png"
+      "name": "Cremonese",
+      "icon": "https://storage.livescore.com/images/team/high/enet/7801.png"
     },
-    "leagueName": "Liga 1",
-    "prediction": "Draw",
-    "date": "2025-12-19"
-  },
-  {
-    "id": "i9m1k6l9-9i9i-9i9i-j9i9-9i9i9i9i9i09",
-    "teamA": {
-      "name": "Western Sydney Wanderers",
-      "icon": "https://storage.livescore.com/images/team/high/enet/323834.png"
-    },
-    "teamB": {
-      "name": "Auckland FCt",
-      "icon": "https://storage.livescore.com/images/team/high/enet/1642068.png"
-    },
-    "leagueName": "A-League",
-    "prediction": "Over 1.5",
-    "date": "2025-12-19"
-  },
-  {
-    "id": "i9m1k6l9-9i9i-9i9i-j9i9-9i9i9i9i9i09",
-    "teamA": {
-      "name": "Swansea",
-      "icon": "https://storage.livescore.com/images/team/high/teambadge/swansea-city-2024.png"
-    },
-    "teamB": {
-      "name": "Wrexham",
-      "icon": "https://storage.livescore.com/images/team/high/teambadge/wrexham-afc-2024.pngg"
-    },
-    "leagueName": "Championship",
-    "prediction": "Under 2.5",
-    "date": "2025-12-19"
-  },
-  {
-    "id": "i9m1k6l9-9i9i-9i9i-j9i9-9i9i9i9i9i09",
-    "teamA": {
-      "name": "Valencia",
-      "icon": "https://example.com/icons/alanyaspor.png"
-    },
-    "teamB": {
-      "name": "Mallorca",
-      "icon": "https://example.com/icons/antalyaspor.png"
-    },
-    "leagueName": "Süper Lig",
+    "leagueName": "Serie A",
     "prediction": "Home Win",
-    "date": "2025-12-08"
+    "date": "2025-12-20"
   },
   {
     "id": "i9m1k6l9-9i9i-9i9i-j9i9-9i9i9i9i9i09",
     "teamA": {
-      "name": "VVV-Venlo",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9839.png"
+      "name": "Vfb Stuttgart",
+      "icon": "https://storage.livescore.com/images/team/high/enet/10269.png"
     },
     "teamB": {
-      "name": "FC Dordrecht",
-      "icon": "https://storage.livescore.com/images/team/high/enet/6631.png"
+      "name": "Hoffenheim",
+      "icon": "https://storage.livescore.com/images/team/high/enet/8226.png"
     },
-    "leagueName": "Eerste Divisie",
-    "prediction": "Over 1.5",
-    "date": "2025-12-19"
+    "leagueName": "Bundesligae",
+    "prediction": "Home Win",
+    "date": "2025-12-20"
   },
   {
     "id": "i9m1k6l9-9i9i-9i9i-j9i9-9i9i9i9i9i09",
     "teamA": {
-      "name": "Bari",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9976.png"
+      "name": "Juventus",
+      "icon": "https://storage.livescore.com/images/team/high/enet/9885.png"
     },
     "teamB": {
-      "name": "Catanzaro",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10168.png"
+      "name": "AS Roma",
+      "icon": "https://storage.livescore.com/images/team/high/enet/8686.png"
     },
-    "leagueName": "Serie B",
-    "prediction": "Under 2.5",
-    "date": "2025-12-19"
-  },
-  {
-    "id": "i9m1k6l9-9i9i-9i9i-j9i9-9i9i9i9i9i09",
-    "teamA": {
-      "name": "Estoril",
-      "icon": "https://storage.livescore.com/images/team/high/enet/7842.png"
-    },
-    "teamB": {
-      "name": "Braga",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10264.png"
-    },
-    "leagueName": "Primeira Liga",
-    "prediction": "Away Win",
-    "date": "2025-12-19"
+    "leagueName": "Serie A",
+    "prediction": "1st Half Draw",
+    "date": "2025-12-20"
   }
 ]
 
