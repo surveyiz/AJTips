@@ -217,7 +217,7 @@
   
   {
     "id": "live_01",
-    "league": "Championship",
+    "league": "Serie A",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-italy-serie-a.png",
     "teamA": { "name": "Juventus", "icon": "https://storage.livescore.com/images/team/high/enet/9885.png" },
     "teamB": { "name": "AS Roma", "icon": "https://storage.livescore.com/images/team/high/enet/8686.png" },
