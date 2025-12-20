@@ -2,197 +2,29 @@
   {
     "id": "e5i7g2h5-5e5e-5e5e-f5e5-5e5e5e5e5e05",
     "teamA": {
-      "name": "Wolverhampton Wanderers",
-      "icon": "https://example.com/icons/wolverhampton-wanderers.png"
+      "name": "Asteras Tripoli",
+      "icon": "https://www.forebet.com/images/icons/1382.png"
     },
     "teamB": {
-      "name": "Manchester United",
-      "icon": "https://example.com/icons/manchester-united.png"
+      "name": "Aris Salonica",
+      "icon": "https://www.forebet.com/images/icons/1384.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "AWAY WIN",
-    "date": "2025-12-09"
+    "leagueName": "Greece Super League",
+    "prediction": "Draw",
+    "date": "2025-12-20"
   },
   {
     "id": "f6j8h3i6-6f6f-6f6f-g6f6-6f6f6f6f6f06",
     "teamA": {
-      "name": "Osasuna",
-      "icon": "https://example.com/icons/osasuna.png"
+      "name": "Wolfsburg",
+      "icon": "https://www.forebet.com/images/icons/442.png"
     },
     "teamB": {
-      "name": "Levante",
-      "icon": "https://example.com/icons/levante.png"
+      "name": "Freiburg",
+      "icon": "https://www.forebet.com/images/icons/446.png"
     },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN",
-    "date": "2025-12-09"
-  },
-  {
-    "id": "g7k9i4j7-7g7g-7g7g-h7g7-7g7g7g7g7g07",
-    "teamA": {
-      "name": "Torino",
-      "icon": "https://example.com/icons/torino.png"
-    },
-    "teamB": {
-      "name": "AC Milan",
-      "icon": "https://example.com/icons/ac-milan.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "AWAY WIN",
-    "date": "2025-12-09"
-  },
-  {
-    "id": "h8l0j5k8-8h8h-8h8h-i8h8-8h8h8h8h8h08",
-    "teamA": {
-      "name": "Udinese",
-      "icon": "https://example.com/icons/udinese.png"
-    },
-    "teamB": {
-      "name": "Genoa",
-      "icon": "https://example.com/icons/genoa.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "DRAW",
-    "date": "2025-12-09"
-  },
-  {
-    "id": "i9m1k6l9-9i9i-9i9i-j9i9-9i9i9i9i9i09",
-    "teamA": {
-      "name": "Alanyaspor",
-      "icon": "https://example.com/icons/alanyaspor.png"
-    },
-    "teamB": {
-      "name": "Antalyaspor",
-      "icon": "https://example.com/icons/antalyaspor.png"
-    },
-    "leagueName": "Süper Lig",
-    "prediction": "HOME WIN",
-    "date": "2025-12-08"
-  },
-  {
-    "id": "j0n2l7m0-0j0j-0j0j-k0j0-0j0j0j0j0j10",
-    "teamA": {
-      "name": "Brackley Town",
-      "icon": "https://example.com/icons/brackley-town.png"
-    },
-    "teamB": {
-      "name": "Burton Albion",
-      "icon": "https://example.com/icons/burton-albion.png"
-    },
-    "leagueName": "FA Cup",
-    "prediction": "AWAY WIN",
-    "date": "2025-12-08"
-  },
-  {
-    "id": "k1o3m8n1-1k1k-1k1k-l1k1-1k1k1k1k1k11",
-    "teamA": {
-      "name": "Vitoria de Guimaraes",
-      "icon": "https://example.com/icons/vitoria-de-guimaraes.png"
-    },
-    "teamB": {
-      "name": "Gil Vicente",
-      "icon": "https://example.com/icons/gil-vicente.png"
-    },
-    "leagueName": "Primeira Liga",
-    "prediction": "HOME WIN",
-    "date": "2025-12-08"
-  },
-  {
-    "id": "l2p4n9o2-2l2l-2l2l-m2l2-2l2l2l2l2l12",
-    "teamA": {
-      "name": "West Ham United",
-      "icon": "https://example.com/icons/west-ham-united.png"
-    },
-    "teamB": {
-      "name": "Brighton & Hove Albion",
-      "icon": "https://example.com/icons/brighton-hove-albion.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "DRAW",
-    "date": "2025-12-08"
-  },
-  {
-    "id": "m3q5o0p3-3m3m-3m3m-n3m3-3m3m3m3m3m13",
-    "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://example.com/icons/crystal-palace.png"
-    },
-    "teamB": {
-      "name": "Fulham",
-      "icon": "https://example.com/icons/fulham.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN",
-    "date": "2025-12-08"
-  },
-  {
-    "id": "n4r6p1q4-4n4n-4n4n-o4n4-4n4n4n4n4n14",
-    "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://example.com/icons/real-madrid.png"
-    },
-    "teamB": {
-      "name": "Celta Vigo",
-      "icon": "https://example.com/icons/celta-vigo.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN",
-    "date": "2025-12-08"
-  },
-  {
-    "id": "o5s7q2r5-5o5o-5o5o-p5o5-5o5o5o5o5o15",
-    "teamA": {
-      "name": "Elche",
-      "icon": "https://example.com/icons/elche.png"
-    },
-    "teamB": {
-      "name": "Girona",
-      "icon": "https://example.com/icons/girona.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "AWAY WIN",
-    "date": "2025-12-08"
-  },
-  {
-    "id": "p6t8r3s6-6p6p-6p6p-q6p6-6p6p6p6p6p16",
-    "teamA": {
-      "name": "Valencia",
-      "icon": "https://example.com/icons/valencia.png"
-    },
-    "teamB": {
-      "name": "Sevilla",
-      "icon": "https://example.com/icons/sevilla.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "DRAW",
-    "date": "2025-12-08"
-  },
-  {
-    "id": "q7u9s4t7-7q7q-7q7q-r7q7-7q7q7q7q7q17",
-    "teamA": {
-      "name": "Espanyol",
-      "icon": "https://example.com/icons/espanyol.png"
-    },
-    "teamB": {
-      "name": "Rayo Vallecano",
-      "icon": "https://example.com/icons/rayo-vallecano.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN",
-    "date": "2025-12-08"
-  },
-  {
-    "id": "r8v0t5u8-8r8r-8r8r-s8r8-8r8r8r8r8r18",
-    "teamA": {
-      "name": "Napoli",
-      "icon": "https://example.com/icons/napoli.png"
-    },
-    "teamB": {
-      "name": "Juventus",
-      "icon": "https://example.com/icons/juventus.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "DRAW",
-    "date": "2025-12-08"
+    "leagueName": "Bundesliga",
+    "prediction": "Draw",
+    "date": "2025-12-20"
   }
 ]
