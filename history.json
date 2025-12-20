@@ -19,7 +19,7 @@
         { "teamA": "Bologna", "teamB": "Inter", "prediction": "BTTS", "odds": "1.55", "results": "Win" },
       
         { "teamA": "FC Vaduz", "teamB": "FC Aarau", "prediction": "Home Win", "odds": "2.12", "results": "Win" }
-      ,
+      ],
       "Draw Tips": [
         { "teamA": "Sporting Charleroi", "teamB": "Racing Genk", "prediction": "X", "odds": "3.10", "results": "Win" },
       
