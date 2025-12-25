@@ -2,128 +2,86 @@
   {
     "id": "e5i7g2h5-5e5e-5e5e-f5e5-5e5e5e5e5e05",
     "teamA": {
-      "name": "Man City",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8456.png"
+      "name": "MOIK Baku",
+      "icon": "https://www.forebet.com/images/icons/2775.png"
     },
     "teamB": {
-      "name": "West Ham",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8654.png"
+      "name": "Shafa Baku",
+      "icon": "https://www.forebet.com/images/icons/blank-logo.png"
     },
-    "leagueName": "Premier league",
-    "prediction": "Home Win",
-    "date": "2025-12-20"
+    "leagueName": "Azerbaijan I Liqa",
+    "prediction": "Away Win",
+    "date": "2025-12-25"
   },
   {
     "id": "f6j8h3i6-6f6f-6f6f-g6f6-6f6f6f6f6f06",
     "teamA": {
-      "name": "Bournemouth",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8678.png"
+      "name": "Hapoel Raanana",
+      "icon": "https://www.forebet.com/images/icons/1647.png"
     },
     "teamB": {
-      "name": "Burnley",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8191.png"
+      "name": "Ironi Kiryat Gat",
+      "icon": "https://www.forebet.com/images/icons/blank-logo.png"
     },
     "leagueName": "Premier League",
-    "prediction": "Home or Draw",
-    "date": "2025-12-19"
+    "prediction": "Away or Draw",
+    "date": "2025-12-25"
   },
   {
     "id": "h8l0j5k8-8h8h-8h8h-i8h8-8h8h8h8h8h08fs",
     "teamA": {
-      "name": "Everton",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8668.png"
+      "name": "Hapoel Tel Aviv",
+      "icon": "https://www.forebet.com/images/icons/1018.png"
     },
     "teamB": {
-      "name": "Arsenal",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9825.png"
+      "name": "FC Ashdod",
+      "icon": "https://www.forebet.com/images/icons/1628.png"
     },
     "leagueName": "Premier League",
-    "prediction": "Away or Draw",
-    "date": "2025-12-20"
+    "prediction": "Home Win",
+    "date": "2025-12-25"
   },
   {
     "id": "h8l0j5k8-8h8h-8h8h-i8h8-8h8h8h8h8h08",
     "teamA": {
-      "name": "Tottenham",
-      "icon": "https://img.sofascore.com/api/v1/team/33/image.png"
+      "name": "CR Belouizdad",
+      "icon": "https://www.forebet.com/images/icons/2694.png"
     },
     "teamB": {
-      "name": "Liverpool",
-      "icon": "https://storage.livescore.com/images/team/high/teambadge/liverpool-2024.png"
+      "name": "ES Sétif",
+      "icon": "https://www.forebet.com/images/icons/2698.png"
     },
     "leagueName": "Premier League",
-    "prediction": "BTTS",
-    "date": "2025-12-20"
+    "prediction": "HT Draw",
+    "date": "2025-12-25"
   },
   {
     "id": "i9m1k6l9-9i9i-9i9i-j9i9-9i9i9i9i9i09",
     "teamA": {
-      "name": "Newcastle",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10261.png"
+      "name": "Esteghlal Khuzestan",
+      "icon": "https://www.forebet.com/images/icons/4209.png"
     },
     "teamB": {
-      "name": "Chelsea",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8455.png"
+      "name": "Zob Ahan",
+      "icon": "https://www.forebet.com/images/icons/4210.png"
     },
     "leagueName": "Premier League",
-    "prediction": "Home or Draw",
-    "date": "2025-12-20"
+    "prediction": "Under 2.5",
+    "date": "2025-12-25"
   },
   {
     "id": "i9m1k6l9-9i9i-9i9i-j9i9-9i9i9i9i9i09",
     "teamA": {
-      "name": "Wolverhampton",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8602.png"
+      "name": "Dairut SC ",
+      "icon": "https://www.forebet.com/images/icons/16326.png"
     },
     "teamB": {
-      "name": "Brentford",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9937.png"
+      "name": "Al Qanah",
+      "icon": "https://www.forebet.com/images/icons/3597.png"
     },
     "leagueName": "Premier League",
-    "prediction": "BTTS",
-    "date": "2025-12-20"
-  },
-  {
-    "id": "i9m1k6l9-9i9i-9i9i-j9i9-9i9i9i9i9i09",
-    "teamA": {
-      "name": "Lazio",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8543.png"
-    },
-    "teamB": {
-      "name": "Cremonese",
-      "icon": "https://storage.livescore.com/images/team/high/enet/7801.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "Home Win",
-    "date": "2025-12-20"
-  },
-  {
-    "id": "i9m1k6l9-9i9i-9i9i-j9i9-9i9i9i9i9i09",
-    "teamA": {
-      "name": "Vfb Stuttgart",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10269.png"
-    },
-    "teamB": {
-      "name": "Hoffenheim",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8226.png"
-    },
-    "leagueName": "Bundesligae",
-    "prediction": "Home Win",
-    "date": "2025-12-20"
-  },
-  {
-    "id": "i9m1k6l9-9i9i-9i9i-j9i9-9i9i9i9i9i09",
-    "teamA": {
-      "name": "Juventus",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9885.png"
-    },
-    "teamB": {
-      "name": "AS Roma",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8686.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "1st Half Draw",
-    "date": "2025-12-20"
+    "prediction": "HT Draw",
+    "date": "2025-12-25"
   }
 ]
 
