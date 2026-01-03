@@ -1,5 +1,33 @@
 [
   {
+    "date": "Jan 02, 2026",
+    "categories": {
+      "Daily Correct Score": [
+        { "teamA": "Rayo Vallecano", "teamB": "Getafe", "prediction": "1-1", "odds": "6.00", "results": "Win" },
+        { "teamA": "Cagliari", "teamB": "AC Milan", "prediction": "0-2", "odds": "7.50", "results": "Win" }
+      ],
+      "Premium Tips": [
+        { "teamA": "Gil Vicente", "teamB": "Sporting CP", "prediction": "Away Win", "odds": "1.45", "results": "Win" },
+        { "teamA": "Vitoria de Guimaraes", "teamB": "Nacional", "prediction": "Home Win", "odds": "1.60", "results": "Win" },
+        { "teamA": "Toulouse", "teamB": "Lens", "prediction": "Away Win", "odds": "2.10", "results": "Win" }
+      ],
+      "Basic Tips": [
+        { "teamA": "Melbourne Victory", "teamB": "Perth Glory", "prediction": "Home Win", "odds": "1.50", "results": "Win" },
+        { "teamA": "Cagliari", "teamB": "AC Milan", "prediction": "Over 1.5", "odds": "1.25", "results": "Win" },
+        { "teamA": "Rayo Vallecano", "teamB": "Getafe", "prediction": "Under 2.5", "odds": "1.55", "results": "Win" }
+      ],
+      "Draw Tips": [
+        { "teamA": "Rayo Vallecano", "teamB": "Getafe", "prediction": "X", "odds": "3.10", "results": "Win" }
+      ],
+      "Free Tips": [
+        { "teamA": "Toulouse", "teamB": "Lens", "prediction": "BTTS", "odds": "1.75", "results": "Win" },
+        { "teamA": "Vitoria de Guimaraes", "teamB": "Nacional", "prediction": "Over 2.5", "odds": "1.80", "results": "Win" },
+        { "teamA": "Gil Vicente", "teamB": "Sporting CP", "prediction": "Over 2.5", "odds": "1.65", "results": "Win" },
+        { "teamA": "Melbourne Victory", "teamB": "Perth Glory", "prediction": "BTTS", "odds": "1.60", "results": "Loss" }
+      ]
+    }
+  },
+  {
     "date": "Jan 01, 2026",
     "categories": {
       "Daily Correct Score": [
