@@ -1,5 +1,34 @@
 [
   {
+    "date": "Jan 03, 2026",
+    "categories": {
+      "Daily Correct Score": [
+        { "teamA": "Bournemouth", "teamB": "Arsenal", "prediction": "2-3", "odds": "21.00", "results": "Win" },
+        { "teamA": "Wolves", "teamB": "West Ham", "prediction": "3-0", "odds": "15.00", "results": "Win" }
+      ],
+      "Premium Tips": [
+        { "teamA": "Aston Villa", "teamB": "Nott'm Forest", "prediction": "Home Win", "odds": "1.55", "results": "Win" },
+        { "teamA": "Monaco", "teamB": "Lyon", "prediction": "Over 2.5", "odds": "1.60", "results": "Win" },
+        { "teamA": "Celtic", "teamB": "Rangers", "prediction": "Over 2.5", "odds": "1.70", "results": "Win" }
+      ],
+      "Basic Tips": [
+        { "teamA": "Espanyol", "teamB": "Barcelona", "prediction": "Away Win", "odds": "1.65", "results": "Win" },
+        { "teamA": "Juventus", "teamB": "Lecce", "prediction": "Under 2.5", "odds": "1.90", "results": "Win" },
+        { "teamA": "Bournemouth", "teamB": "Arsenal", "prediction": "Away Win", "odds": "1.45", "results": "Win" }
+      ],
+      "Draw Tips": [
+        { "teamA": "Brighton", "teamB": "Burnley", "prediction": "X", "odds": "3.50", "results": "Loss" },
+        { "teamA": "Juventus", "teamB": "Lecce", "prediction": "X", "odds": "4.20", "results": "Win" }
+      ],
+      "Free Tips": [
+        { "teamA": "Wolves", "teamB": "West Ham", "prediction": "Home Win", "odds": "2.40", "results": "Win" },
+        { "teamA": "Celta Vigo", "teamB": "Valencia", "prediction": "BTTS", "odds": "1.80", "results": "Win" },
+        { "teamA": "Osasuna", "teamB": "Athletic Club", "prediction": "Under 2.5", "odds": "1.60", "results": "Win" },
+        { "teamA": "Benfica", "teamB": "Estoril", "prediction": "Home Win", "odds": "1.25", "results": "Win" }
+      ]
+    }
+  },
+  {
     "date": "Jan 02, 2026",
     "categories": {
       "Daily Correct Score": [
