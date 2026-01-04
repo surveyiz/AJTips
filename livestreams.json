@@ -1,325 +1,222 @@
 [
   {
-    "id": "live_01",
-    "league": "Scottish Premiership",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-scotland-premiership.png",
-    "teamA": {
-      "name": "Celtic",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9925.png"
-    },
-    "teamB": {
-      "name": "Rangers",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9927.png"
-    },
+    "id": "live_pl_01",
+    "league": "Premier League",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-england-premier-league.png",
+    "teamA": { "name": "Leeds United", "icon": "https://storage.livescore.com/images/team/high/enet/8463.png" },
+    "teamB": { "name": "Manchester United", "icon": "https://storage.livescore.com/images/team/medium/enet/10260.png" },
     "startTime": "15:30",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2025/01/celtic-vs-rangers.jpg",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/leeds-vs-man-utd.jpg",
     "isYoutube": false
   },
   {
-    "id": "live_02",
+    "id": "live_pl_02",
     "league": "Premier League",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-england-premier-league.png",
-    "teamA": {
-      "name": "Wolves",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8602.png"
-    },
-    "teamB": {
-      "name": "West Ham",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8654.png"
-    },
+    "teamA": { "name": "Fulham", "icon": "https://storage.livescore.com/images/team/high/enet/9879.png" },
+    "teamB": { "name": "Liverpool", "icon": "https://storage.livescore.com/images/team/medium/teambadge/liverpool-2024.png" },
     "startTime": "18:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": "",
     "isYoutube": false
   },
   {
-    "id": "live_03",
+    "id": "live_pl_03",
     "league": "Premier League",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-england-premier-league.png",
-    "teamA": {
-      "name": "Brighton",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10204.png"
-    },
-    "teamB": {
-      "name": "Burnley",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8191.png"
-    },
+    "teamA": { "name": "Tottenham", "icon": "https://storage.livescore.com/images/team/high/enet/8586.png" },
+    "teamB": { "name": "Sunderland", "icon": "https://storage.livescore.com/images/team/high/enet/8472.png" },
     "startTime": "18:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": "",
     "isYoutube": false
   },
   {
-    "id": "live_04",
+    "id": "live_pl_04",
     "league": "Premier League",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-england-premier-league.png",
-    "teamA": {
-      "name": "Manchester United",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/10260.png"
-    },
-    "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10252.png"
-    },
+    "teamA": { "name": "Everton", "icon": "https://storage.livescore.com/images/team/high/enet/8668.png" },
+    "teamB": { "name": "Brentford", "icon": "https://storage.livescore.com/images/team/high/enet/9937.png" },
     "startTime": "18:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": "",
     "isYoutube": false
   },
   {
-    "id": "live_05",
+    "id": "live_pl_05",
     "league": "Premier League",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-england-premier-league.png",
-    "teamA": {
-      "name": "Liverpool",
-      "icon": "https://storage.livescore.com/images/team/medium/teambadge/liverpool-2024.png"
-    },
-    "teamB": {
-      "name": "Nottingham Forest",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10203.png"
-    },
+    "teamA": { "name": "Newcastle United", "icon": "https://storage.livescore.com/images/team/high/enet/10261.png" },
+    "teamB": { "name": "Crystal Palace", "icon": "https://storage.livescore.com/images/team/high/enet/9826.png" },
     "startTime": "18:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": "",
     "isYoutube": false
   },
   {
-    "id": "live_06",
+    "id": "live_pl_06",
     "league": "Premier League",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-england-premier-league.png",
-    "teamA": {
-      "name": "Manchester City",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8456.png"
-    },
-    "teamB": {
-      "name": "Tottenham",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8586.png"
-    },
-    "startTime": "18:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_07",
-    "league": "Ligue 1",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-france-ligue-1.png",
-    "teamA": {
-      "name": "Monaco",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9827.png"
-    },
-    "teamB": {
-      "name": "Lyon",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9748.png"
-    },
-    "startTime": "19:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_08",
-    "league": "Serie A",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-italy-serie-a.png",
-    "teamA": {
-      "name": "Juventus",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9885.png"
-    },
-    "teamB": {
-      "name": "Lecce",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9888.png"
-    },
-    "startTime": "20:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_09",
-    "league": "Premier League",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-england-premier-league.png",
-    "teamA": {
-      "name": "Bournemouth",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8678.png"
-    },
-    "teamB": {
-      "name": "Arsenal",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9825.png"
-    },
+    "teamA": { "name": "Manchester City", "icon": "https://storage.livescore.com/images/team/medium/enet/8456.png" },
+    "teamB": { "name": "Chelsea", "icon": "https://storage.livescore.com/images/team/high/enet/8455.png" },
     "startTime": "20:30",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2025/01/bournemouth-vs-arsenal.jpg",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/man-city-vs-chelsea.jpg",
     "isYoutube": false
   },
   {
-    "id": "live_10",
+    "id": "live_sa_01",
     "league": "Serie A",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-italy-serie-a.png",
-    "teamA": {
-      "name": "Atalanta",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8524.png"
-    },
-    "teamB": {
-      "name": "Roma",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8686.png"
-    },
-    "startTime": "21:45",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_11",
-    "league": "La Liga",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-spain-laliga.png",
-    "teamA": {
-      "name": "Espanyol",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8558.png"
-    },
-    "teamB": {
-      "name": "Barcelona",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8634.png"
-    },
-    "startTime": "22:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2025/01/espanyol-vs-barcelona.jpg",
-    "isYoutube": false
-  },
-  {
-    "id": "live_12",
-    "league": "La Liga",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-spain-laliga.png",
-    "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8633.png"
-    },
-    "teamB": {
-      "name": "Sevilla",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8302.png"
-    },
-    "startTime": "22:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_13",
-    "league": "La Liga",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-spain-laliga.png",
-    "teamA": {
-      "name": "Celta Vigo",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8560.png"
-    },
-    "teamB": {
-      "name": "Valencia",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10267.png"
-    },
-    "startTime": "16:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_14",
-    "league": "La Liga",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-spain-laliga.png",
-    "teamA": {
-      "name": "Osasuna",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8371.png"
-    },
-    "teamB": {
-      "name": "Athletic Club",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8315.png"
-    },
-    "startTime": "18:15",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_15",
-    "league": "Ligue 1",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-france-ligue-1.png",
-    "teamA": {
-      "name": "Nice",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9829.png"
-    },
-    "teamB": {
-      "name": "Strasbourg",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9848.png"
-    },
-    "startTime": "19:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_16",
-    "league": "Ligue 1",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-france-ligue-1.png",
-    "teamA": {
-      "name": "Lille",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8639.png"
-    },
-    "teamB": {
-      "name": "Rennes",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9851.png"
-    },
-    "startTime": "21:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_17",
-    "league": "Primeira Liga",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-portugal-liga-portugal.png",
-    "teamA": {
-      "name": "Benfica",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9772.png"
-    },
-    "teamB": {
-      "name": "Estoril",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9773.png"
-    },
-    "startTime": "21:30",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_18",
-    "league": "Serie A",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-italy-serie-a.png",
-    "teamA": {
-      "name": "Como",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8534.png"
-    },
-    "teamB": {
-      "name": "Udinese",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8600.png"
-    },
+    "teamA": { "name": "Lazio", "icon": "https://storage.livescore.com/images/team/high/enet/8543.png" },
+    "teamB": { "name": "Napoli", "icon": "https://storage.livescore.com/images/team/high/enet/9875.png" },
     "startTime": "14:30",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": "",
     "isYoutube": false
   },
   {
-    "id": "live_19",
+    "id": "live_sa_02",
     "league": "Serie A",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-italy-serie-a.png",
-    "teamA": {
-      "name": "Genoa",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10233.png"
-    },
-    "teamB": {
-      "name": "Pisa",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8568.png"
-    },
+    "teamA": { "name": "Fiorentina", "icon": "https://storage.livescore.com/images/team/high/enet/8535.png" },
+    "teamB": { "name": "Cremonese", "icon": "https://storage.livescore.com/images/team/high/enet/7801.png" },
     "startTime": "17:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": "",
+    "isYoutube": false
+  },
+  {
+    "id": "live_sa_03",
+    "league": "Serie A",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-italy-serie-a.png",
+    "teamA": { "name": "Verona", "icon": "https://storage.livescore.com/images/team/high/enet/9876.png" },
+    "teamB": { "name": "Torino", "icon": "https://storage.livescore.com/images/team/high/enet/9804.png" },
+    "startTime": "20:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "",
+    "isYoutube": false
+  },
+  {
+    "id": "live_sa_04",
+    "league": "Serie A",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-italy-serie-a.png",
+    "teamA": { "name": "Inter", "icon": "https://storage.livescore.com/images/team/high/enet/8636.png" },
+    "teamB": { "name": "Bologna", "icon": "https://storage.livescore.com/images/team/high/enet/9857.png" },
+    "startTime": "22:45",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/inter-vs-bologna.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_ll_01",
+    "league": "La Liga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-spain-laliga.png",
+    "teamA": { "name": "Sevilla", "icon": "https://storage.livescore.com/images/team/high/enet/8302.png" },
+    "teamB": { "name": "Levante", "icon": "https://storage.livescore.com/images/team/high/enet/8581.png" },
+    "startTime": "16:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "",
+    "isYoutube": false
+  },
+  {
+    "id": "live_ll_02",
+    "league": "La Liga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-spain-laliga.png",
+    "teamA": { "name": "Real Madrid", "icon": "https://storage.livescore.com/images/team/medium/enet/8633.png" },
+    "teamB": { "name": "Real Betis", "icon": "https://storage.livescore.com/images/team/high/enet/8603.png" },
+    "startTime": "18:15",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/real-madrid-vs-betis.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_ll_03",
+    "league": "La Liga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-spain-laliga.png",
+    "teamA": { "name": "Mallorca", "icon": "https://storage.livescore.com/images/team/high/enet/8306.png" },
+    "teamB": { "name": "Girona", "icon": "https://storage.livescore.com/images/team/high/enet/9812.png" },
+    "startTime": "20:30",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "",
+    "isYoutube": false
+  },
+  {
+    "id": "live_ll_04",
+    "league": "La Liga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-spain-laliga.png",
+    "teamA": { "name": "Alaves", "icon": "https://storage.livescore.com/images/team/high/enet/8319.png" },
+    "teamB": { "name": "Real Oviedo", "icon": "https://storage.livescore.com/images/team/high/enet/8581.png" },
+    "startTime": "20:30",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "",
+    "isYoutube": false
+  },
+  {
+    "id": "live_ll_05",
+    "league": "La Liga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-spain-laliga.png",
+    "teamA": { "name": "Real Sociedad", "icon": "https://storage.livescore.com/images/team/high/enet/8560.png" },
+    "teamB": { "name": "Atletico Madrid", "icon": "https://storage.livescore.com/images/team/high/enet/9906.png" },
+    "startTime": "23:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/sociedad-vs-atletico.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_l1_01",
+    "league": "Ligue 1",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-france-ligue-1.png",
+    "teamA": { "name": "Marseille", "icon": "https://storage.livescore.com/images/team/high/enet/8592.png" },
+    "teamB": { "name": "Nantes", "icon": "https://storage.livescore.com/images/team/high/enet/9831.png" },
+    "startTime": "17:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "",
+    "isYoutube": false
+  },
+  {
+    "id": "live_l1_02",
+    "league": "Ligue 1",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-france-ligue-1.png",
+    "teamA": { "name": "Brest", "icon": "https://storage.livescore.com/images/team/high/enet/8521.png" },
+    "teamB": { "name": "Auxerre", "icon": "https://storage.livescore.com/images/team/high/enet/8583.png" },
+    "startTime": "19:15",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "",
+    "isYoutube": false
+  },
+  {
+    "id": "live_l1_03",
+    "league": "Ligue 1",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-france-ligue-1.png",
+    "teamA": { "name": "Le Havre", "icon": "https://storage.livescore.com/images/team/high/enet/9746.png" },
+    "teamB": { "name": "Angers", "icon": "https://storage.livescore.com/images/team/high/enet/8121.png" },
+    "startTime": "19:15",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "",
+    "isYoutube": false
+  },
+  {
+    "id": "live_l1_04",
+    "league": "Ligue 1",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-france-ligue-1.png",
+    "teamA": { "name": "Lorient", "icon": "https://storage.livescore.com/images/team/high/enet/8590.png" },
+    "teamB": { "name": "Metz", "icon": "https://storage.livescore.com/images/team/high/enet/8550.png" },
+    "startTime": "19:15",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "",
+    "isYoutube": false
+  },
+  {
+    "id": "live_l1_05",
+    "league": "Ligue 1",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-france-ligue-1.png",
+    "teamA": { "name": "PSG", "icon": "https://storage.livescore.com/images/team/high/enet/9847.png" },
+    "teamB": { "name": "Paris FC", "icon": "https://storage.livescore.com/images/team/high/enet/9828.png" },
+    "startTime": "22:45",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/psg-vs-paris-fc.jpg",
     "isYoutube": false
   }
 ]
