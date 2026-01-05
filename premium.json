@@ -1,114 +1,58 @@
 [
   {
-    "id": "b2c3d4e5-2b2b-2b2b-c2b2-2b2b2b2b2b51",
+    "id": "match_prem_01_af_2026",
     "teamA": {
-      "name": "Brighton & Hove Albion",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10204.png"
+      "name": "Nigeria",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/nigeria.png"
     },
     "teamB": {
-      "name": "Burnley",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8191.png"
+      "name": "Mozambique",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/mozambique.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "DRAW",
-    "date": "2026-01-03"
+    "leagueName": "Africa Cup of Nations",
+    "prediction": "Home Win",
+    "date": "2026-01-05"
   },
   {
-    "id": "c3d4e5f6-3c3c-3c3c-d3c3-3c3c3c3c3c52",
+    "id": "match_prem_02_tr_2026",
     "teamA": {
-      "name": "Celta Vigo",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8560.png"
+      "name": "Galatasaray",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8637.png"
     },
     "teamB": {
-      "name": "Valencia",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10267.png"
+      "name": "Trabzonspor",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9752.png"
     },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN",
-    "date": "2026-01-03"
+    "leagueName": "Turkish Super Cup",
+    "prediction": "Home Win",
+    "date": "2026-01-05"
   },
   {
-    "id": "d4e5f6g7-4d4d-4d4d-e4d4-4d4d4d4d4d53",
+    "id": "match_prem_03_it_2026",
     "teamA": {
-      "name": "Osasuna",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8371.png"
+      "name": "Benevento",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9974.png"
     },
     "teamB": {
-      "name": "Athletic Club",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8315.png"
+      "name": "Crotone",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9881.png"
     },
-    "leagueName": "La Liga",
-    "prediction": "DRAW",
-    "date": "2026-01-03"
+    "leagueName": "Serie C",
+    "prediction": "Home Win",
+    "date": "2026-01-05"
   },
   {
-    "id": "e5f6g7h8-5e5e-5e5e-f5e5-5e5e5e5e5e54",
+    "id": "match_prem_04_af_2026",
     "teamA": {
-      "name": "Celtic",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9925.png"
+      "name": "Egypt",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/egypt.png"
     },
     "teamB": {
-      "name": "Rangers",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9927.png"
+      "name": "Benin",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/benin.png"
     },
-    "leagueName": "Scottish Premiership",
-    "prediction": "HOME WIN",
-    "date": "2026-01-03"
-  },
-  {
-    "id": "f6g7h8i9-6f6f-6f6f-g6f6-6f6f6f6f6f55",
-    "teamA": {
-      "name": "Aston Villa",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10252.png"
-    },
-    "teamB": {
-      "name": "Nottingham Forest",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10203.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN",
-    "date": "2026-01-03"
-  },
-  {
-    "id": "g7h8i9j0-7g7g-7g7g-h7g7-7g7g7g7g7g56",
-    "teamA": {
-      "name": "Espanyol",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8558.png"
-    },
-    "teamB": {
-      "name": "Barcelona",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8634.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-03"
-  },
-  {
-    "id": "i9j0k1l2-9i9i-9i9i-j9i9-9i9i9i9i9i58",
-    "teamA": {
-      "name": "Monaco",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9827.png"
-    },
-    "teamB": {
-      "name": "Lyon",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9748.png"
-    },
-    "leagueName": "Ligue 1",
-    "prediction": "HOME WIN",
-    "date": "2026-01-03"
-  },
-  {
-    "id": "j0k1l2m3-0j0j-0j0j-k0j0-0j0j0j0j0j59",
-    "teamA": {
-      "name": "Juventus",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9885.png"
-    },
-    "teamB": {
-      "name": "Lecce",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9888.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "HOME WIN",
-    "date": "2026-01-03"
+    "leagueName": "Africa Cup of Nations",
+    "prediction": "Home Win",
+    "date": "2026-01-05"
   }
 ]
