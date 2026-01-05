@@ -1,5 +1,33 @@
 [
   {
+    "date": "Jan 04, 2026",
+    "categories": {
+      "Daily Correct Score": [
+        { "teamA": "Man City", "teamB": "Chelsea", "prediction": "2-1", "odds": "8.50", "results": "Win" },
+        { "teamA": "Real Madrid", "teamB": "Real Betis", "prediction": "3-1", "odds": "11.00", "results": "Win" }
+      ],
+      "Premium Tips": [
+        { "teamA": "Leeds United", "teamB": "Man Utd", "prediction": "Away Win", "odds": "1.75", "results": "Win" },
+        { "teamA": "Inter", "teamB": "Bologna", "prediction": "Home Win", "odds": "1.45", "results": "Win" },
+        { "teamA": "Fulham", "teamB": "Liverpool", "prediction": "Away Win", "odds": "1.55", "results": "Win" }
+      ],
+      "Basic Tips": [
+        { "teamA": "Lazio", "teamB": "Napoli", "prediction": "BTTS", "odds": "1.65", "results": "Win" },
+        { "teamA": "Real Sociedad", "teamB": "Atl. Madrid", "prediction": "Under 2.5", "odds": "1.60", "results": "Win" },
+        { "teamA": "Everton", "teamB": "Brentford", "prediction": "Home Win", "odds": "2.10", "results": "Win" }
+      ],
+      "Draw Tips": [
+        { "teamA": "Newcastle", "teamB": "Crystal Palace", "prediction": "X", "odds": "3.40", "results": "Win" }
+      ],
+      "Free Tips": [
+        { "teamA": "Mallorca", "teamB": "Girona", "prediction": "Away Win", "odds": "2.20", "results": "Win" },
+        { "teamA": "Sevilla", "teamB": "Levante", "prediction": "Home Win", "odds": "1.50", "results": "Loss" },
+        { "teamA": "Tottenham", "teamB": "Sunderland", "prediction": "Over 2.5", "odds": "1.45", "results": "Win" },
+        { "teamA": "Fiorentina", "teamB": "Cremonese", "prediction": "Home Win", "odds": "1.35", "results": "Win" }
+      ]
+    }
+  },
+  {
     "date": "Jan 03, 2026",
     "categories": {
       "Daily Correct Score": [
