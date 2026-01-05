@@ -1,86 +1,86 @@
 [
   {
-    "id": "y5c7d8e9-9y9y-9y9y-z9y9-9y9y9y9y9y25",
+    "id": "match_01_ch_2026_leicester",
     "teamA": {
-      "name": "Celtic",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9925.png"
+      "name": "Leicester City",
+      "icon": "https://storage.livescore.com/images/team/medium/teambadge/leicester-city-2024.png"
     },
     "teamB": {
-      "name": "Rangers",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9927.png"
+      "name": "West Brom",
+      "icon": "https://storage.livescore.com/images/team/medium/teambadge/west-bromwich-albion-2024.png"
     },
-    "leagueName": "Scottish Premiership",
-    "prediction": "HOME WIN",
-    "date": "2026-01-03"
+    "leagueName": "Championship",
+    "prediction": "Home Win",
+    "date": "2026-01-05"
   },
   {
-    "id": "z6d8e9f0-0z0z-0z0z-a0z0-0z0z0z0z0z26",
+    "id": "match_02_af_2026_egypt",
     "teamA": {
-      "name": "Liverpool",
-      "icon": "https://storage.livescore.com/images/team/medium/teambadge/liverpool-2024.png"
+      "name": "Egypt",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/egypt.png"
     },
     "teamB": {
-      "name": "Nottingham Forest",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10203.png"
+      "name": "Benin",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/benin.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN",
-    "date": "2026-01-03"
+    "leagueName": "Africa Cup of Nations",
+    "prediction": "Home Win",
+    "date": "2026-01-05"
   },
   {
-    "id": "a7e9f0g1-1a1a-1a1a-b1a1-1a1a1a1a1a27",
+    "id": "match_03_af_2026_nigeria",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8456.png"
+      "name": "Nigeria",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/nigeria.png"
     },
     "teamB": {
-      "name": "Tottenham",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8586.png"
+      "name": "Mozambique",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/mozambique.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN",
-    "date": "2026-01-03"
+    "leagueName": "Africa Cup of Nations",
+    "prediction": "Home Win",
+    "date": "2026-01-05"
   },
   {
-    "id": "b8f0g1h2-2b2b-2b2b-c2b2-2b2b2b2b2b28",
+    "id": "match_04_tr_2026_galatasaray",
     "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8633.png"
+      "name": "Galatasaray",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8637.png"
     },
     "teamB": {
-      "name": "Sevilla",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8302.png"
+      "name": "Trabzonspor",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9752.png"
     },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN",
-    "date": "2026-01-03"
+    "leagueName": "Turkish Super Cup",
+    "prediction": "Over 2.5 Goals",
+    "date": "2026-01-05"
   },
   {
-    "id": "c9g1h2i3-3c3c-3c3c-d3c3-3c3c3c3c3c29",
+    "id": "match_05_al_2026_macarthur",
     "teamA": {
-      "name": "Juventus",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9885.png"
+      "name": "Macarthur FC",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/macarthur-fc.png"
     },
     "teamB": {
-      "name": "Lecce",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9888.png"
+      "name": "Auckland FC",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/auckland-fc.png"
     },
-    "leagueName": "Serie A",
-    "prediction": "HOME WIN",
-    "date": "2026-01-03"
+    "leagueName": "A-League",
+    "prediction": "Away Win",
+    "date": "2026-01-05"
   },
   {
-    "id": "d0h2i3j4-4d4d-4d4d-e4d4-4d4d4d4d4d30",
+    "id": "match_06_fac_2026_chelmsford",
     "teamA": {
-      "name": "Espanyol",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8558.png"
+      "name": "Chelmsford",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9869.png"
     },
     "teamB": {
-      "name": "Barcelona",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8634.png"
+      "name": "Slough Town",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9870.png"
     },
-    "leagueName": "La Liga",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-03"
+    "leagueName": "National League South",
+    "prediction": "Draw",
+    "date": "2026-01-05"
   }
 ]
