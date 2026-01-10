@@ -1,6 +1,431 @@
 [
   {
-    "id": "live_af_01",
+    "id": "live_fa_01",
+    "league": "FA Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-fa-cup.png",
+    "teamA": {
+      "name": "Cheltenham Town",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9783.png"
+    },
+    "teamB": {
+      "name": "Leicester City",
+      "icon": "https://storage.livescore.com/images/team/medium/teambadge/leicester-city-2024.png"
+    },
+    "startTime": "12:15",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/cheltenham-vs-leicester.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_fa_02",
+    "league": "FA Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-fa-cup.png",
+    "teamA": {
+      "name": "Everton",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/everton.png"
+    },
+    "teamB": {
+      "name": "Sunderland",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/sunderland.png"
+    },
+    "startTime": "12:15",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/everton-vs-sunderland.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_fa_03",
+    "league": "FA Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-fa-cup.png",
+    "teamA": {
+      "name": "Macclesfield",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8486.png"
+    },
+    "teamB": {
+      "name": "Crystal Palace",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/crystal-palace.png"
+    },
+    "startTime": "12:15",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/macclesfield-vs-palace.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_fa_04",
+    "league": "FA Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-fa-cup.png",
+    "teamA": {
+      "name": "Wolves",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/wolverhampton-wanderers.png"
+    },
+    "teamB": {
+      "name": "Shrewsbury Town",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9896.png"
+    },
+    "startTime": "12:15",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/wolves-vs-shrewsbury.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_es_05",
+    "league": "LaLiga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-spain-laliga.png",
+    "teamA": {
+      "name": "Real Oviedo",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8581.png"
+    },
+    "teamB": {
+      "name": "Real Betis",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8603.png"
+    },
+    "startTime": "13:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/real-oviedo-vs-real-betis.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_it_06",
+    "league": "Serie A",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-italy-serie-a.png",
+    "teamA": {
+      "name": "Como",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9809.png"
+    },
+    "teamB": {
+      "name": "Bologna",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9857.png"
+    },
+    "startTime": "14:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/como-vs-bologna.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_it_07",
+    "league": "Serie A",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-italy-serie-a.png",
+    "teamA": {
+      "name": "Udinese",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8600.png"
+    },
+    "teamB": {
+      "name": "Pisa",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9880.png"
+    },
+    "startTime": "14:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/udinese-vs-pisa.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_de_08",
+    "league": "Bundesliga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
+    "teamA": {
+      "name": "SC Freiburg",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8358.png"
+    },
+    "teamB": {
+      "name": "Hamburg",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9790.png"
+    },
+    "startTime": "14:30",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/freiburg-vs-hamburg.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_de_09",
+    "league": "Bundesliga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
+    "teamA": {
+      "name": "Heidenheim",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/5885.png"
+    },
+    "teamB": {
+      "name": "FC Cologne",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8722.png"
+    },
+    "startTime": "14:30",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/heidenheim-vs-cologne.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_de_10",
+    "league": "Bundesliga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
+    "teamA": {
+      "name": "Union Berlin",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8177.png"
+    },
+    "teamB": {
+      "name": "Mainz 05",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8178.png"
+    },
+    "startTime": "14:30",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/union-berlin-vs-mainz.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_fa_11",
+    "league": "FA Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-fa-cup.png",
+    "teamA": {
+      "name": "Manchester City",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8456.png"
+    },
+    "teamB": {
+      "name": "Exeter City",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/exeter-city.png"
+    },
+    "startTime": "15:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/mancity-vs-exeter.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_fa_12",
+    "league": "FA Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-fa-cup.png",
+    "teamA": {
+      "name": "Newcastle United",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/newcastle-united.png"
+    },
+    "teamB": {
+      "name": "Bournemouth",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/bournemouth.png"
+    },
+    "startTime": "15:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/newcastle-vs-bournemouth.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_fa_13",
+    "league": "FA Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-fa-cup.png",
+    "teamA": {
+      "name": "Burnley",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/burnley.png"
+    },
+    "teamB": {
+      "name": "Millwall",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/millwall.png"
+    },
+    "startTime": "15:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/burnley-vs-millwall.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_fa_14",
+    "league": "FA Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-fa-cup.png",
+    "teamA": {
+      "name": "Fulham",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/fulham.png"
+    },
+    "teamB": {
+      "name": "Middlesbrough",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/middlesbrough.png"
+    },
+    "startTime": "15:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/fulham-vs-middlesbrough.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_fa_15",
+    "league": "FA Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-fa-cup.png",
+    "teamA": {
+      "name": "Stoke City",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/stoke-city.png"
+    },
+    "teamB": {
+      "name": "Coventry City",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/coventry-city.png"
+    },
+    "startTime": "15:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/stoke-vs-coventry.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_sc_16",
+    "league": "Scottish Premiership",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/scotland-premiership.png",
+    "teamA": {
+      "name": "Celtic",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/celtic.png"
+    },
+    "teamB": {
+      "name": "Dundee United",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/dundee-united.png"
+    },
+    "startTime": "15:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/celtic-vs-dundee.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_sc_17",
+    "league": "Scottish Premiership",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/scotland-premiership.png",
+    "teamA": {
+      "name": "Hibernian",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/hibernian.png"
+    },
+    "teamB": {
+      "name": "Motherwell",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/motherwell.png"
+    },
+    "startTime": "15:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/hibernian-vs-motherwell.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_es_18",
+    "league": "LaLiga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-spain-laliga.png",
+    "teamA": {
+      "name": "Villarreal",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/10205.png"
+    },
+    "teamB": {
+      "name": "Alaves",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9636.png"
+    },
+    "startTime": "15:15",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/villarreal-vs-alaves.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_af_19",
+    "league": "Africa Cup of Nations",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/africa-cup-of-nations.png",
+    "teamA": {
+      "name": "Algeria",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/algeria.png"
+    },
+    "teamB": {
+      "name": "Nigeria",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/nigeria.png"
+    },
+    "startTime": "17:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/algeria-vs-nigeria.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_it_20",
+    "league": "Serie A",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-italy-serie-a.png",
+    "teamA": {
+      "name": "Roma",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8686.png"
+    },
+    "teamB": {
+      "name": "Sassuolo",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8564.png"
+    },
+    "startTime": "17:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/roma-vs-sassuolo.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_de_21",
+    "league": "Bundesliga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
+    "teamA": {
+      "name": "Bayer Leverkusen",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8178.png"
+    },
+    "teamB": {
+      "name": "Stuttgart",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/10269.png"
+    },
+    "startTime": "17:30",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/leverkusen-vs-stuttgart.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_es_22",
+    "league": "LaLiga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-spain-laliga.png",
+    "teamA": {
+      "name": "Girona",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9812.png"
+    },
+    "teamB": {
+      "name": "Osasuna",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8371.png"
+    },
+    "startTime": "17:30",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/girona-vs-osasuna.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_fa_23",
+    "league": "FA Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-fa-cup.png",
+    "teamA": {
+      "name": "Tottenham Hotspur",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/tottenham-hotspur.png"
+    },
+    "teamB": {
+      "name": "Aston Villa",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/aston-villa.png"
+    },
+    "startTime": "17:45",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/tottenham-vs-astonvilla.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_fa_24",
+    "league": "FA Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-fa-cup.png",
+    "teamA": {
+      "name": "Bristol City",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/bristol-city.png"
+    },
+    "teamB": {
+      "name": "Watford",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/watford.png"
+    },
+    "startTime": "17:45",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/bristol-city-vs-watford.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_it_25",
+    "league": "Serie A",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-italy-serie-a.png",
+    "teamA": {
+      "name": "Atalanta",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8524.png"
+    },
+    "teamB": {
+      "name": "Torino",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9804.png"
+    },
+    "startTime": "19:45",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/atalanta-vs-torino.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_af_26",
     "league": "Africa Cup of Nations",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/africa-cup-of-nations.png",
     "teamA": {
@@ -8,33 +433,50 @@
       "icon": "https://storage.livescore.com/images/team/medium/badge/egypt.png"
     },
     "teamB": {
-      "name": "Benin",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/benin.png"
-    },
-    "startTime": "17:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/egypt-vs-benin.jpg",
-    "isYoutube": false
-  },
-  {
-    "id": "live_af_02",
-    "league": "Africa Cup of Nations",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/africa-cup-of-nations.png",
-    "teamA": {
-      "name": "Nigeria",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/nigeria.png"
-    },
-    "teamB": {
-      "name": "Mozambique",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/mozambique.png"
+      "name": "Ivory Coast",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/ivory-coast.png"
     },
     "startTime": "20:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/nigeria-vs-mozambique.jpg",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/egypt-vs-ivorycoast.jpg",
     "isYoutube": false
   },
   {
-    "id": "live_tr_01",
+    "id": "live_fa_27",
+    "league": "FA Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-fa-cup.png",
+    "teamA": {
+      "name": "Charlton Athletic",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/charlton-athletic.png"
+    },
+    "teamB": {
+      "name": "Chelsea",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/chelsea.png"
+    },
+    "startTime": "20:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/charlton-vs-chelsea.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_es_28",
+    "league": "LaLiga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-spain-laliga.png",
+    "teamA": {
+      "name": "Valencia",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/10267.png"
+    },
+    "teamB": {
+      "name": "Elche",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/10268.png"
+    },
+    "startTime": "20:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/valencia-vs-elche.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_tr_29",
     "league": "Turkish Super Cup",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/turkey-super-cup.png",
     "teamA": {
@@ -42,80 +484,114 @@
       "icon": "https://storage.livescore.com/images/team/medium/enet/8637.png"
     },
     "teamB": {
-      "name": "Trabzonspor",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/9752.png"
+      "name": "Fenerbahce",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8543.png"
     },
     "startTime": "20:45",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/galatasaray-vs-trabzonspor.jpg",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/galatasaray-vs-fenerbahce.jpg",
     "isYoutube": false
   },
   {
-    "id": "live_ch_01",
-    "league": "Championship",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-england-championship.png",
+    "id": "live_pt_30",
+    "league": "Primeira Liga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/portugal-primeira-liga.png",
     "teamA": {
-      "name": "Leicester City",
-      "icon": "https://storage.livescore.com/images/team/medium/teambadge/leicester-city-2024.png"
+      "name": "Benfica",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9773.png"
     },
     "teamB": {
-      "name": "West Brom",
-      "icon": "https://storage.livescore.com/images/team/medium/teambadge/west-bromwich-albion-2024.png"
+      "name": "Boavista",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8613.png"
     },
-    "startTime": "15:30",
+    "startTime": "21:30",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/benfica-vs-boavista.jpg",
     "isYoutube": false
   },
   {
-    "id": "live_al_01",
+    "id": "live_nl_31",
+    "league": "Eredivisie",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/netherlands-eredivisie.png",
+    "teamA": {
+      "name": "PSV Eindhoven",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8640.png"
+    },
+    "teamB": {
+      "name": "AZ Alkmaar",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/10229.png"
+    },
+    "startTime": "21:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/psv-vs-az.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_be_32",
+    "league": "Jupiler Pro League",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/belgium-first-division-a.png",
+    "teamA": {
+      "name": "Club Brugge",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8342.png"
+    },
+    "teamB": {
+      "name": "Genk",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9987.png"
+    },
+    "startTime": "20:45",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/club-brugge-vs-genk.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_fr_33",
+    "league": "Ligue 1",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-french-ligue-1.png",
+    "teamA": {
+      "name": "Lens",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8588.png"
+    },
+    "teamB": {
+      "name": "Strasbourg",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9848.png"
+    },
+    "startTime": "21:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/lens-vs-strasbourg.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_gr_34",
+    "league": "Super League",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/greece-super-league-1.png",
+    "teamA": {
+      "name": "AEK Athens",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9873.png"
+    },
+    "teamB": {
+      "name": "PAOK",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/10255.png"
+    },
+    "startTime": "19:30",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/aek-vs-paok.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_au_35",
     "league": "A-League",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2024-australia-a-league.png",
     "teamA": {
-      "name": "Macarthur FC",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/macarthur-fc.png"
+      "name": "Melbourne City",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/melbourne-city-fc.png"
     },
     "teamB": {
-      "name": "Auckland FC",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/auckland-fc.png"
+      "name": "Western United",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/western-united-fc.png"
     },
-    "startTime": "11:00",
+    "startTime": "11:45",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_it_01",
-    "league": "Serie C",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/italy-serie-c-group-c.png",
-    "teamA": {
-      "name": "Benevento",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/9974.png"
-    },
-    "teamB": {
-      "name": "Crotone",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/9881.png"
-    },
-    "startTime": "22:30",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
-    "isYoutube": false
-  },
-  {
-    "id": "live_nl_01",
-    "league": "National League South",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-national-league-south.png",
-    "teamA": {
-      "name": "Chelmsford",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/9869.png"
-    },
-    "teamB": {
-      "name": "Slough Town",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/9870.png"
-    },
-    "startTime": "22:45",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": "",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/melbourne-city-vs-western-united.jpg",
     "isYoutube": false
   }
 ]
