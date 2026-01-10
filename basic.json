@@ -1,86 +1,58 @@
 [
   {
-    "id": "match_01_ch_2026_leicester",
+    "id": "match_01_bun_2026_leverkusen",
     "teamA": {
-      "name": "Leicester City",
-      "icon": "https://storage.livescore.com/images/team/medium/teambadge/leicester-city-2024.png"
+      "name": "Bayer Leverkusen",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8659.png"
     },
     "teamB": {
-      "name": "West Brom",
-      "icon": "https://storage.livescore.com/images/team/medium/teambadge/west-bromwich-albion-2024.png"
+      "name": "VfB Stuttgart",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8660.png"
     },
-    "leagueName": "Championship",
+    "leagueName": "Bundesliga",
     "prediction": "Home Win",
-    "date": "2026-01-05"
+    "date": "2026-01-10"
   },
   {
-    "id": "match_02_af_2026_egypt",
+    "id": "match_02_la_2026_villarreal",
     "teamA": {
-      "name": "Egypt",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/egypt.png"
+      "name": "Villarreal",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/102.png"
     },
     "teamB": {
-      "name": "Benin",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/benin.png"
+      "name": "Deportivo Alavés",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8633.png"
     },
-    "leagueName": "Africa Cup of Nations",
+    "leagueName": "LaLiga",
     "prediction": "Home Win",
-    "date": "2026-01-05"
+    "date": "2026-01-10"
   },
   {
-    "id": "match_03_af_2026_nigeria",
+    "id": "match_03_bun_2026_freiburg",
     "teamA": {
-      "name": "Nigeria",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/nigeria.png"
+      "name": "SC Freiburg",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8654.png"
     },
     "teamB": {
-      "name": "Mozambique",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/mozambique.png"
+      "name": "Hamburger SV",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9750.png"
     },
-    "leagueName": "Africa Cup of Nations",
+    "leagueName": "Bundesliga",
     "prediction": "Home Win",
-    "date": "2026-01-05"
+    "date": "2026-01-10"
   },
   {
-    "id": "match_04_tr_2026_galatasaray",
+    "id": "match_04_la_2026_valencia",
     "teamA": {
-      "name": "Galatasaray",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8637.png"
+      "name": "Valencia",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/101.png"
     },
     "teamB": {
-      "name": "Trabzonspor",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/9752.png"
+      "name": "Elche",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8632.png"
     },
-    "leagueName": "Turkish Super Cup",
-    "prediction": "Over 2.5 Goals",
-    "date": "2026-01-05"
-  },
-  {
-    "id": "match_05_al_2026_macarthur",
-    "teamA": {
-      "name": "Macarthur FC",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/macarthur-fc.png"
-    },
-    "teamB": {
-      "name": "Auckland FC",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/auckland-fc.png"
-    },
-    "leagueName": "A-League",
-    "prediction": "Away Win",
-    "date": "2026-01-05"
-  },
-  {
-    "id": "match_06_fac_2026_chelmsford",
-    "teamA": {
-      "name": "Chelmsford",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/9869.png"
-    },
-    "teamB": {
-      "name": "Slough Town",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/9870.png"
-    },
-    "leagueName": "National League South",
-    "prediction": "Draw",
-    "date": "2026-01-05"
+    "leagueName": "LaLiga",
+    "prediction": "Home Win",
+    "date": "2026-01-10"
   }
 ]
