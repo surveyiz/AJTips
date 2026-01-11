@@ -412,5 +412,149 @@
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/sestri-vs-derthona.jpg",
     "isYoutube": false
+  },
+  {
+    "id": "live_eng_fa_01",
+    "league": "FA Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-fa-cup.png",
+    "flag": "https://storage.livescore.com/images/flag/england.jpg",
+    "teamA": {
+      "name": "Derby County",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/derby.png"
+    },
+    "teamB": {
+      "name": "Leeds United",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/leeds.png"
+    },
+    "startTime": "15:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/derby-vs-leeds.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_eng_fa_02",
+    "league": "FA Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-fa-cup.png",
+    "flag": "https://storage.livescore.com/images/flag/england.jpg",
+    "teamA": {
+      "name": "Portsmouth",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/portsmouth.png"
+    },
+    "teamB": {
+      "name": "Arsenal",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/arsenal.png"
+    },
+    "startTime": "17:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/portsmouth-vs-arsenal.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_it_a_01",
+    "league": "Serie A",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/italy-serie-a.png",
+    "flag": "https://storage.livescore.com/images/flag/italy.jpg",
+    "teamA": {
+      "name": "Fiorentina",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/fiorentina.png"
+    },
+    "teamB": {
+      "name": "AC Milan",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/ac-milan.png"
+    },
+    "startTime": "17:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/fiorentina-vs-ac-milan.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_it_a_02",
+    "league": "Serie A",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/italy-serie-a.png",
+    "flag": "https://storage.livescore.com/images/flag/italy.jpg",
+    "teamA": {
+      "name": "Inter",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/inter.png"
+    },
+    "teamB": {
+      "name": "Napoli",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/napoli.png"
+    },
+    "startTime": "22:45",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/inter-vs-napoli.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_sp_super_01",
+    "league": "Spanish Super Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/spain-super-cup.png",
+    "flag": "https://storage.livescore.com/images/flag/spain.jpg",
+    "teamA": {
+      "name": "Barcelona",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/barcelona.png"
+    },
+    "teamB": {
+      "name": "Real Madrid",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/real-madrid.png"
+    },
+    "startTime": "22:00",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/barcelona-vs-real-madrid.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_eng_fa_03",
+    "league": "FA Cup",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-fa-cup.png",
+    "flag": "https://storage.livescore.com/images/flag/england.jpg",
+    "teamA": {
+      "name": "Man Utd",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/man-utd.png"
+    },
+    "teamB": {
+      "name": "Brighton",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/brighton.png"
+    },
+    "startTime": "19:30",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/man-utd-vs-brighton.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_ger_bun_01",
+    "league": "Bundesliga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/germany-bundesliga.png",
+    "flag": "https://storage.livescore.com/images/flag/germany.jpg",
+    "teamA": {
+      "name": "Bayern Munich",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/bayern-munich.png"
+    },
+    "teamB": {
+      "name": "Wolfsburg",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/wolfsburg.png"
+    },
+    "startTime": "19:30",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/bayern-vs-wolfsburg.jpg",
+    "isYoutube": false
+  },
+  {
+    "id": "live_sco_prem_01",
+    "league": "Premiership",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/scotland-premiership.png",
+    "flag": "https://storage.livescore.com/images/flag/scotland.jpg",
+    "teamA": {
+      "name": "Aberdeen",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/aberdeen.png"
+    },
+    "teamB": {
+      "name": "Rangers",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/rangers.png"
+    },
+    "startTime": "19:30",
+    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
+    "thumbnail": "https://mrfixitstips.co.uk/app/uploads/2026/01/aberdeen-vs-rangers.jpg",
+    "isYoutube": false
   }
 ]
