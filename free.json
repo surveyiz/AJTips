@@ -1,72 +1,44 @@
 [
   {
-    "id": "match_01_fa_2026_tottenham",
+    "id": "match_06_de_2026_bayern",
     "teamA": {
-      "name": "Tottenham Hotspur",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/tottenham-hotspur.png"
+      "name": "Bayern Munich",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/bayern-munich.png"
     },
     "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/aston-villa.png"
-    },
-    "leagueName": "FA Cup",
-    "prediction": "Over 2.5 Goals",
-    "date": "2026-01-10"
-  },
-  {
-    "id": "match_02_af_2026_algeria",
-    "teamA": {
-      "name": "Algeria",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/algeria.png"
-    },
-    "teamB": {
-      "name": "Nigeria",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/nigeria.png"
-    },
-    "leagueName": "Africa Cup of Nations",
-    "prediction": "Away Win",
-    "date": "2026-01-10"
-  },
-  {
-    "id": "match_03_it_2026_roma",
-    "teamA": {
-      "name": "Roma",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8686.png"
-    },
-    "teamB": {
-      "name": "Sassuolo",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8564.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "Home Win",
-    "date": "2026-01-10"
-  },
-  {
-    "id": "match_04_de_2026_leverkusen",
-    "teamA": {
-      "name": "Bayer Leverkusen",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8178.png"
-    },
-    "teamB": {
-      "name": "Stuttgart",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/10269.png"
+      "name": "Wolfsburg",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/wolfsburg.png"
     },
     "leagueName": "Bundesliga",
     "prediction": "Home Win",
-    "date": "2026-01-10"
+    "date": "2026-01-11"
   },
   {
-    "id": "match_05_fa_2026_mancity",
+    "id": "match_07_fa_2026_arsenal",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8456.png"
+      "name": "Portsmouth",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/portsmouth.png"
     },
     "teamB": {
-      "name": "Exeter City",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/exeter-city.png"
+      "name": "Arsenal",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/arsenal.png"
     },
     "leagueName": "FA Cup",
-    "prediction": "Home Win",
-    "date": "2026-01-10"
+    "prediction": "Away Win",
+    "date": "2026-01-11"
+  },
+  {
+    "id": "match_08_sp_2026_elclasico",
+    "teamA": {
+      "name": "Barcelona",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/barcelona.png"
+    },
+    "teamB": {
+      "name": "Real Madrid",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/real-madrid.png"
+    },
+    "leagueName": "Spanish Super Cup",
+    "prediction": "Over 2.5 Goals",
+    "date": "2026-01-11"
   }
 ]
