@@ -3,14 +3,14 @@
     "id": "premier_001",
     "league": "Premier League",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
-    "flag": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
+    "flag": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
     "teamA": {
       "name": "Manchester United",
       "icon": "https://storage.livescore.com/images/team/high/enet/10260.png"
     },
     "teamB": {
       "name": "Manchester City",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/man-city.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/8456.png"
     },
     "startTime": "15:30",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
@@ -21,14 +21,14 @@
     "id": "premier_002",
     "league": "Premier League",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
-    "flag": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
+    "flag": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
     "teamA": {
       "name": "Chelsea",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/chelsea.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/8455.png"
     },
     "teamB": {
       "name": "Brentford",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/brentford.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/9937.png"
     },
     "startTime": "18:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
@@ -39,14 +39,14 @@
     "id": "premier_003",
     "league": "Premier League",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
-    "flag": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
+    "flag": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
     "teamA": {
       "name": "Leeds United",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/leeds.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/8463.png"
     },
     "teamB": {
       "name": "Fulham",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/fulham.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/9879.png"
     },
     "startTime": "18:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
@@ -57,14 +57,14 @@
     "id": "premier_004",
     "league": "Premier League",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
-    "flag": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
+    "flag": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
     "teamA": {
       "name": "Liverpool",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/liverpool.png"
+      "icon": "https://storage.livescore.com/images/team/high/teambadge/liverpool-2024.png"
     },
     "teamB": {
       "name": "Burnley",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/burnley.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/8191.png"
     },
     "startTime": "18:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
@@ -75,14 +75,14 @@
     "id": "premier_005",
     "league": "Premier League",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
-    "flag": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
+    "flag": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
     "teamA": {
       "name": "Sunderland",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/sunderland.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/8472.png"
     },
     "teamB": {
       "name": "Crystal Palace",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/crystal-palace.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/9826.png"
     },
     "startTime": "18:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
@@ -93,14 +93,14 @@
     "id": "premier_006",
     "league": "Premier League",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
-    "flag": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
+    "flag": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
     "teamA": {
       "name": "Tottenham Hotspur",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/tottenham.png"
+      "icon": "https://storage.livescore.com/images/team/high/teambadge/tottenham-hotspur-2024.png"
     },
     "teamB": {
       "name": "West Ham United",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/west-ham.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/8654.png"
     },
     "startTime": "18:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
@@ -111,7 +111,7 @@
     "id": "premier_007",
     "league": "Premier League",
     "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
-    "flag": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
+    "flag": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
     "teamA": {
       "name": "Nottingham Forest",
       "icon": "https://storage.livescore.com/images/team/medium/badge/nottm-forest.png"
