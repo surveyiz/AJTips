@@ -2,11 +2,11 @@
   {
     "id": "premier_001",
     "league": "Premier League",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-premier-league.png",
-    "flag": "https://storage.livescore.com/images/flag/england.jpg",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
+    "flag": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
     "teamA": {
       "name": "Manchester United",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/man-utd.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/10260.png"
     },
     "teamB": {
       "name": "Manchester City",
@@ -20,8 +20,8 @@
   {
     "id": "premier_002",
     "league": "Premier League",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-premier-league.png",
-    "flag": "https://storage.livescore.com/images/flag/england.jpg",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
+    "flag": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
     "teamA": {
       "name": "Chelsea",
       "icon": "https://storage.livescore.com/images/team/medium/badge/chelsea.png"
@@ -38,8 +38,8 @@
   {
     "id": "premier_003",
     "league": "Premier League",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-premier-league.png",
-    "flag": "https://storage.livescore.com/images/flag/england.jpg",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
+    "flag": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
     "teamA": {
       "name": "Leeds United",
       "icon": "https://storage.livescore.com/images/team/medium/badge/leeds.png"
@@ -56,8 +56,8 @@
   {
     "id": "premier_004",
     "league": "Premier League",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-premier-league.png",
-    "flag": "https://storage.livescore.com/images/flag/england.jpg",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
+    "flag": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
     "teamA": {
       "name": "Liverpool",
       "icon": "https://storage.livescore.com/images/team/medium/badge/liverpool.png"
@@ -74,8 +74,8 @@
   {
     "id": "premier_005",
     "league": "Premier League",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-premier-league.png",
-    "flag": "https://storage.livescore.com/images/flag/england.jpg",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
+    "flag": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
     "teamA": {
       "name": "Sunderland",
       "icon": "https://storage.livescore.com/images/team/medium/badge/sunderland.png"
@@ -92,8 +92,8 @@
   {
     "id": "premier_006",
     "league": "Premier League",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-premier-league.png",
-    "flag": "https://storage.livescore.com/images/flag/england.jpg",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
+    "flag": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
     "teamA": {
       "name": "Tottenham Hotspur",
       "icon": "https://storage.livescore.com/images/team/medium/badge/tottenham.png"
@@ -110,8 +110,8 @@
   {
     "id": "premier_007",
     "league": "Premier League",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/england-premier-league.png",
-    "flag": "https://storage.livescore.com/images/flag/england.jpg",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
+    "flag": "https://cdn.britannica.com/44/344-050-94536674/Flag-England.jpg",
     "teamA": {
       "name": "Nottingham Forest",
       "icon": "https://storage.livescore.com/images/team/medium/badge/nottm-forest.png"
