@@ -114,11 +114,11 @@
     "flag": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
     "teamA": {
       "name": "Nottingham Forest",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/nottm-forest.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/10203.png"
     },
     "teamB": {
       "name": "Arsenal",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/arsenal.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/9825.png"
     },
     "startTime": "20:30",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
