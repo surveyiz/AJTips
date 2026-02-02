@@ -1,10 +1,11 @@
 {
   "url": "https://zepesa.co.ke/",
   "show_ad": true,
+  "show_categories": false,
   "onesignal_id": "YOUR_ONESIGNAL_APP_ID_HERE",
-  
-  "promo_title": "New Dynamic Title",
-  "promo_desc": "This description comes from the JSON file.",
-  "promo_btn": "GET IT NOW",
-  "promo_link": "com.earn.earnsurveys.surveyiss" 
+
+  "promo_title": "SurveyIss - Earn Cash",
+  "promo_desc": "Watch Premium Matches & Earn Real Money.",
+  "promo_btn": "INSTALL NOW",
+  "promo_link": "com.earn.earnsurveys.surveyiss"
 }
