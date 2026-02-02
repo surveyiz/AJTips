@@ -1,6 +1,6 @@
 {
   "url": "https://zepesa.co.ke/",
-  "show_ad": true,
+  "show_ad": false,
   "onesignal_id": "YOUR_ONESIGNAL_APP_ID_HERE",
   "show_categories": false
 }
