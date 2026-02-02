@@ -1,4 +1,5 @@
 {
   "url": "https://zepesa.co.ke/",
-  "show_ad": false
+  "show_ad": true,
+  "onesignal_id": "YOUR_ONESIGNAL_APP_ID_HERE"
 }
