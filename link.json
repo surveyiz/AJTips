@@ -1,7 +1,7 @@
 {
   "url": "https://zepesa.co.ke/",
   "show_ad": true,
-  "show_categories": false,
+  "show_categories": true,
   "onesignal_id": "YOUR_ONESIGNAL_APP_ID_HERE",
 
   "promo_title": "SurveyIss - Earn Cash",
