@@ -1,86 +1,184 @@
 [
   {
-    "date": "Feb 12, 2026",
-    "categories": {
-      "Daily Correct Score": [
-        { "teamA": "AC Milan", "teamB": "Roma", "prediction": "2-1", "odds": "8.50", "results": "Pending" },
-        { "teamA": "PSG", "teamB": "Lille", "prediction": "3-0", "odds": "9.00", "results": "Pending" }
-      ],
-      "Premium Tips": [
-        { "teamA": "PSG", "teamB": "Lille", "prediction": "Home Win", "odds": "1.45", "results": "Pending" },
-        { "teamA": "AC Milan", "teamB": "Roma", "prediction": "BTTS", "odds": "1.75", "results": "Pending" },
-        { "teamA": "Benfica", "teamB": "Sporting CP", "prediction": "Over 2.5", "odds": "1.80", "results": "Pending" }
-      ],
-      "Basic Tips": [
-        { "teamA": "Galatasaray", "teamB": "Fenerbahce", "prediction": "1X", "odds": "1.35", "results": "Pending" },
-        { "teamA": "Ajax", "teamB": "AZ Alkmaar", "prediction": "Over 1.5", "odds": "1.22", "results": "Pending" },
-        { "teamA": "Club Brugge", "teamB": "Anderlecht", "prediction": "Home Win", "odds": "1.90", "results": "Pending" }
-      ],
-      "Draw Tips": [
-        { "teamA": "Galatasaray", "teamB": "Fenerbahce", "prediction": "X", "odds": "3.40", "results": "Pending" }
-      ],
-      "Free Tips": [
-        { "teamA": "Ajax", "teamB": "AZ Alkmaar", "prediction": "BTTS", "odds": "1.60", "results": "Pending" },
-        { "teamA": "PSG", "teamB": "Lille", "prediction": "Home Win -1", "odds": "2.10", "results": "Pending" },
-        { "teamA": "AC Milan", "teamB": "Roma", "prediction": "Over 1.5", "odds": "1.30", "results": "Pending" },
-        { "teamA": "Celtic", "teamB": "Hearts", "prediction": "Home Win", "odds": "1.25", "results": "Pending" }
-      ]
-    }
+    "id": "match_pl_001_2026_man_utd_city",
+    "teamA": {
+      "name": "Manchester United",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/man-utd.png"
+    },
+    "teamB": {
+      "name": "Manchester City",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/man-city.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "Draw (High-stakes derby, often tight)",
+    "date": "2026-01-17"
   },
   {
-    "date": "Feb 11, 2026",
-    "categories": {
-      "Daily Correct Score": [
-        { "teamA": "Real Madrid", "teamB": "Sevilla", "prediction": "2-0", "odds": "7.00", "results": "Win" },
-        { "teamA": "Man City", "teamB": "Aston Villa", "prediction": "3-1", "odds": "10.50", "results": "Win" }
-      ],
-      "Premium Tips": [
-        { "teamA": "Real Madrid", "teamB": "Sevilla", "prediction": "Home Win", "odds": "1.40", "results": "Win" },
-        { "teamA": "Man City", "teamB": "Aston Villa", "prediction": "Over 2.5", "odds": "1.55", "results": "Win" },
-        { "teamA": "Napoli", "teamB": "Fiorentina", "prediction": "Home Win", "odds": "1.85", "results": "Win" }
-      ],
-      "Basic Tips": [
-        { "teamA": "Bayer Leverkusen", "teamB": "Stuttgart", "prediction": "BTTS", "odds": "1.65", "results": "Win" },
-        { "teamA": "Porto", "teamB": "Rio Ave", "prediction": "Home Win", "odds": "1.30", "results": "Win" },
-        { "teamA": "Napoli", "teamB": "Fiorentina", "prediction": "1X", "odds": "1.25", "results": "Win" }
-      ],
-      "Draw Tips": [
-        { "teamA": "Bayer Leverkusen", "teamB": "Stuttgart", "prediction": "X", "odds": "3.60", "results": "Loss" }
-      ],
-      "Free Tips": [
-        { "teamA": "Man City", "teamB": "Aston Villa", "prediction": "BTTS", "odds": "1.70", "results": "Win" },
-        { "teamA": "Porto", "teamB": "Rio Ave", "prediction": "Over 2.5", "odds": "1.60", "results": "Win" },
-        { "teamA": "Real Madrid", "teamB": "Sevilla", "prediction": "Under 3.5", "odds": "1.45", "results": "Win" },
-        { "teamA": "Marseille", "teamB": "Rennes", "prediction": "Over 1.5", "odds": "1.28", "results": "Win" }
-      ]
-    }
+    "id": "match_pl_002_2026_chelsea_brentford",
+    "teamA": {
+      "name": "Chelsea",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/chelsea.png"
+    },
+    "teamB": {
+      "name": "Brentford",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/brentford.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "Home Win",
+    "date": "2026-01-17"
   },
   {
-    "date": "Feb 10, 2026",
-    "categories": {
-      "Daily Correct Score": [
-        { "teamA": "Bayern Munich", "teamB": "Dortmund", "prediction": "3-2", "odds": "15.00", "results": "Loss" },
-        { "teamA": "Arsenal", "teamB": "West Ham", "prediction": "2-0", "odds": "6.50", "results": "Win" }
-      ],
-      "Premium Tips": [
-        { "teamA": "Bayern Munich", "teamB": "Dortmund", "prediction": "Over 2.5", "odds": "1.45", "results": "Win" },
-        { "teamA": "Arsenal", "teamB": "West Ham", "prediction": "Home Win", "odds": "1.35", "results": "Win" },
-        { "teamA": "Juventus", "teamB": "Lazio", "prediction": "Under 2.5", "odds": "1.70", "results": "Win" }
-      ],
-      "Basic Tips": [
-        { "teamA": "Real Sociedad", "teamB": "Villarreal", "prediction": "1X", "odds": "1.40", "results": "Win" },
-        { "teamA": "Inter", "teamB": "Atalanta", "prediction": "Home Win", "odds": "1.80", "results": "Win" },
-        { "teamA": "Arsenal", "teamB": "West Ham", "prediction": "Over 1.5", "odds": "1.20", "results": "Win" }
-      ],
-      "Draw Tips": [
-        { "teamA": "Real Sociedad", "teamB": "Villarreal", "prediction": "X", "odds": "3.30", "results": "Win" }
-      ],
-      "Free Tips": [
-        { "teamA": "Bayern Munich", "teamB": "Dortmund", "prediction": "BTTS", "odds": "1.50", "results": "Win" },
-        { "teamA": "Inter", "teamB": "Atalanta", "prediction": "Over 2.5", "odds": "1.75", "results": "Win" },
-        { "teamA": "Juventus", "teamB": "Lazio", "prediction": "1X", "odds": "1.25", "results": "Win" },
-        { "teamA": "Lyon", "teamB": "Monaco", "prediction": "BTTS", "odds": "1.55", "results": "Loss" }
-      ]
-    }
+    "id": "match_pl_003_2026_leeds_fulham",
+    "teamA": {
+      "name": "Leeds United",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/leeds.png"
+    },
+    "teamB": {
+      "name": "Fulham",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/fulham.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "Home Win",
+    "date": "2026-01-17"
+  },
+  {
+    "id": "match_pl_004_2026_liverpool_burnley",
+    "teamA": {
+      "name": "Liverpool",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/liverpool.png"
+    },
+    "teamB": {
+      "name": "Burnley",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/burnley.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "Home Win",
+    "date": "2026-01-17"
+  },
+  {
+    "id": "match_pl_005_2026_sunderland_palace",
+    "teamA": {
+      "name": "Sunderland",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/sunderland.png"
+    },
+    "teamB": {
+      "name": "Crystal Palace",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/crystal-palace.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "Draw",
+    "date": "2026-01-17"
+  },
+  {
+    "id": "match_pl_006_2026_tottenham_west_ham",
+    "teamA": {
+      "name": "Tottenham Hotspur",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/tottenham.png"
+    },
+    "teamB": {
+      "name": "West Ham United",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/west-ham.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "Home Win",
+    "date": "2026-01-17"
+  },
+  {
+    "id": "match_pl_007_2026_forest_arsenal",
+    "teamA": {
+      "name": "Nottingham Forest",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/nottm-forest.png"
+    },
+    "teamB": {
+      "name": "Arsenal",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/arsenal.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "Away Win",
+    "date": "2026-01-17"
+  },
+  {
+    "id": "match_ll_001_2026_real_madrid_levante",
+    "teamA": {
+      "name": "Real Madrid",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/real-madrid.png"
+    },
+    "teamB": {
+      "name": "Levante",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/levante.png"
+    },
+    "leagueName": "LaLiga",
+    "prediction": "Home Win",
+    "date": "2026-01-17"
+  },
+  {
+    "id": "match_ll_002_2026_mallorca_athletic",
+    "teamA": {
+      "name": "Mallorca",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/mallorca.png"
+    },
+    "teamB": {
+      "name": "Athletic Club",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/athletic-bilbao.png"
+    },
+    "leagueName": "LaLiga",
+    "prediction": "Draw",
+    "date": "2026-01-17"
+  },
+  {
+    "id": "match_ll_003_2026_osasuna_oviedo",
+    "teamA": {
+      "name": "Osasuna",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/osasuna.png"
+    },
+    "teamB": {
+      "name": "Real Oviedo",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/oviedo.png"
+    },
+    "leagueName": "LaLiga",
+    "prediction": "Home Win",
+    "date": "2026-01-17"
+  },
+  {
+    "id": "match_ll_004_2026_betis_villarreal",
+    "teamA": {
+      "name": "Real Betis",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/real-betis.png"
+    },
+    "teamB": {
+      "name": "Villarreal",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/villarreal.png"
+    },
+    "leagueName": "LaLiga",
+    "prediction": "Over 2.5 Goals",
+    "date": "2026-01-17"
+  },
+  {
+    "id": "match_bund_001_2026_dortmund_st_pauli",
+    "teamA": {
+      "name": "Borussia Dortmund",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/borussia-dortmund.png"
+    },
+    "teamB": {
+      "name": "St. Pauli",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/st-pauli.png"
+    },
+    "leagueName": "Bundesliga",
+    "prediction": "Home Win",
+    "date": "2026-01-17"
+  },
+  {
+    "id": "match_bund_006_2026_leipzig_bayern",
+    "teamA": {
+      "name": "RB Leipzig",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/rb-leipzig.png"
+    },
+    "teamB": {
+      "name": "Bayern Munich",
+      "icon": "https://storage.livescore.com/images/team/medium/badge/bayern-munich.png"
+    },
+    "leagueName": "Bundesliga",
+    "prediction": "Over 2.5 Goals (Classic high-scoring clash)",
+    "date": "2026-01-17"
   }
 ]
