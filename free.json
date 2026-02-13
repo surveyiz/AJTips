@@ -3,11 +3,11 @@
     "id": "match_pl_001_2026_man_utd_city",
     "teamA": {
       "name": "Rennes",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/man-utd.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/9851.png"
     },
     "teamB": {
       "name": "PSG",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/man-city.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/9847.png"
     },
     "leagueName": "France Ligue 1",
     "prediction": "Away Win",
@@ -17,11 +17,11 @@
     "id": "match_pl_002_2026_chelsea_brentford",
     "teamA": {
       "name": "Monaco",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/chelsea.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/9829.png"
     },
     "teamB": {
       "name": "Nantes",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/brentford.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/9830.png"
     },
     "leagueName": "France Ligue 1",
     "prediction": "Home Win",
@@ -31,11 +31,11 @@
     "id": "match_pl_003_2026_leeds_fulham",
     "teamA": {
       "name": "Volendam",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/leeds.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/6601.png"
     },
     "teamB": {
       "name": "PSV Eindhoven",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/fulham.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/8640.png"
     },
     "leagueName": "Netherlands Eredivisie",
     "prediction": "Away Win",
