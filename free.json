@@ -2,16 +2,16 @@
   {
     "id": "match_pl_001_2026_man_utd_city",
     "teamA": {
-      "name": "Manchester United",
+      "name": "Rennes",
       "icon": "https://storage.livescore.com/images/team/medium/badge/man-utd.png"
     },
     "teamB": {
-      "name": "Manchester City",
+      "name": "PSG",
       "icon": "https://storage.livescore.com/images/team/medium/badge/man-city.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "Draw (High-stakes derby, often tight)",
-    "date": "2026-01-17"
+    "leagueName": "France Ligue 1",
+    "prediction": "Away Win",
+    "date": "2026-02-17"
   },
   {
     "id": "match_pl_002_2026_chelsea_brentford",
@@ -23,7 +23,7 @@
       "name": "Brentford",
       "icon": "https://storage.livescore.com/images/team/medium/badge/brentford.png"
     },
-    "leagueName": "Premier League",
+    "leagueName": "France Ligue 1",
     "prediction": "Home Win",
     "date": "2026-01-17"
   },
