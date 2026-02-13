@@ -1,12 +1,12 @@
 [
   {
-    "id": "premier_001",
-    "league": "Premier League",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
-    "flag": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
+    "id": "LaLiga_001",
+    "league": "LaLiga",
+    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-spain-laliga.png",
+    "flag": "https://storage.livescore.com/images/competition/high/2023-spain-laliga.png",",
     "teamA": {
-      "name": "Manchester United",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10260.png"
+      "name": "Elche",
+      "icon": "https://storage.livescore.com/images/team/high/enet/10268.png"
     },
     "teamB": {
       "name": "Manchester City",
