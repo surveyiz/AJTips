@@ -45,11 +45,11 @@
     "id": "match_pl_004_2026_liverpool_burnley",
     "teamA": {
       "name": "Santa Clara",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/liverpool.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/1567.png"
     },
     "teamB": {
       "name": "SL Benfica",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/burnley.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/9772.png"
     },
     "leagueName": "Portugal Liga Portugal",
     "prediction": "Away Win",
@@ -59,11 +59,11 @@
     "id": "match_pl_005_2026_sunderland_palace",
     "teamA": {
       "name": "Randers FC",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/sunderland.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/8410.png"
     },
     "teamB": {
       "name": "Vejle BK",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/crystal-palace.png"
+      "icon": "https://storage.livescore.com/images/team/high/enet/8231.png"
     },
     "leagueName": "Denmark Superliga",
     "prediction": "Home Win",
