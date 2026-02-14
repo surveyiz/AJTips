@@ -12,13 +12,13 @@
         { "teamA": "Benfica", "teamB": "Sporting CP", "prediction": "Over 2.5", "odds": "1.80", "results": "Win" }
       ],
       "Basic Tips": [
-        { "teamA": "Galatasaray", "teamB": "Fenerbahce", "prediction": "1X", "odds": "1.35", "results": "Win" },
-        { "teamA": "Ajax", "teamB": "AZ Alkmaar", "prediction": "Over 1.5", "odds": "1.22", "results": "Win" },
-        { "teamA": "Club Brugge", "teamB": "Anderlecht", "prediction": "Home Win", "odds": "1.90", "results": "Loss" }
+        { "teamA": "UCD Dublin", "teamB": "Kerry", "prediction": "Home & BTTS", "odds": "2.88", "results": "Win" },
+        { "teamA": "Wrexham FC", "teamB": "Ipswich Town", "prediction": "Home win", "odds": "2.07", "results": "Win" },
+        { "teamA": "AC Pisa", "teamB": "Milan", "prediction": "GG", "odds": "1.90", "results": "Win" }
       ],
       "Draw Tips": [
         { "teamA": "CD Tondela", "teamB": "FC Alverca", "prediction": "X", "odds": "3.12", "results": "Win" },
-        { "teamA": "Elche", "teamB": "Fenerbahce", "prediction": "X", "odds": "3.40", "results": "Win" }
+        { "teamA": "Elche", "teamB": "Osasuna", "prediction": "X", "odds": "3.30", "results": "Win" }
       ],
       "Free Tips": [
         { "teamA": "CA Tigre", "teamB": "CA Aldosivi", "prediction": "Home Win", "odds": "1.91", "results": "Win" },
