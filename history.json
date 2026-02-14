@@ -4,7 +4,7 @@
     "categories": {
       "Daily Correct Score": [
         { "teamA": "Osasuna", "teamB": "Osasuna", "prediction": "0-0", "odds": "6.50", "results": "Win" },
-        { "teamA": "Fluminense", "teamB": "Botafogo", "prediction": "1-0", "odds": "7.21", "results": "Loss" }
+        { "teamA": "Fluminense", "teamB": "Botafogo", "prediction": "1-0", "odds": "7.21", "results": "Win" }
       ],
       "Premium Tips": [
         { "teamA": "Monaco", "teamB": "Nantes", "prediction": "Home Win & Over 2.5", "odds": "2.20", "results": "Win" },
