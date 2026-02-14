@@ -77,14 +77,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
     "teamA": {
-      "name": "Borussia Dortmund",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9789.png"
+      "name": "Bayer Leverkusen",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8178.png"
     },
     "teamB": {
-      "name": "Mainz 05",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9905.png"
+      "name": "St. Pauli",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8152.png"
     },
-    "startTime": "22:30",
+    "startTime": "17:30",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -95,14 +95,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
     "teamA": {
-      "name": "Borussia Dortmund",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9789.png"
+      "name": "Eintracht Frankfurt",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9810.png"
     },
     "teamB": {
-      "name": "Mainz 05",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9905.png"
+      "name": "Borrusia M'gladbach",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9788.png"
     },
-    "startTime": "22:30",
+    "startTime": "17:30",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -113,14 +113,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
     "teamA": {
-      "name": "Borussia Dortmund",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9789.png"
+      "name": "Humburger SV",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9790.png"
     },
     "teamB": {
-      "name": "Mainz 05",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9905.png"
+      "name": "Union Berlin",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8149.png"
     },
-    "startTime": "22:30",
+    "startTime": "17:30",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -131,14 +131,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
     "teamA": {
-      "name": "Borussia Dortmund",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9789.png"
+      "name": "Hoffenheim",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8226.png"
     },
     "teamB": {
-      "name": "Mainz 05",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9905.png"
+      "name": "Freiburg",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8358.png"
     },
-    "startTime": "22:30",
+    "startTime": "17:30",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
