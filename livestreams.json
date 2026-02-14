@@ -185,14 +185,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-italy-serie-a.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-italy-serie-a.png",
     "teamA": {
-      "name": "Pisa",
-      "icon": "https://storage.livescore.com/images/team/high/enet/6479.png"
+      "name": "Como 1907",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/10171.png"
     },
     "teamB": {
-      "name": "AC Milan",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8564.png"
+      "name": "Fiorentina",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8535.png"
     },
-    "startTime": "22:45",
+    "startTime": "17:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -203,14 +203,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-italy-serie-a.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-italy-serie-a.png",
     "teamA": {
-      "name": "Pisa",
-      "icon": "https://storage.livescore.com/images/team/high/enet/6479.png"
+      "name": "Lazio",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8543.png"
     },
     "teamB": {
-      "name": "AC Milan",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8564.png"
+      "name": "Atalanta",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8524.png"
     },
-    "startTime": "22:45",
+    "startTime": "20:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -221,12 +221,12 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-italy-serie-a.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-italy-serie-a.png",
     "teamA": {
-      "name": "Pisa",
-      "icon": "https://storage.livescore.com/images/team/high/enet/6479.png"
+      "name": "Inter",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8636.png"
     },
     "teamB": {
-      "name": "AC Milan",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8564.png"
+      "name": "Juventus",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9885.png"
     },
     "startTime": "22:45",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
