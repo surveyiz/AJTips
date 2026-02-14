@@ -1,5 +1,34 @@
 [
   {
+    "date": "Feb 13, 2026",
+    "categories": {
+      "Daily Correct Score": [
+        { "teamA": "AC Milan", "teamB": "Roma", "prediction": "2-1", "odds": "8.50", "results": "Win" },
+        { "teamA": "PSG", "teamB": "Lille", "prediction": "3-0", "odds": "9.00", "results": "Loss" }
+      ],
+      "Premium Tips": [
+        { "teamA": "PSG", "teamB": "Lille", "prediction": "Home Win", "odds": "1.45", "results": "Win" },
+        { "teamA": "AC Milan", "teamB": "Roma", "prediction": "BTTS", "odds": "1.75", "results": "Win" },
+        { "teamA": "Benfica", "teamB": "Sporting CP", "prediction": "Over 2.5", "odds": "1.80", "results": "Win" }
+      ],
+      "Basic Tips": [
+        { "teamA": "Galatasaray", "teamB": "Fenerbahce", "prediction": "1X", "odds": "1.35", "results": "Win" },
+        { "teamA": "Ajax", "teamB": "AZ Alkmaar", "prediction": "Over 1.5", "odds": "1.22", "results": "Win" },
+        { "teamA": "Club Brugge", "teamB": "Anderlecht", "prediction": "Home Win", "odds": "1.90", "results": "Loss" }
+      ],
+      "Draw Tips": [
+        { "teamA": "CD Tondela", "teamB": "FC Alverca", "prediction": "X", "odds": "3.12", "results": "Win" },
+        { "teamA": "Elche", "teamB": "Fenerbahce", "prediction": "X", "odds": "3.40", "results": "Win" }
+      ],
+      "Free Tips": [
+        { "teamA": "CA Tigre", "teamB": "CA Aldosivi", "prediction": "Home Win", "odds": "1.91", "results": "Win" },
+        { "teamA": "Santa Clara", "teamB": "SL Benfica", "prediction": "Over 2.5", "odds": "1.52", "results": "Win" },
+        { "teamA": "Volendam", "teamB": "PSV Eindhoven", "prediction": "Over 2.5", "odds": "1.45", "results": "Win" },
+        { "teamA": "Hull City", "teamB": "Chelsea", "prediction": "Away Win", "odds": "1.30", "results": "Win" }
+      ]
+    }
+  },
+  {
     "date": "Feb 12, 2026",
     "categories": {
       "Daily Correct Score": [
