@@ -149,14 +149,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
     "teamA": {
-      "name": "Borussia Dortmund",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9789.png"
+      "name": "Werder Bremen",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8697.png"
     },
     "teamB": {
-      "name": "Mainz 05",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9905.png"
+      "name": "Bayern Munich",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9823.png"
     },
-    "startTime": "22:30",
+    "startTime": "17:30",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -167,14 +167,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-bundesliga.png",
     "teamA": {
-      "name": "Borussia Dortmund",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9789.png"
+      "name": "VfB Stuttgart",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/10269.png"
     },
     "teamB": {
-      "name": "Mainz 05",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9905.png"
+      "name": "FC Cologne",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8722.png"
     },
-    "startTime": "22:30",
+    "startTime": "20:30",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
