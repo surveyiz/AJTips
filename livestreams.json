@@ -293,14 +293,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-fa-cup.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-england-fa-cup.png",
     "teamA": {
-      "name": "Hull City",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8667.png"
+      "name": "Burton Albion",
+      "icon": "https://storage.livescore.com/images/team/medium/teambadge/burton-albion-fc.png"
     },
     "teamB": {
-      "name": "Chelsea",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8455.png"
+      "name": "West Ham United",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8654.png"
     },
-    "startTime": "22:45",
+    "startTime": "15:15",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -311,14 +311,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-fa-cup.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-england-fa-cup.png",
     "teamA": {
-      "name": "Wrexham",
-      "icon": "https://storage.livescore.com/images/team/high/teambadge/wrexham-afc-2024.png"
+      "name": "Burnley",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8191.png"
     },
     "teamB": {
-      "name": "Ipswich Town",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9902.png"
+      "name": "Mansfield",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9818.png"
     },
-    "startTime": "22:45",
+    "startTime": "18:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
