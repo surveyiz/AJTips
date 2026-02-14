@@ -329,14 +329,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-fa-cup.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-england-fa-cup.png",
     "teamA": {
-      "name": "Hull City",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8667.png"
+      "name": "Manchester City",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8456.png"
     },
     "teamB": {
-      "name": "Chelsea",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8455.png"
+      "name": "Salford",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/282326.png"
     },
-    "startTime": "22:45",
+    "startTime": "18:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -347,14 +347,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-fa-cup.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-england-fa-cup.png",
     "teamA": {
-      "name": "Wrexham",
-      "icon": "https://storage.livescore.com/images/team/high/teambadge/wrexham-afc-2024.png"
+      "name": "Norwich City",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9850.png"
     },
     "teamB": {
-      "name": "Ipswich Town",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9902.png"
+      "name": "West Bromwich Albion",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8659.png"
     },
-    "startTime": "22:45",
+    "startTime": "18:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -365,14 +365,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-fa-cup.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-england-fa-cup.png",
     "teamA": {
-      "name": "Hull City",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8667.png"
+      "name": "Southampton",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8466.png"
     },
     "teamB": {
-      "name": "Chelsea",
-      "icon": "https://storage.livescore.com/images/team/high/enet/8455.png"
+      "name": "Leicester City",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8197.png"
     },
-    "startTime": "22:45",
+    "startTime": "18:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -383,14 +383,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-fa-cup.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-england-fa-cup.png",
     "teamA": {
-      "name": "Wrexham",
-      "icon": "https://storage.livescore.com/images/team/high/teambadge/wrexham-afc-2024.png"
+      "name": "Aston Villa",
+      "icon": "https://storage.livescore.com/images/team/medium/teambadge/aston-villa-2024.png"
     },
     "teamB": {
-      "name": "Ipswich Town",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9902.png"
+      "name": "Newcastle United",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/10261.png"
     },
-    "startTime": "22:45",
+    "startTime": "20:45",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -401,14 +401,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-england-fa-cup.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-england-fa-cup.png",
     "teamA": {
-      "name": "Wrexham",
-      "icon": "https://storage.livescore.com/images/team/high/teambadge/wrexham-afc-2024.png"
+      "name": "Liverpool",
+      "icon": "https://storage.livescore.com/images/team/medium/teambadge/liverpool-2024.png"
     },
     "teamB": {
-      "name": "Ipswich Town",
-      "icon": "https://storage.livescore.com/images/team/high/enet/9902.png"
+      "name": "Brighton",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/10204.png"
     },
-    "startTime": "22:45",
+    "startTime": "23:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
