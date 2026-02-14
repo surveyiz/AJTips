@@ -3,13 +3,13 @@
     "date": "Feb 13, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "AC Milan", "teamB": "Roma", "prediction": "2-1", "odds": "8.50", "results": "Win" },
-        { "teamA": "PSG", "teamB": "Lille", "prediction": "3-0", "odds": "9.00", "results": "Loss" }
+        { "teamA": "Osasuna", "teamB": "Osasuna", "prediction": "0-0", "odds": "6.50", "results": "Win" },
+        { "teamA": "Fluminense", "teamB": "Botafogo", "prediction": "1-0", "odds": "7.21", "results": "Loss" }
       ],
       "Premium Tips": [
-        { "teamA": "PSG", "teamB": "Lille", "prediction": "Home Win", "odds": "1.45", "results": "Win" },
-        { "teamA": "AC Milan", "teamB": "Roma", "prediction": "BTTS", "odds": "1.75", "results": "Win" },
-        { "teamA": "Benfica", "teamB": "Sporting CP", "prediction": "Over 2.5", "odds": "1.80", "results": "Win" }
+        { "teamA": "Monaco", "teamB": "Nantes", "prediction": "Home Win & Over 2.5", "odds": "2.20", "results": "Win" },
+        { "teamA": "Cork City", "teamB": "Treaty United", "prediction": "HT/FT X/1", "odds": "5.23", "results": "Win" },
+        { "teamA": "Elche", "teamB": "Osasuna", "prediction": "HT/FT X/X", "odds": "4.8", "results": "Win" }
       ],
       "Basic Tips": [
         { "teamA": "UCD Dublin", "teamB": "Kerry", "prediction": "Home & BTTS", "odds": "2.88", "results": "Win" },
