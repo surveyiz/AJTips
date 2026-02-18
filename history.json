@@ -12,9 +12,9 @@
         { "teamA": "CA Aldosivi", "teamB": "CA San Miguel", "prediction": "Home Win", "odds": "2.52", "results": "Win" }
       ],
       "Basic Tips": [
-        { "teamA": "UCD Dublin", "teamB": "Kerry", "prediction": "Home & BTTS", "odds": "2.88", "results": "Win" },
-        { "teamA": "Wrexham FC", "teamB": "Ipswich Town", "prediction": "Home win", "odds": "2.07", "results": "Win" },
-        { "teamA": "AC Pisa", "teamB": "Milan", "prediction": "GG", "odds": "1.90", "results": "Win" }
+        { "teamA": "SL Benfica", "teamB": "Real Madrid", "prediction": "Away Win", "odds": "1.91", "results": "Win" },
+        { "teamA": "Monaco", "teamB": "PSG", "prediction": "Away Win", "odds": "1.57", "results": "Win" },
+        { "teamA": "Borussia Dortmund", "teamB": "Atalanta", "prediction": "Home Win", "odds": "1.90", "results": "Win" }
       ],
       "Draw Tips": [
         { "teamA": "CD Tondela", "teamB": "FC Alverca", "prediction": "X", "odds": "3.12", "results": "Win" },
