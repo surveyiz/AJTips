@@ -42,20 +42,6 @@
     "date": "2026-02-18"
   },
   {
-    "id": "match_pl_004_2026_liverpool_burnley",
-    "teamA": {
-      "name": "Lazio",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8543.png"
-    },
-    "teamB": {
-      "name": "Atalanta",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8524.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "BTTS",
-    "date": "2026-02-18"
-  },
-  {
     "id": "match_pl_005_2026_sunderland_palace",
     "teamA": {
       "name": "Olympiacos",
