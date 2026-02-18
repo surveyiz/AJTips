@@ -21,10 +21,10 @@
         { "teamA": "US Biskra", "teamB": "NRB Telaghema", "prediction": "X", "odds": "3.30", "results": "Win" }
       ],
       "Free Tips": [
-        { "teamA": "CA Tigre", "teamB": "CA Aldosivi", "prediction": "Home Win", "odds": "1.91", "results": "Win" },
-        { "teamA": "Santa Clara", "teamB": "SL Benfica", "prediction": "Over 2.5", "odds": "1.52", "results": "Win" },
-        { "teamA": "Volendam", "teamB": "PSV Eindhoven", "prediction": "Over 2.5", "odds": "1.45", "results": "Win" },
-        { "teamA": "Hull City", "teamB": "Chelsea", "prediction": "Away Win", "odds": "1.30", "results": "Win" }
+        { "teamA": "SL Benfica", "teamB": "Real Madrid", "prediction": "Away Win", "odds": "1.91", "results": "Win" },
+        { "teamA": "Monaco", "teamB": "PSG", "prediction": "Away win", "odds": "1.57", "results": "Win" },
+        { "teamA": "Borussia Dortmund", "teamB": "Atalanta", "prediction": "Over 2.5", "odds": "1.45", "results": "Lost" },
+        { "teamA": "Exeter City", "teamB": "Wycombe", "prediction": "Home or Draw", "odds": "1.30", "results": "Win" }
       ]
     }
   },
