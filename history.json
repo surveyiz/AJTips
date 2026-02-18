@@ -1,5 +1,40 @@
 [
   {
+    "date": "Feb 17, 2026",
+    "categories": {
+      "Daily Correct Score": [
+        { "teamA": "Steve Biko FC", "teamB": "BST Galaxy", "prediction": "0-0", "odds": "5.21", "results": "Win" },
+        { "teamA": "Zamalek SC", "teamB": "Ceramica Cleopatra", "prediction": "1-3", "odds": "8.71", "results": "Win" }
+      ],
+      "Premium Tips": [
+        { "teamA": "Zamalek SC", "teamB": "Ceramica Cleopatra", "prediction": "Away Win", "odds": "3.50", "results": "Win" },
+        { "teamA": "Barnet", "teamB": "Swindon Town", "prediction": "Away Win", "odds": "4.33", "results": "Win" },
+        { "teamA": "CA Aldosivi", "teamB": "CA San Miguel", "prediction": "Home Win", "odds": "2.52", "results": "Win" }
+      ],
+      "Basic Tips": [
+        { "teamA": "UCD Dublin", "teamB": "Kerry", "prediction": "Home & BTTS", "odds": "2.88", "results": "Win" },
+        { "teamA": "Wrexham FC", "teamB": "Ipswich Town", "prediction": "Home win", "odds": "2.07", "results": "Win" },
+        { "teamA": "AC Pisa", "teamB": "Milan", "prediction": "GG", "odds": "1.90", "results": "Win" }
+      ],
+      "Draw Tips": [
+        { "teamA": "CD Tondela", "teamB": "FC Alverca", "prediction": "X", "odds": "3.12", "results": "Win" },
+        { "teamA": "Elche", "teamB": "Osasuna", "prediction": "X", "odds": "3.30", "results": "Win" }
+      ],
+      "Free Tips": [
+        { "teamA": "CA Tigre", "teamB": "CA Aldosivi", "prediction": "Home Win", "odds": "1.91", "results": "Win" },
+        { "teamA": "Santa Clara", "teamB": "SL Benfica", "prediction": "Over 2.5", "odds": "1.52", "results": "Win" },
+        { "teamA": "Volendam", "teamB": "PSV Eindhoven", "prediction": "Over 2.5", "odds": "1.45", "results": "Win" },
+        { "teamA": "Hull City", "teamB": "Chelsea", "prediction": "Away Win", "odds": "1.30", "results": "Win" }
+      ]
+    }
+  },
+
+
+
+
+
+  
+  {
     "date": "Feb 13, 2026",
     "categories": {
       "Daily Correct Score": [
@@ -28,6 +63,12 @@
       ]
     }
   },
+
+
+
+
+
+  
   {
     "date": "Feb 12, 2026",
     "categories": {
