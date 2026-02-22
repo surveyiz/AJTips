@@ -3,7 +3,7 @@
     "date": "Feb 21, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Steve Biko FC", "teamB": "BST Galaxy", "prediction": "0-0", "odds": "5.21", "results": "Win" },
+        { "teamA": "Adanaspor", "teamB": "Fethiyespor", "prediction": "0-0", "odds": "5.21", "results": "Win" },
         { "teamA": "Zamalek SC", "teamB": "Ceramica Cleopatra", "prediction": "1-3", "odds": "8.71", "results": "Win" }
       ],
       "Premium Tips": [
@@ -17,14 +17,14 @@
         { "teamA": "Borussia Dortmund", "teamB": "Atalanta", "prediction": "Home Win", "odds": "1.90", "results": "Win" }
       ],
       "Draw Tips": [
-        { "teamA": "Reading", "teamB": "Bolton Wanderers", "prediction": "X", "odds": "3.50", "results": "Win" },
-        { "teamA": "US Biskra", "teamB": "NRB Telaghema", "prediction": "X", "odds": "3.30", "results": "Win" }
+        { "teamA": "Nyiregyhaza", "teamB": "Kisvárda FC", "prediction": "X", "odds": "3.19", "results": "Win" },
+        { "teamA": "AEP Polemidion", "teamB": "Kedros Agia Marina", "prediction": "X", "odds": "3.40", "results": "Win" }
       ],
       "Free Tips": [
-        { "teamA": "SL Benfica", "teamB": "Real Madrid", "prediction": "Away Win", "odds": "1.91", "results": "Win" },
-        { "teamA": "Monaco", "teamB": "PSG", "prediction": "Away win", "odds": "1.57", "results": "Win" },
-        { "teamA": "Borussia Dortmund", "teamB": "Atalanta", "prediction": "Over 2.5", "odds": "1.45", "results": "Lost" },
-        { "teamA": "Exeter City", "teamB": "Wycombe", "prediction": "Home or Draw", "odds": "1.30", "results": "Win" }
+        { "teamA": "Nairobi United", "teamB": "Bidco United", "prediction": "Home or Draw", "odds": "1.22", "results": "Win" },
+        { "teamA": "East Bengal", "teamB": "Sporting Delhi", "prediction": "Home Win", "odds": "1.33", "results": "Win" },
+        { "teamA": "Swansea City", "teamB": "Bristol City", "prediction": "Home or Draw", "odds": "1.21", "results": "Win" },
+        { "teamA": "Adanaspor", "teamB": "Fethiyespor", "prediction": "Away Win", "odds": "1.54", "results": "Win" }
       ]
     }
   },
