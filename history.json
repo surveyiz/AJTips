@@ -8,8 +8,8 @@
       ],
       "Premium Tips": [
         { "teamA": "Atlético Madrid", "teamB": "Espanyol", "prediction": "HT/FT X/1", "odds": "4.50", "results": "Win" },
-        { "teamA": "Barnet", "teamB": "Swindon Town", "prediction": "Away Win", "odds": "4.33", "results": "Win" },
-        { "teamA": "CA Aldosivi", "teamB": "CA San Miguel", "prediction": "Home Win", "odds": "2.52", "results": "Win" }
+        { "teamA": "Cagliari ", "teamB": "Lazio", "prediction": "Draw", "odds": "3.01", "results": "Win" },
+        { "teamA": "Rapid Bucuresti ", "teamB": "Dinamo Bucuresti", "prediction": "Home Win", "odds": "2.52", "results": "Win" }
       ],
       "Basic Tips": [
         { "teamA": "PSG", "teamB": "Metz", "prediction": "Over 2.5", "odds": "1.51", "results": "Win" },
