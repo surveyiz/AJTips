@@ -30,7 +30,7 @@
       "name": "Liverpool",
       "icon": "https://storage.livescore.com/images/team/medium/teambadge/liverpool-2024.png"
     },
-    "startTime": "23:00",
+    "startTime": "17:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -41,14 +41,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
     "flag": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
     "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/9826.png"
+      "name": "Sunderland",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8472.png"
     },
     "teamB": {
-      "name": "Wolves",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8602.png"
+      "name": "Fulham",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9879.png"
     },
-    "startTime": "23:00",
+    "startTime": "17:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -59,86 +59,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
     "flag": "https://storage.livescore.com/images/competition/high/premier-league-2024.png",
     "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/9826.png"
+      "name": "Tottenham Hotspur",
+      "icon": "https://storage.livescore.com/images/team/medium/teambadge/tottenham-hotspur-2024.png"
     },
     "teamB": {
-      "name": "Wolves",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8602.png"
+      "name": "Arsenal",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9825.png"
     },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": null,
-    "isYoutube": false
-  },
-  {
-    "id": "Champions_001",
-    "league": "Champions League",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-champions-league.png",
-    "flag": "https://storage.livescore.com/images/competition/high/2023-champions-league.png",
-    "teamA": {
-      "name": "Qarabak FK",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/7981.png"
-    },
-    "teamB": {
-      "name": "Newcastle United",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/10261.png"
-    },
-    "startTime": "Finished",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": null,
-    "isYoutube": false
-  },
-  {
-    "id": "Champions_002",
-    "league": "Champions League",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-champions-league.png",
-    "flag": "https://storage.livescore.com/images/competition/high/2023-champions-league.png",
-    "teamA": {
-      "name": "Bodoe/Glimt",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8402.png"
-    },
-    "teamB": {
-      "name": "Inter",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8636.png"
-    },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": null,
-    "isYoutube": false
-  },
-  {
-    "id": "Champions_003",
-    "league": "Champions League",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-champions-league.png",
-    "flag": "https://storage.livescore.com/images/competition/high/2023-champions-league.png",
-    "teamA": {
-      "name": "Club Brugge",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8342.png"
-    },
-    "teamB": {
-      "name": "Atletico Madrid",
-      "icon": "https://storage.livescore.com/images/team/medium/teambadge/atletico-madrid-2024.png"
-    },
-    "startTime": "23:00",
-    "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
-    "thumbnail": null,
-    "isYoutube": false
-  },
-  {
-    "id": "Champions_004",
-    "league": "Champions League",
-    "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-champions-league.png",
-    "flag": "https://storage.livescore.com/images/competition/high/2023-champions-league.png",
-    "teamA": {
-      "name": "Olympiacos",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8638.png"
-    },
-    "teamB": {
-      "name": "Bayer Leverkusen",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8178.png"
-    },
-    "startTime": "23:00",
+    "startTime": "17:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
