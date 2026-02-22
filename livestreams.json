@@ -66,7 +66,7 @@
       "name": "Arsenal",
       "icon": "https://storage.livescore.com/images/team/medium/enet/9825.png"
     },
-    "startTime": "17:00",
+    "startTime": "19:30",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -77,14 +77,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-spain-laliga.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-spain-laliga.png",
     "teamA": {
-      "name": "Levante",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8581.png"
+      "name": "Getafe",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8305.png"
     },
     "teamB": {
-      "name": "Villareal",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/10205.png"
+      "name": "Sevilla",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8302.png"
     },
-    "startTime": "22:00",
+    "startTime": "16:00",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -95,14 +95,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-spain-laliga.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-spain-laliga.png",
     "teamA": {
+      "name": "Barcelona",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8634.png"
+    },
+    "teamB": {
       "name": "Levante",
       "icon": "https://storage.livescore.com/images/team/medium/enet/8581.png"
     },
-    "teamB": {
-      "name": "Villareal",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/10205.png"
-    },
-    "startTime": "22:00",
+    "startTime": "18:15",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
@@ -113,14 +113,14 @@
     "leagueLogo": "https://storage.livescore.com/images/competition/high/2023-spain-laliga.png",
     "flag": "https://storage.livescore.com/images/competition/high/2023-spain-laliga.png",
     "teamA": {
-      "name": "Levante",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8581.png"
+      "name": "Celta Vigo",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9910.png"
     },
     "teamB": {
-      "name": "Villareal",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/10205.png"
+      "name": "Mallorca",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/8661.png"
     },
-    "startTime": "22:00",
+    "startTime": "20:30",
     "videoUrl": "https://livefootball.elitedraws.com/d13d8fba-c695-44b9-8b7b-225dc8fd8f8a.mp4.mp4",
     "thumbnail": null,
     "isYoutube": false
