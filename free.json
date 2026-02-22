@@ -44,15 +44,15 @@
   {
     "id": "match_pl_005_2026_sunderland_palace",
     "teamA": {
-      "name": "Olympiacos",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8638.png"
+      "name": "Tottenham Hotspur",
+      "icon": "https://storage.livescore.com/images/team/medium/teambadge/tottenham-hotspur-2024.png"
     },
     "teamB": {
-      "name": "Bayer Leverkusen",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8178.png"
+      "name": "Arsenal",
+      "icon": "https://storage.livescore.com/images/team/medium/enet/9825.png"
     },
     "leagueName": "FA",
-    "prediction": "Over 2.5",
-    "date": "2026-02-18"
+    "prediction": "Over 1.5",
+    "date": "2026-02-22"
   }
 ]
