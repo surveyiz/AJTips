@@ -1,0 +1,58 @@
+[
+  {
+    "teamA": "Leicester City", "teamB": "West Brom",
+    "iconA": "https://media.api-sports.io/football/teams/46.png",
+    "iconB": "https://media.api-sports.io/football/teams/60.png",
+    "league": "Championship", "leagueLogo": "https://media.api-sports.io/football/leagues/40.png",
+    "kickOff": "15:00", "tip": "Draw", "odds": "3.20", "isLocked": false
+  },
+  {
+    "teamA": "Getafe", "teamB": "Osasuna",
+    "iconA": "https://media.api-sports.io/football/teams/546.png",
+    "iconB": "https://media.api-sports.io/football/teams/727.png",
+    "league": "LaLiga", "leagueLogo": "https://media.api-sports.io/football/leagues/140.png",
+    "kickOff": "14:00", "tip": "Draw", "odds": "3.10", "isLocked": false
+  },
+  {
+    "teamA": "Torino", "teamB": "Bologna",
+    "iconA": "https://media.api-sports.io/football/teams/503.png",
+    "iconB": "https://media.api-sports.io/football/teams/500.png",
+    "league": "Serie A", "leagueLogo": "https://media.api-sports.io/football/leagues/135.png",
+    "kickOff": "18:00", "tip": "Draw", "odds": "3.30", "isLocked": false
+  },
+  {
+    "teamA": "Mainz", "teamB": "Augsburg",
+    "iconA": "https://media.api-sports.io/football/teams/164.png",
+    "iconB": "https://media.api-sports.io/football/teams/170.png",
+    "league": "Bundesliga", "leagueLogo": "https://media.api-sports.io/football/leagues/78.png",
+    "kickOff": "15:30", "tip": "Draw", "odds": "3.50", "isLocked": false
+  },
+  {
+    "teamA": "Reims", "teamB": "Lorient",
+    "iconA": "https://media.api-sports.io/football/teams/78.png",
+    "iconB": "https://media.api-sports.io/football/teams/1160.png",
+    "league": "Ligue 1", "leagueLogo": "https://media.api-sports.io/football/leagues/61.png",
+    "kickOff": "17:00", "tip": "Draw", "odds": "3.20", "isLocked": false
+  },
+  {
+    "teamA": "Brighton", "teamB": "Brentford",
+    "iconA": "https://media.api-sports.io/football/teams/51.png",
+    "iconB": "https://media.api-sports.io/football/teams/55.png",
+    "league": "Premier League", "leagueLogo": "https://media.api-sports.io/football/leagues/39.png",
+    "kickOff": "14:00", "tip": "Draw", "odds": "3.40", "isLocked": false
+  },
+  {
+    "teamA": "Sporting CP", "teamB": "Benfica",
+    "iconA": "https://media.api-sports.io/football/teams/228.png",
+    "iconB": "https://media.api-sports.io/football/teams/211.png",
+    "league": "Primeira Liga", "leagueLogo": "https://media.api-sports.io/football/leagues/94.png",
+    "kickOff": "21:15", "tip": "Draw", "odds": "3.25", "isLocked": false
+  },
+  {
+    "teamA": "Galatasaray", "teamB": "Fenerbahce",
+    "iconA": "https://media.api-sports.io/football/teams/357.png",
+    "iconB": "https://media.api-sports.io/football/teams/361.png",
+    "league": "Süper Lig", "leagueLogo": "https://media.api-sports.io/football/leagues/203.png",
+    "kickOff": "20:00", "tip": "Draw", "odds": "3.40", "isLocked": false
+  }
+]
