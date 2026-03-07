@@ -3,17 +3,15 @@
     "id": "free",
     "title": "Free",
     "subtitle": "Get Started",
-    "price": {
-      "name": "Free",
-      "prices": []
-    },
+    "price": { "name": "Free", "prices": [], "jackpots": [] },
     "features": [
       "1–2 Free Tips Daily",
       "Basic Match Previews",
       "Contains Ads"
     ],
     "type": "FREE",
-    "isMostPopular": false
+    "isMostPopular": false,
+    "kenyaOnly": false
   },
   {
     "id": "basic",
@@ -22,17 +20,11 @@
     "price": {
       "name": "Basic",
       "prices": [
-        {
-          "amount": 3,
-          "duration": "WEEKLY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 9,
-          "duration": "MONTHLY",
-          "baseCurrency": "USD"
-        }
-      ]
+        { "amount": 1,  "duration": "DAILY",   "baseCurrency": "USD" },
+        { "amount": 5,  "duration": "WEEKLY",  "baseCurrency": "USD" },
+        { "amount": 16, "duration": "MONTHLY", "baseCurrency": "USD" }
+      ],
+      "jackpots": []
     },
     "features": [
       "5–10 Curated Tips Daily",
@@ -43,7 +35,8 @@
       "24/7 Support"
     ],
     "type": "BASIC",
-    "isMostPopular": false
+    "isMostPopular": false,
+    "kenyaOnly": false
   },
   {
     "id": "premium",
@@ -52,17 +45,11 @@
     "price": {
       "name": "Premium",
       "prices": [
-        {
-          "amount": 6,
-          "duration": "WEEKLY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 18,
-          "duration": "MONTHLY",
-          "baseCurrency": "USD"
-        }
-      ]
+        { "amount": 3,  "duration": "DAILY",   "baseCurrency": "USD" },
+        { "amount": 15, "duration": "WEEKLY",  "baseCurrency": "USD" },
+        { "amount": 50, "duration": "MONTHLY", "baseCurrency": "USD" }
+      ],
+      "jackpots": []
     },
     "features": [
       "15–30 Premium Tips Daily",
@@ -75,7 +62,8 @@
       "Priority 24/7 Support"
     ],
     "type": "PREMIUM",
-    "isMostPopular": true
+    "isMostPopular": true,
+    "kenyaOnly": false
   },
   {
     "id": "draws",
@@ -84,17 +72,11 @@
     "price": {
       "name": "Draws",
       "prices": [
-        {
-          "amount": 5,
-          "duration": "WEEKLY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 15,
-          "duration": "MONTHLY",
-          "baseCurrency": "USD"
-        }
-      ]
+        { "amount": 1,  "duration": "DAILY",   "baseCurrency": "USD" },
+        { "amount": 5,  "duration": "WEEKLY",  "baseCurrency": "USD" },
+        { "amount": 16, "duration": "MONTHLY", "baseCurrency": "USD" }
+      ],
+      "jackpots": []
     },
     "features": [
       "Daily Draw Predictions",
@@ -107,7 +89,8 @@
       "24/7 Support"
     ],
     "type": "DRAWS",
-    "isMostPopular": false
+    "isMostPopular": false,
+    "kenyaOnly": false
   },
   {
     "id": "correct",
@@ -116,17 +99,11 @@
     "price": {
       "name": "Correct Score",
       "prices": [
-        {
-          "amount": 8,
-          "duration": "WEEKLY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 22,
-          "duration": "MONTHLY",
-          "baseCurrency": "USD"
-        }
-      ]
+        { "amount": 10,  "duration": "DAILY",   "baseCurrency": "USD" },
+        { "amount": 50,  "duration": "WEEKLY",  "baseCurrency": "USD" },
+        { "amount": 150, "duration": "MONTHLY", "baseCurrency": "USD" }
+      ],
+      "jackpots": []
     },
     "features": [
       "Daily Correct Score Predictions",
@@ -139,39 +116,34 @@
       "24/7 Support"
     ],
     "type": "CORRECT_SCORE",
-    "isMostPopular": false
+    "isMostPopular": false,
+    "kenyaOnly": false
   },
   {
     "id": "jackpot",
     "title": "Jackpot",
-    "subtitle": "Multi-Match Accumulator Special",
+    "subtitle": "Kenya Jackpot Predictions",
     "price": {
       "name": "Jackpot",
-      "prices": [
-        {
-          "amount": 9,
-          "duration": "WEEKLY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 25,
-          "duration": "MONTHLY",
-          "baseCurrency": "USD"
-        }
+      "prices": [],
+      "jackpots": [
+        { "bookmaker": "SportPesa Jackpot",     "amount": 3, "baseCurrency": "USD" },
+        { "bookmaker": "SportPesa MegaJackpot", "amount": 4, "baseCurrency": "USD" },
+        { "bookmaker": "Betika Jackpot",        "amount": 3, "baseCurrency": "USD" }
       ]
     },
     "features": [
-      "20 Matches Per Day",
-      "All Leagues Covered",
-      "High-Odds Accumulator Builders",
-      "Bonus Combination Tips",
+      "SportPesa Jackpot Predictions",
+      "SportPesa MegaJackpot Predictions",
+      "Betika Jackpot Predictions",
+      "Expert Match Selection & Reasoning",
+      "High-Odds Combination Tips",
       "Value Bet Identification",
-      "Weekly Mega Jackpot Selections",
-      "Expert Commentary & Reasoning",
       "Ad-Free Access",
       "24/7 Support"
     ],
     "type": "JACKPOT",
-    "isMostPopular": false
+    "isMostPopular": false,
+    "kenyaOnly": true
   }
 ]
