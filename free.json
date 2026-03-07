@@ -1,58 +1,44 @@
 [
   {
-    "id": "match_pl_001_2026_man_utd_city",
-    "teamA": {
-      "name": "Feyenoord",
-      "icon": "https://storage.livescore.com/images/team/medium/teambadge/feyenoord-2024.png"
-    },
-    "teamB": {
-      "name": "Telstar",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/6414.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "Over 2.5",
-    "date": "2026-02-22"
+    "teamA": "Arsenal", "teamB": "Crystal Palace",
+    "iconA": "https://media.api-sports.io/football/teams/42.png",
+    "iconB": "https://media.api-sports.io/football/teams/52.png",
+    "league": "Premier League", "leagueLogo": "https://media.api-sports.io/football/leagues/39.png",
+    "kickOff": "16:00", "tip": "Home Win", "odds": "1.55", "isLocked": false
   },
   {
-    "id": "match_pl_002_2026_chelsea_brentford",
-    "teamA": {
-      "name": "AS Roma",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8686.png"
-    },
-    "teamB": {
-      "name": "Cremonese",
-      "icon": "https://storage.livescore.com/images/team/high/enet/10261.png"
-    },
-    "leagueName": "Bundesliga",
-    "prediction": "Home Win",
-    "date": "2026-02-22"
+    "teamA": "Bayern Munich", "teamB": "Borussia Dortmund",
+    "iconA": "https://media.api-sports.io/football/teams/157.png",
+    "iconB": "https://media.api-sports.io/football/teams/165.png",
+    "league": "Bundesliga", "leagueLogo": "https://media.api-sports.io/football/leagues/78.png",
+    "kickOff": "18:30", "tip": "BTTS", "odds": "1.70", "isLocked": false
   },
   {
-    "id": "match_pl_003_2026_leeds_fulham",
-    "teamA": {
-      "name": "FC Heidenheim",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/94937.pngg"
-    },
-    "teamB": {
-      "name": "VfB Stuttgart",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/10269.png"
-    },
-    "leagueName": "Bundesliga",
-    "prediction": "Away or Draw",
-    "date": "2026-02-22"
+    "teamA": "PSG", "teamB": "Lille",
+    "iconA": "https://media.api-sports.io/football/teams/85.png",
+    "iconB": "https://media.api-sports.io/football/teams/79.png",
+    "league": "Ligue 1", "leagueLogo": "https://media.api-sports.io/football/leagues/61.png",
+    "kickOff": "21:00", "tip": "Home Win", "odds": "1.45", "isLocked": false
   },
   {
-    "id": "match_pl_005_2026_sunderland_palace",
-    "teamA": {
-      "name": "Tottenham Hotspur",
-      "icon": "https://storage.livescore.com/images/team/medium/teambadge/tottenham-hotspur-2024.png"
-    },
-    "teamB": {
-      "name": "Arsenal",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/9825.png"
-    },
-    "leagueName": "FA",
-    "prediction": "Over 1.5",
-    "date": "2026-02-22"
+    "teamA": "Napoli", "teamB": "Fiorentina",
+    "iconA": "https://media.api-sports.io/football/teams/492.png",
+    "iconB": "https://media.api-sports.io/football/teams/502.png",
+    "league": "Serie A", "leagueLogo": "https://media.api-sports.io/football/leagues/135.png",
+    "kickOff": "20:45", "tip": "Over 1.5", "odds": "1.30", "isLocked": false
+  },
+  {
+    "teamA": "Real Madrid", "teamB": "Sevilla",
+    "iconA": "https://media.api-sports.io/football/teams/541.png",
+    "iconB": "https://media.api-sports.io/football/teams/536.png",
+    "league": "LaLiga", "leagueLogo": "https://media.api-sports.io/football/leagues/140.png",
+    "kickOff": "21:00", "tip": "Home Win", "odds": "1.40", "isLocked": false
+  },
+  {
+    "teamA": "Ajax", "teamB": "PSV",
+    "iconA": "https://media.api-sports.io/football/teams/194.png",
+    "iconB": "https://media.api-sports.io/football/teams/197.png",
+    "league": "Eredivisie", "leagueLogo": "https://media.api-sports.io/football/leagues/88.png",
+    "kickOff": "19:45", "tip": "Over 2.5", "odds": "1.65", "isLocked": false
   }
 ]
