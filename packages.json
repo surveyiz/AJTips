@@ -2,13 +2,14 @@
   {
     "id": "free",
     "title": "Free",
-    "subtitle": "The Basics",
+    "subtitle": "Get Started",
     "price": {
       "name": "Free",
       "prices": []
     },
     "features": [
-      "1-2 Free Tips Daily",
+      "1–2 Free Tips Daily",
+      "Basic Match Previews",
       "Contains Ads"
     ],
     "type": "FREE",
@@ -17,7 +18,7 @@
   {
     "id": "basic",
     "title": "Basic",
-    "subtitle": "Best Value",
+    "subtitle": "Best Value for Beginners",
     "price": {
       "name": "Basic",
       "prices": [
@@ -34,8 +35,10 @@
       ]
     },
     "features": [
-      "5-10 Basic Tips Daily",
+      "5–10 Curated Tips Daily",
+      "Top 15 Leagues Covered",
       "Win Rate Analysis",
+      "Match Form & Head-to-Head Stats",
       "Ad-Free Experience",
       "24/7 Support"
     ],
@@ -62,19 +65,86 @@
       ]
     },
     "features": [
-      "15-30 Premium Tips Daily",
-      "Higher Win Probability",
-      "Win Rate Analysis",
+      "15–30 Premium Tips Daily",
+      "Top 5 Leagues — Elite Analysis",
+      "High Win Probability Selections",
+      "BTTS & Over/Under Insights",
+      "In-Depth Team & Player Form",
+      "Injury & Lineup Alerts",
       "Ad-Free Experience",
-      "24/7 Support"
+      "Priority 24/7 Support"
     ],
     "type": "PREMIUM",
     "isMostPopular": true
   },
   {
-    "id": "jackpot",
+    "id": "draws",
     "title": "Draws",
-    "subtitle": "Daily Draws For Big Wins",
+    "subtitle": "High-Value Draw Predictions",
+    "price": {
+      "name": "Draws",
+      "prices": [
+        {
+          "amount": 5,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 15,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD"
+        }
+      ]
+    },
+    "features": [
+      "Daily Draw Predictions",
+      "Top 10 Leagues Covered",
+      "Draw Probability Scoring",
+      "Low-Scoring Match Analysis",
+      "Defensive Form & H2H Draw Stats",
+      "Combo Draw Accumulators",
+      "Ad-Free Experience",
+      "24/7 Support"
+    ],
+    "type": "DRAWS",
+    "isMostPopular": false
+  },
+  {
+    "id": "correct",
+    "title": "Correct Score",
+    "subtitle": "High-Precision Score Predictions",
+    "price": {
+      "name": "Correct Score",
+      "prices": [
+        {
+          "amount": 8,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 22,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD"
+        }
+      ]
+    },
+    "features": [
+      "Daily Correct Score Predictions",
+      "AI-Powered Scoreline Modelling",
+      "Risk & Confidence Rating per Match",
+      "Attacking & Defensive Form Stats",
+      "Average Goals Scored/Conceded",
+      "Expert Match-by-Match Commentary",
+      "Ad-Free Access",
+      "24/7 Support"
+    ],
+    "type": "CORRECT_SCORE",
+    "isMostPopular": false
+  },
+  {
+    "id": "jackpot",
+    "title": "Jackpot",
+    "subtitle": "Multi-Match Accumulator Special",
     "price": {
       "name": "Jackpot",
       "prices": [
@@ -91,40 +161,17 @@
       ]
     },
     "features": [
-      "Weekly Jackpot Analysis",
-      "Bonus Combinations",
-      "Expert Commentary",
-      "Exclusive Jackpot Predictions"
+      "20 Matches Per Day",
+      "All Leagues Covered",
+      "High-Odds Accumulator Builders",
+      "Bonus Combination Tips",
+      "Value Bet Identification",
+      "Weekly Mega Jackpot Selections",
+      "Expert Commentary & Reasoning",
+      "Ad-Free Access",
+      "24/7 Support"
     ],
     "type": "JACKPOT",
-    "isMostPopular": false
-  },
-  {
-    "id": "correct",
-    "title": "Correct Score",
-    "subtitle": "High Precision Tips",
-    "price": {
-      "name": "Correct Score",
-      "prices": [
-        {
-          "amount": 8,
-          "duration": "WEEKLY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 21,
-          "duration": "MONTHLY",
-          "baseCurrency": "USD"
-        }
-      ]
-    },
-    "features": [
-      "Daily Correct Score Predictions",
-      "Risk Assessment Insights",
-      "Expert Match Analysis",
-      "Ad-Free Access"
-    ],
-    "type": "CORRECT_SCORE",
     "isMostPopular": false
   }
 ]
