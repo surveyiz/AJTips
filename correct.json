@@ -1,86 +1,58 @@
 [
   {
-    "id": "match_01_af_2026_algeria",
-    "teamA": {
-      "name": "Algeria",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/algeria.png"
-    },
-    "teamB": {
-      "name": "Nigeria",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/nigeria.png"
-    },
-    "leagueName": "Africa Cup of Nations",
-    "prediction": "1-1",
-    "date": "2026-01-10"
+    "teamA": "Nigeria", "teamB": "Mozambique",
+    "iconA": "https://media.api-sports.io/football/teams/25.png",
+    "iconB": "https://media.api-sports.io/football/teams/1047.png",
+    "league": "Africa Cup of Nations", "leagueLogo": "https://media.api-sports.io/football/leagues/6.png",
+    "kickOff": "19:00", "tip": "2-0 (CS)", "odds": "6.50", "isLocked": false
   },
   {
-    "id": "match_02_fa_2026_tottenham",
-    "teamA": {
-      "name": "Tottenham Hotspur",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/tottenham-hotspur.png"
-    },
-    "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/aston-villa.png"
-    },
-    "leagueName": "FA Cup",
-    "prediction": "2-2",
-    "date": "2026-01-10"
+    "teamA": "Galatasaray", "teamB": "Trabzonspor",
+    "iconA": "https://media.api-sports.io/football/teams/357.png",
+    "iconB": "https://media.api-sports.io/football/teams/354.png",
+    "league": "Süper Lig", "leagueLogo": "https://media.api-sports.io/football/leagues/203.png",
+    "kickOff": "20:00", "tip": "2-1 (CS)", "odds": "8.00", "isLocked": false
   },
   {
-    "id": "match_03_it_2026_roma",
-    "teamA": {
-      "name": "Roma",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8686.png"
-    },
-    "teamB": {
-      "name": "Sassuolo",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8564.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "2-0",
-    "date": "2026-01-10"
+    "teamA": "Tottenham", "teamB": "Aston Villa",
+    "iconA": "https://media.api-sports.io/football/teams/47.png",
+    "iconB": "https://media.api-sports.io/football/teams/66.png",
+    "league": "FA Cup", "leagueLogo": "https://media.api-sports.io/football/leagues/45.png",
+    "kickOff": "17:15", "tip": "2-2 (CS)", "odds": "10.50", "isLocked": false
   },
   {
-    "id": "match_04_es_2026_villarreal",
-    "teamA": {
-      "name": "Villarreal",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/10205.png"
-    },
-    "teamB": {
-      "name": "Alaves",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/9636.png"
-    },
-    "leagueName": "LaLiga",
-    "prediction": "2-1",
-    "date": "2026-01-10"
+    "teamA": "Roma", "teamB": "Sassuolo",
+    "iconA": "https://media.api-sports.io/football/teams/497.png",
+    "iconB": "https://media.api-sports.io/football/teams/500.png",
+    "league": "Serie A", "leagueLogo": "https://media.api-sports.io/football/leagues/135.png",
+    "kickOff": "20:45", "tip": "2-0 (CS)", "odds": "7.00", "isLocked": false
   },
   {
-    "id": "match_05_de_2026_leverkusen",
-    "teamA": {
-      "name": "Bayer Leverkusen",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8178.png"
-    },
-    "teamB": {
-      "name": "Stuttgart",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/10269.png"
-    },
-    "leagueName": "Bundesliga",
-    "prediction": "3-1",
-    "date": "2026-01-10"
+    "teamA": "Bayer Leverkusen", "teamB": "Stuttgart",
+    "iconA": "https://media.api-sports.io/football/teams/168.png",
+    "iconB": "https://media.api-sports.io/football/teams/172.png",
+    "league": "Bundesliga", "leagueLogo": "https://media.api-sports.io/football/leagues/78.png",
+    "kickOff": "18:30", "tip": "3-1 (CS)", "odds": "11.00", "isLocked": false
   },
   {
-    "id": "match_06_fa_2026_mancity",
-    "teamA": {
-      "name": "Manchester City",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/8456.png"
-    },
-    "teamB": {
-      "name": "Exeter City",
-      "icon": "https://storage.livescore.com/images/team/medium/badge/exeter-city.png"
-    },
-    "leagueName": "FA Cup",
-    "prediction": "4-0",
-    "date": "2026-01-10"
+    "teamA": "Manchester City", "teamB": "Exeter City",
+    "iconA": "https://media.api-sports.io/football/teams/50.png",
+    "iconB": "https://media.api-sports.io/football/teams/57.png",
+    "league": "FA Cup", "leagueLogo": "https://media.api-sports.io/football/leagues/45.png",
+    "kickOff": "15:00", "tip": "4-0 (CS)", "odds": "12.00", "isLocked": false
+  },
+  {
+    "teamA": "Egypt", "teamB": "Benin",
+    "iconA": "https://media.api-sports.io/football/teams/3.png",
+    "iconB": "https://media.api-sports.io/football/teams/1049.png",
+    "league": "Africa Cup of Nations", "leagueLogo": "https://media.api-sports.io/football/leagues/6.png",
+    "kickOff": "16:00", "tip": "3-0 (CS)", "odds": "9.00", "isLocked": false
+  },
+  {
+    "teamA": "Benevento", "teamB": "Crotone",
+    "iconA": "https://media.api-sports.io/football/teams/511.png",
+    "iconB": "https://media.api-sports.io/football/teams/481.png",
+    "league": "Serie C", "leagueLogo": "https://media.api-sports.io/football/leagues/136.png",
+    "kickOff": "14:00", "tip": "1-0 (CS)", "odds": "5.50", "isLocked": false
   }
 ]
