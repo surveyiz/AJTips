@@ -1,30 +1,93 @@
 [
   {
-    "id": "match_draw_01_ch_2026",
-    "teamA": {
-      "name": "Leicester City",
-      "icon": "https://storage.livescore.com/images/team/medium/teambadge/leicester-city-2024.png"
-    },
-    "teamB": {
-      "name": "West Brom",
-      "icon": "https://storage.livescore.com/images/team/medium/teambadge/west-bromwich-albion-2024.png"
-    },
-    "leagueName": "Championship",
-    "prediction": "Draw",
-    "date": "2026-01-05"
+    "teamA": "Arsenal", "teamB": "Man Utd",
+    "iconA": "https://media.api-sports.io/football/teams/42.png",
+    "iconB": "https://media.api-sports.io/football/teams/33.png",
+    "league": "Premier League", "leagueLogo": "https://media.api-sports.io/football/leagues/39.png",
+    "kickOff": "12:30", "tip": "Home Win", "odds": "2.10", "isLocked": false
   },
   {
-    "id": "match_draw_02_nl_2026",
-    "teamA": {
-      "name": "Chelmsford",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/9869.png"
-    },
-    "teamB": {
-      "name": "Slough Town",
-      "icon": "https://storage.livescore.com/images/team/medium/enet/9870.png"
-    },
-    "leagueName": "National League South",
-    "prediction": "Draw",
-    "date": "2026-01-05"
+    "teamA": "Real Madrid", "teamB": "Barcelona",
+    "iconA": "https://media.api-sports.io/football/teams/541.png",
+    "iconB": "https://media.api-sports.io/football/teams/529.png",
+    "league": "LaLiga", "leagueLogo": "https://media.api-sports.io/football/leagues/140.png",
+    "kickOff": "21:00", "tip": "Home Win", "odds": "1.85", "isLocked": false
+  },
+  {
+    "teamA": "Bayern Munich", "teamB": "Borussia Dortmund",
+    "iconA": "https://media.api-sports.io/football/teams/157.png",
+    "iconB": "https://media.api-sports.io/football/teams/165.png",
+    "league": "Bundesliga", "leagueLogo": "https://media.api-sports.io/football/leagues/78.png",
+    "kickOff": "18:30", "tip": "Home Win", "odds": "1.70", "isLocked": false
+  },
+  {
+    "teamA": "PSG", "teamB": "Marseille",
+    "iconA": "https://media.api-sports.io/football/teams/85.png",
+    "iconB": "https://media.api-sports.io/football/teams/81.png",
+    "league": "Ligue 1", "leagueLogo": "https://media.api-sports.io/football/leagues/61.png",
+    "kickOff": "21:00", "tip": "Home Win", "odds": "1.60", "isLocked": false
+  },
+  {
+    "teamA": "Inter", "teamB": "AC Milan",
+    "iconA": "https://media.api-sports.io/football/teams/505.png",
+    "iconB": "https://media.api-sports.io/football/teams/489.png",
+    "league": "Serie A", "leagueLogo": "https://media.api-sports.io/football/leagues/135.png",
+    "kickOff": "20:45", "tip": "Home Win", "odds": "2.00", "isLocked": false
+  },
+  {
+    "teamA": "Chelsea", "teamB": "Liverpool",
+    "iconA": "https://media.api-sports.io/football/teams/49.png",
+    "iconB": "https://media.api-sports.io/football/teams/40.png",
+    "league": "Premier League", "leagueLogo": "https://media.api-sports.io/football/leagues/39.png",
+    "kickOff": "16:30", "tip": "Away Win", "odds": "2.20", "isLocked": false
+  },
+  {
+    "teamA": "Atletico Madrid", "teamB": "Sevilla",
+    "iconA": "https://media.api-sports.io/football/teams/530.png",
+    "iconB": "https://media.api-sports.io/football/teams/536.png",
+    "league": "LaLiga", "leagueLogo": "https://media.api-sports.io/football/leagues/140.png",
+    "kickOff": "18:30", "tip": "Home Win", "odds": "1.90", "isLocked": false
+  },
+  {
+    "teamA": "Napoli", "teamB": "Juventus",
+    "iconA": "https://media.api-sports.io/football/teams/492.png",
+    "iconB": "https://media.api-sports.io/football/teams/496.png",
+    "league": "Serie A", "leagueLogo": "https://media.api-sports.io/football/leagues/135.png",
+    "kickOff": "20:45", "tip": "Over 2.5", "odds": "1.75", "isLocked": false
+  },
+  {
+    "teamA": "Ajax", "teamB": "PSV",
+    "iconA": "https://media.api-sports.io/football/teams/194.png",
+    "iconB": "https://media.api-sports.io/football/teams/197.png",
+    "league": "Eredivisie", "leagueLogo": "https://media.api-sports.io/football/leagues/88.png",
+    "kickOff": "19:45", "tip": "Home Win", "odds": "2.05", "isLocked": false
+  },
+  {
+    "teamA": "Benfica", "teamB": "Sporting CP",
+    "iconA": "https://media.api-sports.io/football/teams/211.png",
+    "iconB": "https://media.api-sports.io/football/teams/228.png",
+    "league": "Primeira Liga", "leagueLogo": "https://media.api-sports.io/football/leagues/94.png",
+    "kickOff": "21:15", "tip": "Home Win", "odds": "2.10", "isLocked": false
+  },
+  {
+    "teamA": "Rangers", "teamB": "Celtic",
+    "iconA": "https://media.api-sports.io/football/teams/396.png",
+    "iconB": "https://media.api-sports.io/football/teams/397.png",
+    "league": "Scottish Premiership", "leagueLogo": "https://media.api-sports.io/football/leagues/179.png",
+    "kickOff": "12:00", "tip": "Away Win", "odds": "2.40", "isLocked": false
+  },
+  {
+    "teamA": "Galatasaray", "teamB": "Fenerbahce",
+    "iconA": "https://media.api-sports.io/football/teams/357.png",
+    "iconB": "https://media.api-sports.io/football/teams/361.png",
+    "league": "Süper Lig", "leagueLogo": "https://media.api-sports.io/football/leagues/203.png",
+    "kickOff": "20:00", "tip": "Home Win", "odds": "1.95", "isLocked": false
+  },
+  {
+    "teamA": "Bayer Leverkusen", "teamB": "Leipzig",
+    "iconA": "https://media.api-sports.io/football/teams/168.png",
+    "iconB": "https://media.api-sports.io/football/teams/173.png",
+    "league": "Bundesliga", "leagueLogo": "https://media.api-sports.io/football/leagues/78.png",
+    "kickOff": "18:30", "tip": "Home Win", "odds": "1.80", "isLocked": false
   }
 ]
