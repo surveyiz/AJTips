@@ -3,28 +3,28 @@
     "date": "March 29, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Malkiya", "teamB": "Al Khaldiya", "prediction": "1-2", "odds": "9.91", "results": "Win" },
-        { "teamA": "Eupen", "teamB": "Francs Borains", "prediction": "1-1", "odds": "6.8", "results": "Win" }
+        { "teamA": "Malkiya", "teamB": "Al Khaldiya", "homeLogo": "", "awayLogo": "", "prediction": "1-2", "odds": "9.91", "result": "WON", "score": "1-2" },
+        { "teamA": "Eupen", "teamB": "Francs Borains", "homeLogo": "", "awayLogo": "", "prediction": "1-1", "odds": "6.80", "result": "WON", "score": "1-1" }
       ],
       "Premium Tips": [
-        { "teamA": "Atlético Madrid", "teamB": "Espanyol", "prediction": "HT/FT X/1", "odds": "4.50", "results": "Win" },
-        { "teamA": "Cagliari ", "teamB": "Lazio", "prediction": "Draw", "odds": "3.01", "results": "Win" },
-        { "teamA": "Rapid Bucuresti ", "teamB": "Dinamo Bucuresti", "prediction": "Home Win", "odds": "2.52", "results": "Win" }
+        { "teamA": "Atlético Madrid", "teamB": "Espanyol", "homeLogo": "", "awayLogo": "", "prediction": "HT/FT X/1", "odds": "4.50", "result": "WON", "score": "" },
+        { "teamA": "Cagliari", "teamB": "Lazio", "homeLogo": "", "awayLogo": "", "prediction": "Draw", "odds": "3.01", "result": "WON", "score": "" },
+        { "teamA": "Rapid Bucuresti", "teamB": "Dinamo Bucuresti", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "2.52", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "PSG", "teamB": "Metz", "prediction": "Over 2.5", "odds": "1.51", "results": "Win" },
-        { "teamA": "Sporting Braga", "teamB": "Vitória", "prediction": "Home Win", "odds": "1.55", "results": "Win" },
-        { "teamA": "Manchester City", "teamB": "Newcastle United", "prediction": "Home Win", "odds": "1.45", "results": "Win" }
+        { "teamA": "PSG", "teamB": "Metz", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.51", "result": "WON", "score": "" },
+        { "teamA": "Sporting Braga", "teamB": "Vitória", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.55", "result": "WON", "score": "" },
+        { "teamA": "Manchester City", "teamB": "Newcastle United", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.45", "result": "WON", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "Nyiregyhaza", "teamB": "Kisvárda FC", "prediction": "X", "odds": "3.19", "results": "Win" },
-        { "teamA": "AEP Polemidion", "teamB": "Kedros Agia Marina", "prediction": "X", "odds": "3.40", "results": "Win" }
+        { "teamA": "Nyiregyhaza", "teamB": "Kisvárda FC", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.19", "result": "WON", "score": "" },
+        { "teamA": "AEP Polemidion", "teamB": "Kedros Agia Marina", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.40", "result": "WON", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "Nairobi United", "teamB": "Bidco United", "prediction": "Home or Draw", "odds": "1.22", "results": "Win" },
-        { "teamA": "East Bengal", "teamB": "Sporting Delhi", "prediction": "Home Win", "odds": "1.33", "results": "Win" },
-        { "teamA": "Swansea City", "teamB": "Bristol City", "prediction": "Home or Draw", "odds": "1.21", "results": "Win" },
-        { "teamA": "Adanaspor", "teamB": "Fethiyespor", "prediction": "Away Win", "odds": "1.54", "results": "Win" }
+        { "teamA": "Nairobi United", "teamB": "Bidco United", "homeLogo": "", "awayLogo": "", "prediction": "Home or Draw", "odds": "1.22", "result": "WON", "score": "" },
+        { "teamA": "East Bengal", "teamB": "Sporting Delhi", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.33", "result": "WON", "score": "" },
+        { "teamA": "Swansea City", "teamB": "Bristol City", "homeLogo": "", "awayLogo": "", "prediction": "Home or Draw", "odds": "1.21", "result": "WON", "score": "" },
+        { "teamA": "Adanaspor", "teamB": "Fethiyespor", "homeLogo": "", "awayLogo": "", "prediction": "Away Win", "odds": "1.54", "result": "WON", "score": "" }
       ]
     }
   },
@@ -32,128 +32,114 @@
     "date": "Feb 21, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Malkiya", "teamB": "Al Khaldiya", "prediction": "1-2", "odds": "9.91", "results": "Win" },
-        { "teamA": "Eupen", "teamB": "Francs Borains", "prediction": "1-1", "odds": "6.8", "results": "Win" }
+        { "teamA": "Malkiya", "teamB": "Al Khaldiya", "homeLogo": "", "awayLogo": "", "prediction": "1-2", "odds": "9.91", "result": "WON", "score": "1-2" },
+        { "teamA": "Eupen", "teamB": "Francs Borains", "homeLogo": "", "awayLogo": "", "prediction": "1-1", "odds": "6.80", "result": "WON", "score": "1-1" }
       ],
       "Premium Tips": [
-        { "teamA": "Atlético Madrid", "teamB": "Espanyol", "prediction": "HT/FT X/1", "odds": "4.50", "results": "Win" },
-        { "teamA": "Cagliari ", "teamB": "Lazio", "prediction": "Draw", "odds": "3.01", "results": "Win" },
-        { "teamA": "Rapid Bucuresti ", "teamB": "Dinamo Bucuresti", "prediction": "Home Win", "odds": "2.52", "results": "Win" }
+        { "teamA": "Atlético Madrid", "teamB": "Espanyol", "homeLogo": "", "awayLogo": "", "prediction": "HT/FT X/1", "odds": "4.50", "result": "WON", "score": "" },
+        { "teamA": "Cagliari", "teamB": "Lazio", "homeLogo": "", "awayLogo": "", "prediction": "Draw", "odds": "3.01", "result": "WON", "score": "" },
+        { "teamA": "Rapid Bucuresti", "teamB": "Dinamo Bucuresti", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "2.52", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "PSG", "teamB": "Metz", "prediction": "Over 2.5", "odds": "1.51", "results": "Win" },
-        { "teamA": "Sporting Braga", "teamB": "Vitória", "prediction": "Home Win", "odds": "1.55", "results": "Win" },
-        { "teamA": "Manchester City", "teamB": "Newcastle United", "prediction": "Home Win", "odds": "1.45", "results": "Win" }
+        { "teamA": "PSG", "teamB": "Metz", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.51", "result": "WON", "score": "" },
+        { "teamA": "Sporting Braga", "teamB": "Vitória", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.55", "result": "WON", "score": "" },
+        { "teamA": "Manchester City", "teamB": "Newcastle United", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.45", "result": "WON", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "Nyiregyhaza", "teamB": "Kisvárda FC", "prediction": "X", "odds": "3.19", "results": "Win" },
-        { "teamA": "AEP Polemidion", "teamB": "Kedros Agia Marina", "prediction": "X", "odds": "3.40", "results": "Win" }
+        { "teamA": "Nyiregyhaza", "teamB": "Kisvárda FC", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.19", "result": "WON", "score": "" },
+        { "teamA": "AEP Polemidion", "teamB": "Kedros Agia Marina", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.40", "result": "WON", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "Nairobi United", "teamB": "Bidco United", "prediction": "Home or Draw", "odds": "1.22", "results": "Win" },
-        { "teamA": "East Bengal", "teamB": "Sporting Delhi", "prediction": "Home Win", "odds": "1.33", "results": "Win" },
-        { "teamA": "Swansea City", "teamB": "Bristol City", "prediction": "Home or Draw", "odds": "1.21", "results": "Win" },
-        { "teamA": "Adanaspor", "teamB": "Fethiyespor", "prediction": "Away Win", "odds": "1.54", "results": "Win" }
+        { "teamA": "Nairobi United", "teamB": "Bidco United", "homeLogo": "", "awayLogo": "", "prediction": "Home or Draw", "odds": "1.22", "result": "WON", "score": "" },
+        { "teamA": "East Bengal", "teamB": "Sporting Delhi", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.33", "result": "WON", "score": "" },
+        { "teamA": "Swansea City", "teamB": "Bristol City", "homeLogo": "", "awayLogo": "", "prediction": "Home or Draw", "odds": "1.21", "result": "WON", "score": "" },
+        { "teamA": "Adanaspor", "teamB": "Fethiyespor", "homeLogo": "", "awayLogo": "", "prediction": "Away Win", "odds": "1.54", "result": "WON", "score": "" }
       ]
     }
   },
-  
-  
   {
     "date": "Feb 17, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Steve Biko FC", "teamB": "BST Galaxy", "prediction": "0-0", "odds": "5.21", "results": "Win" },
-        { "teamA": "Zamalek SC", "teamB": "Ceramica Cleopatra", "prediction": "1-3", "odds": "8.71", "results": "Win" }
+        { "teamA": "Steve Biko FC", "teamB": "BST Galaxy", "homeLogo": "", "awayLogo": "", "prediction": "0-0", "odds": "5.21", "result": "WON", "score": "0-0" },
+        { "teamA": "Zamalek SC", "teamB": "Ceramica Cleopatra", "homeLogo": "", "awayLogo": "", "prediction": "1-3", "odds": "8.71", "result": "WON", "score": "1-3" }
       ],
       "Premium Tips": [
-        { "teamA": "Zamalek SC", "teamB": "Ceramica Cleopatra", "prediction": "Away Win", "odds": "3.50", "results": "Win" },
-        { "teamA": "Barnet", "teamB": "Swindon Town", "prediction": "Away Win", "odds": "4.33", "results": "Win" },
-        { "teamA": "CA Aldosivi", "teamB": "CA San Miguel", "prediction": "Home Win", "odds": "2.52", "results": "Win" }
+        { "teamA": "Zamalek SC", "teamB": "Ceramica Cleopatra", "homeLogo": "", "awayLogo": "", "prediction": "Away Win", "odds": "3.50", "result": "WON", "score": "" },
+        { "teamA": "Barnet", "teamB": "Swindon Town", "homeLogo": "", "awayLogo": "", "prediction": "Away Win", "odds": "4.33", "result": "WON", "score": "" },
+        { "teamA": "CA Aldosivi", "teamB": "CA San Miguel", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "2.52", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "SL Benfica", "teamB": "Real Madrid", "prediction": "Away Win", "odds": "1.91", "results": "Win" },
-        { "teamA": "Monaco", "teamB": "PSG", "prediction": "Away Win", "odds": "1.57", "results": "Win" },
-        { "teamA": "Borussia Dortmund", "teamB": "Atalanta", "prediction": "Home Win", "odds": "1.90", "results": "Win" }
+        { "teamA": "SL Benfica", "teamB": "Real Madrid", "homeLogo": "", "awayLogo": "", "prediction": "Away Win", "odds": "1.91", "result": "WON", "score": "" },
+        { "teamA": "Monaco", "teamB": "PSG", "homeLogo": "", "awayLogo": "", "prediction": "Away Win", "odds": "1.57", "result": "WON", "score": "" },
+        { "teamA": "Borussia Dortmund", "teamB": "Atalanta", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.90", "result": "WON", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "Reading", "teamB": "Bolton Wanderers", "prediction": "X", "odds": "3.50", "results": "Win" },
-        { "teamA": "US Biskra", "teamB": "NRB Telaghema", "prediction": "X", "odds": "3.30", "results": "Win" }
+        { "teamA": "Reading", "teamB": "Bolton Wanderers", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.50", "result": "WON", "score": "" },
+        { "teamA": "US Biskra", "teamB": "NRB Telaghema", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.30", "result": "WON", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "SL Benfica", "teamB": "Real Madrid", "prediction": "Away Win", "odds": "1.91", "results": "Win" },
-        { "teamA": "Monaco", "teamB": "PSG", "prediction": "Away win", "odds": "1.57", "results": "Win" },
-        { "teamA": "Borussia Dortmund", "teamB": "Atalanta", "prediction": "Over 2.5", "odds": "1.45", "results": "Lost" },
-        { "teamA": "Exeter City", "teamB": "Wycombe", "prediction": "Home or Draw", "odds": "1.30", "results": "Win" }
+        { "teamA": "SL Benfica", "teamB": "Real Madrid", "homeLogo": "", "awayLogo": "", "prediction": "Away Win", "odds": "1.91", "result": "WON", "score": "" },
+        { "teamA": "Monaco", "teamB": "PSG", "homeLogo": "", "awayLogo": "", "prediction": "Away Win", "odds": "1.57", "result": "WON", "score": "" },
+        { "teamA": "Borussia Dortmund", "teamB": "Atalanta", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.45", "result": "LOST", "score": "" },
+        { "teamA": "Exeter City", "teamB": "Wycombe", "homeLogo": "", "awayLogo": "", "prediction": "Home or Draw", "odds": "1.30", "result": "WON", "score": "" }
       ]
     }
   },
-
-
-
-
-
-  
   {
     "date": "Feb 13, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Osasuna", "teamB": "Osasuna", "prediction": "0-0", "odds": "6.50", "results": "Win" },
-        { "teamA": "Fluminense", "teamB": "Botafogo", "prediction": "1-0", "odds": "7.21", "results": "Win" }
+        { "teamA": "Osasuna", "teamB": "Osasuna", "homeLogo": "", "awayLogo": "", "prediction": "0-0", "odds": "6.50", "result": "WON", "score": "0-0" },
+        { "teamA": "Fluminense", "teamB": "Botafogo", "homeLogo": "", "awayLogo": "", "prediction": "1-0", "odds": "7.21", "result": "WON", "score": "1-0" }
       ],
       "Premium Tips": [
-        { "teamA": "Monaco", "teamB": "Nantes", "prediction": "Home Win & Over 2.5", "odds": "2.20", "results": "Win" },
-        { "teamA": "Cork City", "teamB": "Treaty United", "prediction": "HT/FT X/1", "odds": "5.23", "results": "Win" },
-        { "teamA": "Elche", "teamB": "Osasuna", "prediction": "HT/FT X/X", "odds": "4.8", "results": "Win" }
+        { "teamA": "Monaco", "teamB": "Nantes", "homeLogo": "", "awayLogo": "", "prediction": "Home Win & Over 2.5", "odds": "2.20", "result": "WON", "score": "" },
+        { "teamA": "Cork City", "teamB": "Treaty United", "homeLogo": "", "awayLogo": "", "prediction": "HT/FT X/1", "odds": "5.23", "result": "WON", "score": "" },
+        { "teamA": "Elche", "teamB": "Osasuna", "homeLogo": "", "awayLogo": "", "prediction": "HT/FT X/X", "odds": "4.80", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "UCD Dublin", "teamB": "Kerry", "prediction": "Home & BTTS", "odds": "2.88", "results": "Win" },
-        { "teamA": "Wrexham FC", "teamB": "Ipswich Town", "prediction": "Home win", "odds": "2.07", "results": "Win" },
-        { "teamA": "AC Pisa", "teamB": "Milan", "prediction": "GG", "odds": "1.90", "results": "Win" }
+        { "teamA": "UCD Dublin", "teamB": "Kerry", "homeLogo": "", "awayLogo": "", "prediction": "Home & BTTS", "odds": "2.88", "result": "WON", "score": "" },
+        { "teamA": "Wrexham FC", "teamB": "Ipswich Town", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "2.07", "result": "WON", "score": "" },
+        { "teamA": "AC Pisa", "teamB": "Milan", "homeLogo": "", "awayLogo": "", "prediction": "GG", "odds": "1.90", "result": "WON", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "CD Tondela", "teamB": "FC Alverca", "prediction": "X", "odds": "3.12", "results": "Win" },
-        { "teamA": "Elche", "teamB": "Osasuna", "prediction": "X", "odds": "3.30", "results": "Win" }
+        { "teamA": "CD Tondela", "teamB": "FC Alverca", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.12", "result": "WON", "score": "" },
+        { "teamA": "Elche", "teamB": "Osasuna", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.30", "result": "WON", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "CA Tigre", "teamB": "CA Aldosivi", "prediction": "Home Win", "odds": "1.91", "results": "Win" },
-        { "teamA": "Santa Clara", "teamB": "SL Benfica", "prediction": "Over 2.5", "odds": "1.52", "results": "Win" },
-        { "teamA": "Volendam", "teamB": "PSV Eindhoven", "prediction": "Over 2.5", "odds": "1.45", "results": "Win" },
-        { "teamA": "Hull City", "teamB": "Chelsea", "prediction": "Away Win", "odds": "1.30", "results": "Win" }
+        { "teamA": "CA Tigre", "teamB": "CA Aldosivi", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.91", "result": "WON", "score": "" },
+        { "teamA": "Santa Clara", "teamB": "SL Benfica", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.52", "result": "WON", "score": "" },
+        { "teamA": "Volendam", "teamB": "PSV Eindhoven", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.45", "result": "WON", "score": "" },
+        { "teamA": "Hull City", "teamB": "Chelsea", "homeLogo": "", "awayLogo": "", "prediction": "Away Win", "odds": "1.30", "result": "WON", "score": "" }
       ]
     }
   },
-
-
-
-
-
-  
   {
     "date": "Feb 12, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "AC Milan", "teamB": "Roma", "prediction": "2-1", "odds": "8.50", "results": "Win" },
-        { "teamA": "PSG", "teamB": "Lille", "prediction": "3-0", "odds": "9.00", "results": "Loss" }
+        { "teamA": "AC Milan", "teamB": "Roma", "homeLogo": "", "awayLogo": "", "prediction": "2-1", "odds": "8.50", "result": "WON", "score": "2-1" },
+        { "teamA": "PSG", "teamB": "Lille", "homeLogo": "", "awayLogo": "", "prediction": "3-0", "odds": "9.00", "result": "LOST", "score": "" }
       ],
       "Premium Tips": [
-        { "teamA": "PSG", "teamB": "Lille", "prediction": "Home Win", "odds": "1.45", "results": "Win" },
-        { "teamA": "AC Milan", "teamB": "Roma", "prediction": "BTTS", "odds": "1.75", "results": "Win" },
-        { "teamA": "Benfica", "teamB": "Sporting CP", "prediction": "Over 2.5", "odds": "1.80", "results": "Win" }
+        { "teamA": "PSG", "teamB": "Lille", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.45", "result": "WON", "score": "" },
+        { "teamA": "AC Milan", "teamB": "Roma", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.75", "result": "WON", "score": "" },
+        { "teamA": "Benfica", "teamB": "Sporting CP", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.80", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "Galatasaray", "teamB": "Fenerbahce", "prediction": "1X", "odds": "1.35", "results": "Win" },
-        { "teamA": "Ajax", "teamB": "AZ Alkmaar", "prediction": "Over 1.5", "odds": "1.22", "results": "Win" },
-        { "teamA": "Club Brugge", "teamB": "Anderlecht", "prediction": "Home Win", "odds": "1.90", "results": "Loss" }
+        { "teamA": "Galatasaray", "teamB": "Fenerbahce", "homeLogo": "", "awayLogo": "", "prediction": "1X", "odds": "1.35", "result": "WON", "score": "" },
+        { "teamA": "Ajax", "teamB": "AZ Alkmaar", "homeLogo": "", "awayLogo": "", "prediction": "Over 1.5", "odds": "1.22", "result": "WON", "score": "" },
+        { "teamA": "Club Brugge", "teamB": "Anderlecht", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.90", "result": "LOST", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "Galatasaray", "teamB": "Fenerbahce", "prediction": "X", "odds": "3.40", "results": "Win" }
+        { "teamA": "Galatasaray", "teamB": "Fenerbahce", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.40", "result": "WON", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "Ajax", "teamB": "AZ Alkmaar", "prediction": "BTTS", "odds": "1.60", "results": "Win" },
-        { "teamA": "PSG", "teamB": "Lille", "prediction": "Home Win -1", "odds": "2.10", "results": "Win" },
-        { "teamA": "AC Milan", "teamB": "Roma", "prediction": "Over 1.5", "odds": "1.30", "results": "Win" },
-        { "teamA": "Celtic", "teamB": "Hearts", "prediction": "Home Win", "odds": "1.25", "results": "Win" }
+        { "teamA": "Ajax", "teamB": "AZ Alkmaar", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.60", "result": "WON", "score": "" },
+        { "teamA": "PSG", "teamB": "Lille", "homeLogo": "", "awayLogo": "", "prediction": "Home Win -1", "odds": "2.10", "result": "WON", "score": "" },
+        { "teamA": "AC Milan", "teamB": "Roma", "homeLogo": "", "awayLogo": "", "prediction": "Over 1.5", "odds": "1.30", "result": "WON", "score": "" },
+        { "teamA": "Celtic", "teamB": "Hearts", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.25", "result": "WON", "score": "" }
       ]
     }
   },
@@ -161,27 +147,27 @@
     "date": "Feb 11, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Real Madrid", "teamB": "Sevilla", "prediction": "2-0", "odds": "7.00", "results": "Win" },
-        { "teamA": "Man City", "teamB": "Aston Villa", "prediction": "3-1", "odds": "10.50", "results": "Win" }
+        { "teamA": "Real Madrid", "teamB": "Sevilla", "homeLogo": "", "awayLogo": "", "prediction": "2-0", "odds": "7.00", "result": "WON", "score": "2-0" },
+        { "teamA": "Man City", "teamB": "Aston Villa", "homeLogo": "", "awayLogo": "", "prediction": "3-1", "odds": "10.50", "result": "WON", "score": "3-1" }
       ],
       "Premium Tips": [
-        { "teamA": "Real Madrid", "teamB": "Sevilla", "prediction": "Home Win", "odds": "1.40", "results": "Win" },
-        { "teamA": "Man City", "teamB": "Aston Villa", "prediction": "Over 2.5", "odds": "1.55", "results": "Win" },
-        { "teamA": "Napoli", "teamB": "Fiorentina", "prediction": "Home Win", "odds": "1.85", "results": "Win" }
+        { "teamA": "Real Madrid", "teamB": "Sevilla", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.40", "result": "WON", "score": "" },
+        { "teamA": "Man City", "teamB": "Aston Villa", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.55", "result": "WON", "score": "" },
+        { "teamA": "Napoli", "teamB": "Fiorentina", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.85", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "Bayer Leverkusen", "teamB": "Stuttgart", "prediction": "BTTS", "odds": "1.65", "results": "Win" },
-        { "teamA": "Porto", "teamB": "Rio Ave", "prediction": "Home Win", "odds": "1.30", "results": "Win" },
-        { "teamA": "Napoli", "teamB": "Fiorentina", "prediction": "1X", "odds": "1.25", "results": "Win" }
+        { "teamA": "Bayer Leverkusen", "teamB": "Stuttgart", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.65", "result": "WON", "score": "" },
+        { "teamA": "Porto", "teamB": "Rio Ave", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.30", "result": "WON", "score": "" },
+        { "teamA": "Napoli", "teamB": "Fiorentina", "homeLogo": "", "awayLogo": "", "prediction": "1X", "odds": "1.25", "result": "WON", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "Bayer Leverkusen", "teamB": "Stuttgart", "prediction": "X", "odds": "3.60", "results": "Loss" }
+        { "teamA": "Bayer Leverkusen", "teamB": "Stuttgart", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.60", "result": "LOST", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "Man City", "teamB": "Aston Villa", "prediction": "BTTS", "odds": "1.70", "results": "Win" },
-        { "teamA": "Porto", "teamB": "Rio Ave", "prediction": "Over 2.5", "odds": "1.60", "results": "Win" },
-        { "teamA": "Real Madrid", "teamB": "Sevilla", "prediction": "Under 3.5", "odds": "1.45", "results": "Win" },
-        { "teamA": "Marseille", "teamB": "Rennes", "prediction": "Over 1.5", "odds": "1.28", "results": "Win" }
+        { "teamA": "Man City", "teamB": "Aston Villa", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.70", "result": "WON", "score": "" },
+        { "teamA": "Porto", "teamB": "Rio Ave", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.60", "result": "WON", "score": "" },
+        { "teamA": "Real Madrid", "teamB": "Sevilla", "homeLogo": "", "awayLogo": "", "prediction": "Under 3.5", "odds": "1.45", "result": "WON", "score": "" },
+        { "teamA": "Marseille", "teamB": "Rennes", "homeLogo": "", "awayLogo": "", "prediction": "Over 1.5", "odds": "1.28", "result": "WON", "score": "" }
       ]
     }
   },
@@ -189,27 +175,27 @@
     "date": "Feb 10, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Bayern Munich", "teamB": "Dortmund", "prediction": "3-2", "odds": "15.00", "results": "Loss" },
-        { "teamA": "Arsenal", "teamB": "West Ham", "prediction": "2-0", "odds": "6.50", "results": "Win" }
+        { "teamA": "Bayern Munich", "teamB": "Dortmund", "homeLogo": "", "awayLogo": "", "prediction": "3-2", "odds": "15.00", "result": "LOST", "score": "" },
+        { "teamA": "Arsenal", "teamB": "West Ham", "homeLogo": "", "awayLogo": "", "prediction": "2-0", "odds": "6.50", "result": "WON", "score": "2-0" }
       ],
       "Premium Tips": [
-        { "teamA": "Bayern Munich", "teamB": "Dortmund", "prediction": "Over 2.5", "odds": "1.45", "results": "Win" },
-        { "teamA": "Arsenal", "teamB": "West Ham", "prediction": "Home Win", "odds": "1.35", "results": "Win" },
-        { "teamA": "Juventus", "teamB": "Lazio", "prediction": "Under 2.5", "odds": "1.70", "results": "Win" }
+        { "teamA": "Bayern Munich", "teamB": "Dortmund", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.45", "result": "WON", "score": "" },
+        { "teamA": "Arsenal", "teamB": "West Ham", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.35", "result": "WON", "score": "" },
+        { "teamA": "Juventus", "teamB": "Lazio", "homeLogo": "", "awayLogo": "", "prediction": "Under 2.5", "odds": "1.70", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "Real Sociedad", "teamB": "Villarreal", "prediction": "1X", "odds": "1.40", "results": "Win" },
-        { "teamA": "Inter", "teamB": "Atalanta", "prediction": "Home Win", "odds": "1.80", "results": "Win" },
-        { "teamA": "Arsenal", "teamB": "West Ham", "prediction": "Over 1.5", "odds": "1.20", "results": "Win" }
+        { "teamA": "Real Sociedad", "teamB": "Villarreal", "homeLogo": "", "awayLogo": "", "prediction": "1X", "odds": "1.40", "result": "WON", "score": "" },
+        { "teamA": "Inter", "teamB": "Atalanta", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.80", "result": "WON", "score": "" },
+        { "teamA": "Arsenal", "teamB": "West Ham", "homeLogo": "", "awayLogo": "", "prediction": "Over 1.5", "odds": "1.20", "result": "WON", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "Real Sociedad", "teamB": "Villarreal", "prediction": "X", "odds": "3.30", "results": "Win" }
+        { "teamA": "Real Sociedad", "teamB": "Villarreal", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.30", "result": "WON", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "Bayern Munich", "teamB": "Dortmund", "prediction": "BTTS", "odds": "1.50", "results": "Win" },
-        { "teamA": "Inter", "teamB": "Atalanta", "prediction": "Over 2.5", "odds": "1.75", "results": "Win" },
-        { "teamA": "Juventus", "teamB": "Lazio", "prediction": "1X", "odds": "1.25", "results": "Win" },
-        { "teamA": "Lyon", "teamB": "Monaco", "prediction": "BTTS", "odds": "1.55", "results": "Loss" }
+        { "teamA": "Bayern Munich", "teamB": "Dortmund", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.50", "result": "WON", "score": "" },
+        { "teamA": "Inter", "teamB": "Atalanta", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.75", "result": "WON", "score": "" },
+        { "teamA": "Juventus", "teamB": "Lazio", "homeLogo": "", "awayLogo": "", "prediction": "1X", "odds": "1.25", "result": "WON", "score": "" },
+        { "teamA": "Lyon", "teamB": "Monaco", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.55", "result": "LOST", "score": "" }
       ]
     }
   },
@@ -217,27 +203,27 @@
     "date": "Feb 09, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Liverpool", "teamB": "Newcastle", "prediction": "2-1", "odds": "8.00", "results": "Win" },
-        { "teamA": "Atletico Madrid", "teamB": "Athletic Bilbao", "prediction": "1-0", "odds": "6.50", "results": "Win" }
+        { "teamA": "Liverpool", "teamB": "Newcastle", "homeLogo": "", "awayLogo": "", "prediction": "2-1", "odds": "8.00", "result": "WON", "score": "2-1" },
+        { "teamA": "Atletico Madrid", "teamB": "Athletic Bilbao", "homeLogo": "", "awayLogo": "", "prediction": "1-0", "odds": "6.50", "result": "WON", "score": "1-0" }
       ],
       "Premium Tips": [
-        { "teamA": "Liverpool", "teamB": "Newcastle", "prediction": "Home Win", "odds": "1.50", "results": "Win" },
-        { "teamA": "Sporting CP", "teamB": "Braga", "prediction": "BTTS", "odds": "1.65", "results": "Win" },
-        { "teamA": "Atletico Madrid", "teamB": "Athletic Bilbao", "prediction": "Under 2.5", "odds": "1.60", "results": "Win" }
+        { "teamA": "Liverpool", "teamB": "Newcastle", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.50", "result": "WON", "score": "" },
+        { "teamA": "Sporting CP", "teamB": "Braga", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.65", "result": "WON", "score": "" },
+        { "teamA": "Atletico Madrid", "teamB": "Athletic Bilbao", "homeLogo": "", "awayLogo": "", "prediction": "Under 2.5", "odds": "1.60", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "PSV", "teamB": "Feyenoord", "prediction": "Over 2.5", "odds": "1.55", "results": "Win" },
-        { "teamA": "Rangers", "teamB": "Aberdeen", "prediction": "Home Win", "odds": "1.30", "results": "Win" },
-        { "teamA": "Lens", "teamB": "Nantes", "prediction": "1X", "odds": "1.22", "results": "Win" }
+        { "teamA": "PSV", "teamB": "Feyenoord", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.55", "result": "WON", "score": "" },
+        { "teamA": "Rangers", "teamB": "Aberdeen", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.30", "result": "WON", "score": "" },
+        { "teamA": "Lens", "teamB": "Nantes", "homeLogo": "", "awayLogo": "", "prediction": "1X", "odds": "1.22", "result": "WON", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "PSV", "teamB": "Feyenoord", "prediction": "X", "odds": "3.50", "results": "Loss" }
+        { "teamA": "PSV", "teamB": "Feyenoord", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.50", "result": "LOST", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "Sporting CP", "teamB": "Braga", "prediction": "Over 2.5", "odds": "1.70", "results": "Win" },
-        { "teamA": "Rangers", "teamB": "Aberdeen", "prediction": "Home Win -1", "odds": "1.85", "results": "Win" },
-        { "teamA": "Liverpool", "teamB": "Newcastle", "prediction": "Over 1.5", "odds": "1.25", "results": "Win" },
-        { "teamA": "Lens", "teamB": "Nantes", "prediction": "Under 3.5", "odds": "1.28", "results": "Win" }
+        { "teamA": "Sporting CP", "teamB": "Braga", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.70", "result": "WON", "score": "" },
+        { "teamA": "Rangers", "teamB": "Aberdeen", "homeLogo": "", "awayLogo": "", "prediction": "Home Win -1", "odds": "1.85", "result": "WON", "score": "" },
+        { "teamA": "Liverpool", "teamB": "Newcastle", "homeLogo": "", "awayLogo": "", "prediction": "Over 1.5", "odds": "1.25", "result": "WON", "score": "" },
+        { "teamA": "Lens", "teamB": "Nantes", "homeLogo": "", "awayLogo": "", "prediction": "Under 3.5", "odds": "1.28", "result": "WON", "score": "" }
       ]
     }
   },
@@ -245,27 +231,27 @@
     "date": "Feb 08, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Tottenham", "teamB": "Chelsea", "prediction": "1-1", "odds": "6.50", "results": "Win" },
-        { "teamA": "Leipzig", "teamB": "Frankfurt", "prediction": "3-1", "odds": "11.00", "results": "Win" }
+        { "teamA": "Tottenham", "teamB": "Chelsea", "homeLogo": "", "awayLogo": "", "prediction": "1-1", "odds": "6.50", "result": "WON", "score": "1-1" },
+        { "teamA": "Leipzig", "teamB": "Frankfurt", "homeLogo": "", "awayLogo": "", "prediction": "3-1", "odds": "11.00", "result": "WON", "score": "3-1" }
       ],
       "Premium Tips": [
-        { "teamA": "Tottenham", "teamB": "Chelsea", "prediction": "BTTS", "odds": "1.55", "results": "Win" },
-        { "teamA": "Leipzig", "teamB": "Frankfurt", "prediction": "Home Win", "odds": "1.65", "results": "Win" },
-        { "teamA": "Girona", "teamB": "Valencia", "prediction": "Home Win", "odds": "1.80", "results": "Win" }
+        { "teamA": "Tottenham", "teamB": "Chelsea", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.55", "result": "WON", "score": "" },
+        { "teamA": "Leipzig", "teamB": "Frankfurt", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.65", "result": "WON", "score": "" },
+        { "teamA": "Girona", "teamB": "Valencia", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.80", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "Fiorentina", "teamB": "Bologna", "prediction": "Under 2.5", "odds": "1.75", "results": "Win" },
-        { "teamA": "Genoa", "teamB": "Torino", "prediction": "1X", "odds": "1.35", "results": "Win" },
-        { "teamA": "Leipzig", "teamB": "Frankfurt", "prediction": "Over 2.5", "odds": "1.60", "results": "Win" }
+        { "teamA": "Fiorentina", "teamB": "Bologna", "homeLogo": "", "awayLogo": "", "prediction": "Under 2.5", "odds": "1.75", "result": "WON", "score": "" },
+        { "teamA": "Genoa", "teamB": "Torino", "homeLogo": "", "awayLogo": "", "prediction": "1X", "odds": "1.35", "result": "WON", "score": "" },
+        { "teamA": "Leipzig", "teamB": "Frankfurt", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.60", "result": "WON", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "Tottenham", "teamB": "Chelsea", "prediction": "X", "odds": "3.40", "results": "Win" }
+        { "teamA": "Tottenham", "teamB": "Chelsea", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.40", "result": "WON", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "Girona", "teamB": "Valencia", "prediction": "Over 1.5", "odds": "1.30", "results": "Win" },
-        { "teamA": "Fiorentina", "teamB": "Bologna", "prediction": "BTTS - No", "odds": "1.85", "results": "Loss" },
-        { "teamA": "Tottenham", "teamB": "Chelsea", "prediction": "Over 1.5", "odds": "1.22", "results": "Win" },
-        { "teamA": "Genoa", "teamB": "Torino", "prediction": "Under 3.5", "odds": "1.20", "results": "Win" }
+        { "teamA": "Girona", "teamB": "Valencia", "homeLogo": "", "awayLogo": "", "prediction": "Over 1.5", "odds": "1.30", "result": "WON", "score": "" },
+        { "teamA": "Fiorentina", "teamB": "Bologna", "homeLogo": "", "awayLogo": "", "prediction": "BTTS - No", "odds": "1.85", "result": "LOST", "score": "" },
+        { "teamA": "Tottenham", "teamB": "Chelsea", "homeLogo": "", "awayLogo": "", "prediction": "Over 1.5", "odds": "1.22", "result": "WON", "score": "" },
+        { "teamA": "Genoa", "teamB": "Torino", "homeLogo": "", "awayLogo": "", "prediction": "Under 3.5", "odds": "1.20", "result": "WON", "score": "" }
       ]
     }
   },
@@ -273,27 +259,27 @@
     "date": "Feb 07, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Man Utd", "teamB": "Everton", "prediction": "2-0", "odds": "7.50", "results": "Win" },
-        { "teamA": "Barcelona", "teamB": "Betis", "prediction": "3-0", "odds": "9.50", "results": "Loss" }
+        { "teamA": "Man Utd", "teamB": "Everton", "homeLogo": "", "awayLogo": "", "prediction": "2-0", "odds": "7.50", "result": "WON", "score": "2-0" },
+        { "teamA": "Barcelona", "teamB": "Betis", "homeLogo": "", "awayLogo": "", "prediction": "3-0", "odds": "9.50", "result": "LOST", "score": "" }
       ],
       "Premium Tips": [
-        { "teamA": "Man Utd", "teamB": "Everton", "prediction": "Home Win", "odds": "1.55", "results": "Win" },
-        { "teamA": "Barcelona", "teamB": "Betis", "prediction": "Home Win -1", "odds": "1.85", "results": "Loss" },
-        { "teamA": "Atalanta", "teamB": "Sassuolo", "prediction": "Over 2.5", "odds": "1.50", "results": "Win" }
+        { "teamA": "Man Utd", "teamB": "Everton", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.55", "result": "WON", "score": "" },
+        { "teamA": "Barcelona", "teamB": "Betis", "homeLogo": "", "awayLogo": "", "prediction": "Home Win -1", "odds": "1.85", "result": "LOST", "score": "" },
+        { "teamA": "Atalanta", "teamB": "Sassuolo", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.50", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "Freiburg", "teamB": "Wolfsburg", "prediction": "BTTS", "odds": "1.65", "results": "Win" },
-        { "teamA": "Monaco", "teamB": "Nice", "prediction": "1X", "odds": "1.28", "results": "Win" },
-        { "teamA": "Man Utd", "teamB": "Everton", "prediction": "Under 3.5", "odds": "1.35", "results": "Win" }
+        { "teamA": "Freiburg", "teamB": "Wolfsburg", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.65", "result": "WON", "score": "" },
+        { "teamA": "Monaco", "teamB": "Nice", "homeLogo": "", "awayLogo": "", "prediction": "1X", "odds": "1.28", "result": "WON", "score": "" },
+        { "teamA": "Man Utd", "teamB": "Everton", "homeLogo": "", "awayLogo": "", "prediction": "Under 3.5", "odds": "1.35", "result": "WON", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "Monaco", "teamB": "Nice", "prediction": "X", "odds": "3.20", "results": "Win" }
+        { "teamA": "Monaco", "teamB": "Nice", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.20", "result": "WON", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "Atalanta", "teamB": "Sassuolo", "prediction": "Home Win", "odds": "1.45", "results": "Win" },
-        { "teamA": "Barcelona", "teamB": "Betis", "prediction": "Over 2.5", "odds": "1.40", "results": "Win" },
-        { "teamA": "Freiburg", "teamB": "Wolfsburg", "prediction": "Over 1.5", "odds": "1.25", "results": "Win" },
-        { "teamA": "Brentford", "teamB": "Crystal Palace", "prediction": "BTTS", "odds": "1.75", "results": "Win" }
+        { "teamA": "Atalanta", "teamB": "Sassuolo", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.45", "result": "WON", "score": "" },
+        { "teamA": "Barcelona", "teamB": "Betis", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.40", "result": "WON", "score": "" },
+        { "teamA": "Freiburg", "teamB": "Wolfsburg", "homeLogo": "", "awayLogo": "", "prediction": "Over 1.5", "odds": "1.25", "result": "WON", "score": "" },
+        { "teamA": "Brentford", "teamB": "Crystal Palace", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.75", "result": "WON", "score": "" }
       ]
     }
   },
@@ -301,27 +287,27 @@
     "date": "Feb 06, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Aston Villa", "teamB": "Brighton", "prediction": "2-2", "odds": "12.00", "results": "Win" },
-        { "teamA": "Lazio", "teamB": "Udinese", "prediction": "1-0", "odds": "6.50", "results": "Win" }
+        { "teamA": "Aston Villa", "teamB": "Brighton", "homeLogo": "", "awayLogo": "", "prediction": "2-2", "odds": "12.00", "result": "WON", "score": "2-2" },
+        { "teamA": "Lazio", "teamB": "Udinese", "homeLogo": "", "awayLogo": "", "prediction": "1-0", "odds": "6.50", "result": "WON", "score": "1-0" }
       ],
       "Premium Tips": [
-        { "teamA": "Aston Villa", "teamB": "Brighton", "prediction": "BTTS", "odds": "1.50", "results": "Win" },
-        { "teamA": "Lazio", "teamB": "Udinese", "prediction": "Home Win", "odds": "1.60", "results": "Win" },
-        { "teamA": "Sociedad", "teamB": "Osasuna", "prediction": "Under 2.5", "odds": "1.55", "results": "Win" }
+        { "teamA": "Aston Villa", "teamB": "Brighton", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.50", "result": "WON", "score": "" },
+        { "teamA": "Lazio", "teamB": "Udinese", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.60", "result": "WON", "score": "" },
+        { "teamA": "Sociedad", "teamB": "Osasuna", "homeLogo": "", "awayLogo": "", "prediction": "Under 2.5", "odds": "1.55", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "Bochum", "teamB": "Mainz", "prediction": "1X", "odds": "1.40", "results": "Win" },
-        { "teamA": "Sporting CP", "teamB": "Estoril", "prediction": "Home Win", "odds": "1.20", "results": "Win" },
-        { "teamA": "Lazio", "teamB": "Udinese", "prediction": "Over 1.5", "odds": "1.30", "results": "Win" }
+        { "teamA": "Bochum", "teamB": "Mainz", "homeLogo": "", "awayLogo": "", "prediction": "1X", "odds": "1.40", "result": "WON", "score": "" },
+        { "teamA": "Sporting CP", "teamB": "Estoril", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.20", "result": "WON", "score": "" },
+        { "teamA": "Lazio", "teamB": "Udinese", "homeLogo": "", "awayLogo": "", "prediction": "Over 1.5", "odds": "1.30", "result": "WON", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "Aston Villa", "teamB": "Brighton", "prediction": "X", "odds": "3.50", "results": "Win" }
+        { "teamA": "Aston Villa", "teamB": "Brighton", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.50", "result": "WON", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "Sociedad", "teamB": "Osasuna", "prediction": "1X", "odds": "1.25", "results": "Win" },
-        { "teamA": "Bochum", "teamB": "Mainz", "prediction": "BTTS", "odds": "1.70", "results": "Win" },
-        { "teamA": "Sporting CP", "teamB": "Estoril", "prediction": "Over 2.5", "odds": "1.45", "results": "Win" },
-        { "teamA": "Marseille", "teamB": "Toulouse", "prediction": "Home Win", "odds": "1.55", "results": "Loss" }
+        { "teamA": "Sociedad", "teamB": "Osasuna", "homeLogo": "", "awayLogo": "", "prediction": "1X", "odds": "1.25", "result": "WON", "score": "" },
+        { "teamA": "Bochum", "teamB": "Mainz", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.70", "result": "WON", "score": "" },
+        { "teamA": "Sporting CP", "teamB": "Estoril", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.45", "result": "WON", "score": "" },
+        { "teamA": "Marseille", "teamB": "Toulouse", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.55", "result": "LOST", "score": "" }
       ]
     }
   },
@@ -329,27 +315,27 @@
     "date": "Feb 05, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Chelsea", "teamB": "Fulham", "prediction": "2-0", "odds": "7.00", "results": "Win" },
-        { "teamA": "Napoli", "teamB": "Empoli", "prediction": "3-1", "odds": "10.00", "results": "Win" }
+        { "teamA": "Chelsea", "teamB": "Fulham", "homeLogo": "", "awayLogo": "", "prediction": "2-0", "odds": "7.00", "result": "WON", "score": "2-0" },
+        { "teamA": "Napoli", "teamB": "Empoli", "homeLogo": "", "awayLogo": "", "prediction": "3-1", "odds": "10.00", "result": "WON", "score": "3-1" }
       ],
       "Premium Tips": [
-        { "teamA": "Chelsea", "teamB": "Fulham", "prediction": "Home Win", "odds": "1.45", "results": "Win" },
-        { "teamA": "Napoli", "teamB": "Empoli", "prediction": "Over 2.5", "odds": "1.60", "results": "Win" },
-        { "teamA": "Rennes", "teamB": "Lille", "prediction": "BTTS", "odds": "1.75", "results": "Win" }
+        { "teamA": "Chelsea", "teamB": "Fulham", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.45", "result": "WON", "score": "" },
+        { "teamA": "Napoli", "teamB": "Empoli", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.60", "result": "WON", "score": "" },
+        { "teamA": "Rennes", "teamB": "Lille", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.75", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "Bremen", "teamB": "Augsburg", "prediction": "Over 2.5", "odds": "1.65", "results": "Loss" },
-        { "teamA": "Chelsea", "teamB": "Fulham", "prediction": "Under 3.5", "odds": "1.35", "results": "Win" },
-        { "teamA": "Athletic Bilbao", "teamB": "Mallorca", "prediction": "Home Win", "odds": "1.55", "results": "Win" }
+        { "teamA": "Bremen", "teamB": "Augsburg", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.65", "result": "LOST", "score": "" },
+        { "teamA": "Chelsea", "teamB": "Fulham", "homeLogo": "", "awayLogo": "", "prediction": "Under 3.5", "odds": "1.35", "result": "WON", "score": "" },
+        { "teamA": "Athletic Bilbao", "teamB": "Mallorca", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.55", "result": "WON", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "Rennes", "teamB": "Lille", "prediction": "X", "odds": "3.30", "results": "Win" }
+        { "teamA": "Rennes", "teamB": "Lille", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.30", "result": "WON", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "Napoli", "teamB": "Empoli", "prediction": "Home Win -1", "odds": "1.90", "results": "Win" },
-        { "teamA": "Athletic Bilbao", "teamB": "Mallorca", "prediction": "Under 2.5", "odds": "1.60", "results": "Win" },
-        { "teamA": "Bremen", "teamB": "Augsburg", "prediction": "1X", "odds": "1.30", "results": "Win" },
-        { "teamA": "Feyenoord", "teamB": "Utrecht", "prediction": "Home Win", "odds": "1.35", "results": "Win" }
+        { "teamA": "Napoli", "teamB": "Empoli", "homeLogo": "", "awayLogo": "", "prediction": "Home Win -1", "odds": "1.90", "result": "WON", "score": "" },
+        { "teamA": "Athletic Bilbao", "teamB": "Mallorca", "homeLogo": "", "awayLogo": "", "prediction": "Under 2.5", "odds": "1.60", "result": "WON", "score": "" },
+        { "teamA": "Bremen", "teamB": "Augsburg", "homeLogo": "", "awayLogo": "", "prediction": "1X", "odds": "1.30", "result": "WON", "score": "" },
+        { "teamA": "Feyenoord", "teamB": "Utrecht", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.35", "result": "WON", "score": "" }
       ]
     }
   },
@@ -357,27 +343,27 @@
     "date": "Feb 04, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Juventus", "teamB": "Verona", "prediction": "2-0", "odds": "6.00", "results": "Win" },
-        { "teamA": "Sevilla", "teamB": "Getafe", "prediction": "1-1", "odds": "6.50", "results": "Win" }
+        { "teamA": "Juventus", "teamB": "Verona", "homeLogo": "", "awayLogo": "", "prediction": "2-0", "odds": "6.00", "result": "WON", "score": "2-0" },
+        { "teamA": "Sevilla", "teamB": "Getafe", "homeLogo": "", "awayLogo": "", "prediction": "1-1", "odds": "6.50", "result": "WON", "score": "1-1" }
       ],
       "Premium Tips": [
-        { "teamA": "Juventus", "teamB": "Verona", "prediction": "Home Win", "odds": "1.40", "results": "Win" },
-        { "teamA": "Sevilla", "teamB": "Getafe", "prediction": "Under 2.5", "odds": "1.55", "results": "Win" },
-        { "teamA": "Dortmund", "teamB": "Bochum", "prediction": "Over 2.5", "odds": "1.45", "results": "Win" }
+        { "teamA": "Juventus", "teamB": "Verona", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.40", "result": "WON", "score": "" },
+        { "teamA": "Sevilla", "teamB": "Getafe", "homeLogo": "", "awayLogo": "", "prediction": "Under 2.5", "odds": "1.55", "result": "WON", "score": "" },
+        { "teamA": "Dortmund", "teamB": "Bochum", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.45", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "Bournemouth", "teamB": "Nott'm Forest", "prediction": "BTTS", "odds": "1.70", "results": "Win" },
-        { "teamA": "Juventus", "teamB": "Verona", "prediction": "Over 1.5", "odds": "1.25", "results": "Win" },
-        { "teamA": "Ajax", "teamB": "Heerenveen", "prediction": "Home Win", "odds": "1.30", "results": "Win" }
+        { "teamA": "Bournemouth", "teamB": "Nott'm Forest", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.70", "result": "WON", "score": "" },
+        { "teamA": "Juventus", "teamB": "Verona", "homeLogo": "", "awayLogo": "", "prediction": "Over 1.5", "odds": "1.25", "result": "WON", "score": "" },
+        { "teamA": "Ajax", "teamB": "Heerenveen", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.30", "result": "WON", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "Sevilla", "teamB": "Getafe", "prediction": "X", "odds": "3.10", "results": "Win" }
+        { "teamA": "Sevilla", "teamB": "Getafe", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.10", "result": "WON", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "Dortmund", "teamB": "Bochum", "prediction": "Home Win", "odds": "1.35", "results": "Win" },
-        { "teamA": "Bournemouth", "teamB": "Nott'm Forest", "prediction": "1X", "odds": "1.30", "results": "Loss" },
-        { "teamA": "Ajax", "teamB": "Heerenveen", "prediction": "Over 2.5", "odds": "1.40", "results": "Win" },
-        { "teamA": "Lyon", "teamB": "Montpellier", "prediction": "Home Win", "odds": "1.60", "results": "Win" }
+        { "teamA": "Dortmund", "teamB": "Bochum", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.35", "result": "WON", "score": "" },
+        { "teamA": "Bournemouth", "teamB": "Nott'm Forest", "homeLogo": "", "awayLogo": "", "prediction": "1X", "odds": "1.30", "result": "LOST", "score": "" },
+        { "teamA": "Ajax", "teamB": "Heerenveen", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.40", "result": "WON", "score": "" },
+        { "teamA": "Lyon", "teamB": "Montpellier", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.60", "result": "WON", "score": "" }
       ]
     }
   },
@@ -385,27 +371,27 @@
     "date": "Feb 03, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Inter", "teamB": "Torino", "prediction": "2-0", "odds": "6.50", "results": "Win" },
-        { "teamA": "West Ham", "teamB": "Wolves", "prediction": "1-0", "odds": "7.50", "results": "Win" }
+        { "teamA": "Inter", "teamB": "Torino", "homeLogo": "", "awayLogo": "", "prediction": "2-0", "odds": "6.50", "result": "WON", "score": "2-0" },
+        { "teamA": "West Ham", "teamB": "Wolves", "homeLogo": "", "awayLogo": "", "prediction": "1-0", "odds": "7.50", "result": "WON", "score": "1-0" }
       ],
       "Premium Tips": [
-        { "teamA": "Inter", "teamB": "Torino", "prediction": "Home Win", "odds": "1.45", "results": "Win" },
-        { "teamA": "West Ham", "teamB": "Wolves", "prediction": "1X", "odds": "1.30", "results": "Win" },
-        { "teamA": "Porto", "teamB": "Famalicao", "prediction": "Home Win -1", "odds": "1.80", "results": "Win" }
+        { "teamA": "Inter", "teamB": "Torino", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.45", "result": "WON", "score": "" },
+        { "teamA": "West Ham", "teamB": "Wolves", "homeLogo": "", "awayLogo": "", "prediction": "1X", "odds": "1.30", "result": "WON", "score": "" },
+        { "teamA": "Porto", "teamB": "Famalicao", "homeLogo": "", "awayLogo": "", "prediction": "Home Win -1", "odds": "1.80", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "Stuttgart", "teamB": "Mainz", "prediction": "Over 2.5", "odds": "1.65", "results": "Win" },
-        { "teamA": "Torino", "teamB": "Inter", "prediction": "Under 3.5", "odds": "1.22", "results": "Win" },
-        { "teamA": "Villarreal", "teamB": "Alaves", "prediction": "Home Win", "odds": "1.70", "results": "Loss" }
+        { "teamA": "Stuttgart", "teamB": "Mainz", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.65", "result": "WON", "score": "" },
+        { "teamA": "Torino", "teamB": "Inter", "homeLogo": "", "awayLogo": "", "prediction": "Under 3.5", "odds": "1.22", "result": "WON", "score": "" },
+        { "teamA": "Villarreal", "teamB": "Alaves", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.70", "result": "LOST", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "Nantes", "teamB": "Reims", "prediction": "X", "odds": "3.10", "results": "Win" }
+        { "teamA": "Nantes", "teamB": "Reims", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.10", "result": "WON", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "West Ham", "teamB": "Wolves", "prediction": "Under 2.5", "odds": "1.75", "results": "Win" },
-        { "teamA": "Porto", "teamB": "Famalicao", "prediction": "Over 2.5", "odds": "1.55", "results": "Win" },
-        { "teamA": "Stuttgart", "teamB": "Mainz", "prediction": "Home Win", "odds": "1.50", "results": "Win" },
-        { "teamA": "Nantes", "teamB": "Reims", "prediction": "Under 2.5", "odds": "1.60", "results": "Win" }
+        { "teamA": "West Ham", "teamB": "Wolves", "homeLogo": "", "awayLogo": "", "prediction": "Under 2.5", "odds": "1.75", "result": "WON", "score": "" },
+        { "teamA": "Porto", "teamB": "Famalicao", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.55", "result": "WON", "score": "" },
+        { "teamA": "Stuttgart", "teamB": "Mainz", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.50", "result": "WON", "score": "" },
+        { "teamA": "Nantes", "teamB": "Reims", "homeLogo": "", "awayLogo": "", "prediction": "Under 2.5", "odds": "1.60", "result": "WON", "score": "" }
       ]
     }
   },
@@ -413,27 +399,27 @@
     "date": "Feb 02, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Roma", "teamB": "Cagliari", "prediction": "3-1", "odds": "11.00", "results": "Win" },
-        { "teamA": "Betis", "teamB": "Mallorca", "prediction": "1-0", "odds": "6.00", "results": "Win" }
+        { "teamA": "Roma", "teamB": "Cagliari", "homeLogo": "", "awayLogo": "", "prediction": "3-1", "odds": "11.00", "result": "WON", "score": "3-1" },
+        { "teamA": "Betis", "teamB": "Mallorca", "homeLogo": "", "awayLogo": "", "prediction": "1-0", "odds": "6.00", "result": "WON", "score": "1-0" }
       ],
       "Premium Tips": [
-        { "teamA": "Roma", "teamB": "Cagliari", "prediction": "Home Win", "odds": "1.50", "results": "Win" },
-        { "teamA": "Betis", "teamB": "Mallorca", "prediction": "Under 2.5", "odds": "1.55", "results": "Win" },
-        { "teamA": "Bayer Leverkusen", "teamB": "Hoffenheim", "prediction": "Over 2.5", "odds": "1.40", "results": "Win" }
+        { "teamA": "Roma", "teamB": "Cagliari", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.50", "result": "WON", "score": "" },
+        { "teamA": "Betis", "teamB": "Mallorca", "homeLogo": "", "awayLogo": "", "prediction": "Under 2.5", "odds": "1.55", "result": "WON", "score": "" },
+        { "teamA": "Bayer Leverkusen", "teamB": "Hoffenheim", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.40", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "Brentford", "teamB": "Aston Villa", "prediction": "BTTS", "odds": "1.60", "results": "Win" },
-        { "teamA": "Roma", "teamB": "Cagliari", "prediction": "Over 1.5", "odds": "1.25", "results": "Win" },
-        { "teamA": "Benfica", "teamB": "Gil Vicente", "prediction": "Home Win", "odds": "1.22", "results": "Win" }
+        { "teamA": "Brentford", "teamB": "Aston Villa", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.60", "result": "WON", "score": "" },
+        { "teamA": "Roma", "teamB": "Cagliari", "homeLogo": "", "awayLogo": "", "prediction": "Over 1.5", "odds": "1.25", "result": "WON", "score": "" },
+        { "teamA": "Benfica", "teamB": "Gil Vicente", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.22", "result": "WON", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "Brentford", "teamB": "Aston Villa", "prediction": "X", "odds": "3.50", "results": "Loss" }
+        { "teamA": "Brentford", "teamB": "Aston Villa", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.50", "result": "LOST", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "Bayer Leverkusen", "teamB": "Hoffenheim", "prediction": "Home Win", "odds": "1.35", "results": "Win" },
-        { "teamA": "Betis", "teamB": "Mallorca", "prediction": "1X", "odds": "1.20", "results": "Win" },
-        { "teamA": "Benfica", "teamB": "Gil Vicente", "prediction": "Over 2.5", "odds": "1.45", "results": "Win" },
-        { "teamA": "Fiorentina", "teamB": "Lecce", "prediction": "Home Win", "odds": "1.55", "results": "Win" }
+        { "teamA": "Bayer Leverkusen", "teamB": "Hoffenheim", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.35", "result": "WON", "score": "" },
+        { "teamA": "Betis", "teamB": "Mallorca", "homeLogo": "", "awayLogo": "", "prediction": "1X", "odds": "1.20", "result": "WON", "score": "" },
+        { "teamA": "Benfica", "teamB": "Gil Vicente", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.45", "result": "WON", "score": "" },
+        { "teamA": "Fiorentina", "teamB": "Lecce", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.55", "result": "WON", "score": "" }
       ]
     }
   },
@@ -441,27 +427,27 @@
     "date": "Feb 01, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Real Madrid", "teamB": "Valencia", "prediction": "2-0", "odds": "6.50", "results": "Win" },
-        { "teamA": "Arsenal", "teamB": "Crystal Palace", "prediction": "3-0", "odds": "9.00", "results": "Win" }
+        { "teamA": "Real Madrid", "teamB": "Valencia", "homeLogo": "", "awayLogo": "", "prediction": "2-0", "odds": "6.50", "result": "WON", "score": "2-0" },
+        { "teamA": "Arsenal", "teamB": "Crystal Palace", "homeLogo": "", "awayLogo": "", "prediction": "3-0", "odds": "9.00", "result": "WON", "score": "3-0" }
       ],
       "Premium Tips": [
-        { "teamA": "Real Madrid", "teamB": "Valencia", "prediction": "Home Win", "odds": "1.40", "results": "Win" },
-        { "teamA": "Arsenal", "teamB": "Crystal Palace", "prediction": "Over 2.5", "odds": "1.55", "results": "Win" },
-        { "teamA": "Marseille", "teamB": "Brest", "prediction": "Home Win", "odds": "1.70", "results": "Win" }
+        { "teamA": "Real Madrid", "teamB": "Valencia", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.40", "result": "WON", "score": "" },
+        { "teamA": "Arsenal", "teamB": "Crystal Palace", "homeLogo": "", "awayLogo": "", "prediction": "Over 2.5", "odds": "1.55", "result": "WON", "score": "" },
+        { "teamA": "Marseille", "teamB": "Brest", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.70", "result": "WON", "score": "" }
       ],
       "Basic Tips": [
-        { "teamA": "Monchengladbach", "teamB": "Leipzig", "prediction": "BTTS", "odds": "1.65", "results": "Win" },
-        { "teamA": "Real Madrid", "teamB": "Valencia", "prediction": "Under 3.5", "odds": "1.35", "results": "Win" },
-        { "teamA": "PSV", "teamB": "Twente", "prediction": "Home Win", "odds": "1.45", "results": "Win" }
+        { "teamA": "Monchengladbach", "teamB": "Leipzig", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.65", "result": "WON", "score": "" },
+        { "teamA": "Real Madrid", "teamB": "Valencia", "homeLogo": "", "awayLogo": "", "prediction": "Under 3.5", "odds": "1.35", "result": "WON", "score": "" },
+        { "teamA": "PSV", "teamB": "Twente", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "1.45", "result": "WON", "score": "" }
       ],
       "Draw Tips": [
-        { "teamA": "Bologna", "teamB": "Napoli", "prediction": "X", "odds": "3.20", "results": "Loss" }
+        { "teamA": "Bologna", "teamB": "Napoli", "homeLogo": "", "awayLogo": "", "prediction": "X", "odds": "3.20", "result": "LOST", "score": "" }
       ],
       "Free Tips": [
-        { "teamA": "Arsenal", "teamB": "Crystal Palace", "prediction": "Home Win -1", "odds": "1.80", "results": "Win" },
-        { "teamA": "Marseille", "teamB": "Brest", "prediction": "Over 1.5", "odds": "1.28", "results": "Win" },
-        { "teamA": "Monchengladbach", "teamB": "Leipzig", "prediction": "Away Win", "odds": "2.10", "results": "Win" },
-        { "teamA": "Bologna", "teamB": "Napoli", "prediction": "BTTS", "odds": "1.75", "results": "Win" }
+        { "teamA": "Arsenal", "teamB": "Crystal Palace", "homeLogo": "", "awayLogo": "", "prediction": "Home Win -1", "odds": "1.80", "result": "WON", "score": "" },
+        { "teamA": "Marseille", "teamB": "Brest", "homeLogo": "", "awayLogo": "", "prediction": "Over 1.5", "odds": "1.28", "result": "WON", "score": "" },
+        { "teamA": "Monchengladbach", "teamB": "Leipzig", "homeLogo": "", "awayLogo": "", "prediction": "Away Win", "odds": "2.10", "result": "WON", "score": "" },
+        { "teamA": "Bologna", "teamB": "Napoli", "homeLogo": "", "awayLogo": "", "prediction": "BTTS", "odds": "1.75", "result": "WON", "score": "" }
       ]
     }
   }
