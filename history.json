@@ -1,5 +1,34 @@
 [
   {
+    "date": "March 29, 2026",
+    "categories": {
+      "Daily Correct Score": [
+        { "teamA": "Malkiya", "teamB": "Al Khaldiya", "prediction": "1-2", "odds": "9.91", "results": "Win" },
+        { "teamA": "Eupen", "teamB": "Francs Borains", "prediction": "1-1", "odds": "6.8", "results": "Win" }
+      ],
+      "Premium Tips": [
+        { "teamA": "Atlético Madrid", "teamB": "Espanyol", "prediction": "HT/FT X/1", "odds": "4.50", "results": "Win" },
+        { "teamA": "Cagliari ", "teamB": "Lazio", "prediction": "Draw", "odds": "3.01", "results": "Win" },
+        { "teamA": "Rapid Bucuresti ", "teamB": "Dinamo Bucuresti", "prediction": "Home Win", "odds": "2.52", "results": "Win" }
+      ],
+      "Basic Tips": [
+        { "teamA": "PSG", "teamB": "Metz", "prediction": "Over 2.5", "odds": "1.51", "results": "Win" },
+        { "teamA": "Sporting Braga", "teamB": "Vitória", "prediction": "Home Win", "odds": "1.55", "results": "Win" },
+        { "teamA": "Manchester City", "teamB": "Newcastle United", "prediction": "Home Win", "odds": "1.45", "results": "Win" }
+      ],
+      "Draw Tips": [
+        { "teamA": "Nyiregyhaza", "teamB": "Kisvárda FC", "prediction": "X", "odds": "3.19", "results": "Win" },
+        { "teamA": "AEP Polemidion", "teamB": "Kedros Agia Marina", "prediction": "X", "odds": "3.40", "results": "Win" }
+      ],
+      "Free Tips": [
+        { "teamA": "Nairobi United", "teamB": "Bidco United", "prediction": "Home or Draw", "odds": "1.22", "results": "Win" },
+        { "teamA": "East Bengal", "teamB": "Sporting Delhi", "prediction": "Home Win", "odds": "1.33", "results": "Win" },
+        { "teamA": "Swansea City", "teamB": "Bristol City", "prediction": "Home or Draw", "odds": "1.21", "results": "Win" },
+        { "teamA": "Adanaspor", "teamB": "Fethiyespor", "prediction": "Away Win", "odds": "1.54", "results": "Win" }
+      ]
+    }
+  },
+  {
     "date": "Feb 21, 2026",
     "categories": {
       "Daily Correct Score": [
