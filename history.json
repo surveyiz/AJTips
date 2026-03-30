@@ -7,7 +7,7 @@
         { "teamA": "Eupen", "teamB": "Francs Borains", "homeLogo": "", "awayLogo": "", "prediction": "1-1", "odds": "6.80", "result": "WON", "score": "1-1" }
       ],
       "Premium Tips": [
-        { "teamA": "Atlético Madrid", "teamB": "Espanyol", "homeLogo": "", "awayLogo": "", "prediction": "HT/FT X/1", "odds": "4.50", "result": "WON", "score": "" },
+        { "teamA": "Atlético Madrid", "teamB": "Espanyol", "homeLogo": "https://storage.livescore.com/images/team/high/teambadge/guyana.png", "awayLogo": "https://storage.livescore.com/images/team/high/enet/127409.png", "prediction": "HT/FT X/1", "odds": "4.50", "result": "WON", "score": "" },
         { "teamA": "Cagliari", "teamB": "Lazio", "homeLogo": "", "awayLogo": "", "prediction": "Draw", "odds": "3.01", "result": "WON", "score": "" },
         { "teamA": "Rapid Bucuresti", "teamB": "Dinamo Bucuresti", "homeLogo": "", "awayLogo": "", "prediction": "Home Win", "odds": "2.52", "result": "WON", "score": "" }
       ],
