@@ -3,7 +3,7 @@
     "date": "March 29, 2026",
     "categories": {
       "Daily Correct Score": [
-        { "teamA": "Malkiya", "teamB": "Al Khaldiya", "homeLogo": "", "awayLogo": "", "prediction": "1-2", "odds": "9.91", "result": "WON", "score": "1-2" },
+        { "teamA": "Malkiya", "teamB": "Al Khaldiya", "homeLogo": "https://www.forebet.com/images/icons/4084.png", "awayLogo": "https://www.forebet.com/images/icons/4089.png", "prediction": "1-2", "odds": "9.91", "result": "WON", "score": "1-2" },
         { "teamA": "Eupen", "teamB": "Francs Borains", "homeLogo": "", "awayLogo": "", "prediction": "1-1", "odds": "6.80", "result": "WON", "score": "1-1" }
       ],
       "Premium Tips": [
