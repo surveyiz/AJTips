@@ -1,58 +1,30 @@
 [
   {
-    "teamA": "Arsenal", "teamB": "Crystal Palace",
+    "teamA": "Mauritius ", "teamB": "Somalia",
     "iconA": "https://media.api-sports.io/football/teams/42.png",
     "iconB": "https://media.api-sports.io/football/teams/52.png",
     "league": "Premier League", "leagueLogo": "https://media.api-sports.io/football/leagues/39.png",
-    "kickOff": "16:00", "tip": "Home Win", "odds": "1.55", "isLocked": false
+    "kickOff": "18:00", "tip": "Home or Draw", "odds": "1.27", "isLocked": false
   },
   {
-    "teamA": "Bayern Munich", "teamB": "Borussia Dortmund",
+    "teamA": "Latvia", "teamB": " Gibraltar",
     "iconA": "https://media.api-sports.io/football/teams/157.png",
     "iconB": "https://media.api-sports.io/football/teams/165.png",
     "league": "Bundesliga", "leagueLogo": "https://media.api-sports.io/football/leagues/78.png",
-    "kickOff": "18:30", "tip": "Home Win & Over 1.5", "odds": "1.80", "isLocked": false
+    "kickOff": "19:00", "tip": "Home Win & Over 2.5", "odds": "1.80", "isLocked": false
   },
   {
-    "teamA": "Real Madrid", "teamB": "Sevilla",
+    "teamA": "Bosnia-Herzegovina", "teamB": "Italy",
     "iconA": "https://media.api-sports.io/football/teams/541.png",
     "iconB": "https://media.api-sports.io/football/teams/536.png",
     "league": "LaLiga", "leagueLogo": "https://media.api-sports.io/football/leagues/140.png",
-    "kickOff": "21:00", "tip": "Home Win", "odds": "1.40", "isLocked": false
+    "kickOff": "21:45", "tip": "Away Win", "odds": "1.48", "isLocked": false
   },
   {
-    "teamA": "Napoli", "teamB": "Fiorentina",
+    "teamA": "Mirandés", "teamB": "Albacete",
     "iconA": "https://media.api-sports.io/football/teams/492.png",
     "iconB": "https://media.api-sports.io/football/teams/502.png",
     "league": "Serie A", "leagueLogo": "https://media.api-sports.io/football/leagues/135.png",
-    "kickOff": "20:45", "tip": "1X", "odds": "1.25", "isLocked": false
-  },
-  {
-    "teamA": "PSG", "teamB": "Marseille",
-    "iconA": "https://media.api-sports.io/football/teams/85.png",
-    "iconB": "https://media.api-sports.io/football/teams/81.png",
-    "league": "Ligue 1", "leagueLogo": "https://media.api-sports.io/football/leagues/61.png",
-    "kickOff": "21:00", "tip": "Home Win", "odds": "1.50", "isLocked": false
-  },
-  {
-    "teamA": "Chelsea", "teamB": "West Ham",
-    "iconA": "https://media.api-sports.io/football/teams/49.png",
-    "iconB": "https://media.api-sports.io/football/teams/48.png",
-    "league": "Premier League", "leagueLogo": "https://media.api-sports.io/football/leagues/39.png",
-    "kickOff": "14:00", "tip": "Home Win & Over 1.5", "odds": "1.60", "isLocked": false
-  },
-  {
-    "teamA": "Inter", "teamB": "Lazio",
-    "iconA": "https://media.api-sports.io/football/teams/505.png",
-    "iconB": "https://media.api-sports.io/football/teams/487.png",
-    "league": "Serie A", "leagueLogo": "https://media.api-sports.io/football/leagues/135.png",
-    "kickOff": "20:45", "tip": "Home Win", "odds": "1.65", "isLocked": false
-  },
-  {
-    "teamA": "Bayer Leverkusen", "teamB": "VfB Stuttgart",
-    "iconA": "https://media.api-sports.io/football/teams/168.png",
-    "iconB": "https://media.api-sports.io/football/teams/172.png",
-    "league": "Bundesliga", "leagueLogo": "https://media.api-sports.io/football/leagues/78.png",
-    "kickOff": "18:30", "tip": "Home Win", "odds": "1.75", "isLocked": false
+    "kickOff": "20:00", "tip": "GG", "odds": "1.52", "isLocked": false
   }
 ]
