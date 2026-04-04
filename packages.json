@@ -72,9 +72,9 @@
     "price": {
       "name": "Draws",
       "prices": [
-        { "amount": 1,  "duration": "DAILY",   "baseCurrency": "USD" },
-        { "amount": 5,  "duration": "WEEKLY",  "baseCurrency": "USD" },
-        { "amount": 16, "duration": "MONTHLY", "baseCurrency": "USD" }
+        { "amount": 3,  "duration": "DAILY",   "baseCurrency": "USD" },
+        { "amount": 15,  "duration": "WEEKLY",  "baseCurrency": "USD" },
+        { "amount": 60, "duration": "MONTHLY", "baseCurrency": "USD" }
       ],
       "jackpots": []
     },
