@@ -1,149 +1,263 @@
 [
   {
-    "id": "free",
-    "title": "Free",
-    "subtitle": "Get Started",
-    "price": { "name": "Free", "prices": [], "jackpots": [] },
+    "id": "draw1",
+    "title": "1 Draw",
+    "subtitle": "KES 200/day · KES 1200/week · KES 4000/month",
     "features": [
-      "1–2 Free Tips Daily",
-      "Basic Match Previews",
-      "Contains Ads"
+      "1 hand-picked draw selection",
+      "Deep H2H + form analysis",
+      "Delivered before kickoff"
     ],
-    "type": "FREE",
+    "price": {
+      "name": "1 Draw",
+      "prices": [
+        {
+          "amount": 1.54,
+          "duration": "DAILY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        },
+        {
+          "amount": 9.23,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        },
+        {
+          "amount": 30.77,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        }
+      ],
+      "jackpots": []
+    },
+    "type": "subscription",
     "isMostPopular": false,
     "kenyaOnly": false
   },
   {
-    "id": "basic",
-    "title": "Basic",
-    "subtitle": "Best Value for Beginners",
+    "id": "draw2",
+    "title": "2 Draws",
+    "subtitle": "KES 400/day · KES 2400/week · KES 8000/month",
+    "features": [
+      "2 hand-picked draw selections",
+      "Deep H2H + form analysis",
+      "Delivered before kickoff"
+    ],
     "price": {
-      "name": "Basic",
+      "name": "2 Draws",
       "prices": [
-        { "amount": 2,  "duration": "DAILY",   "baseCurrency": "USD" },
-        { "amount": 10,  "duration": "WEEKLY",  "baseCurrency": "USD" },
-        { "amount": 32, "duration": "MONTHLY", "baseCurrency": "USD" }
+        {
+          "amount": 3.08,
+          "duration": "DAILY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        },
+        {
+          "amount": 18.46,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        },
+        {
+          "amount": 61.54,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        }
       ],
       "jackpots": []
     },
-    "features": [
-      "5–10 Curated Tips Daily",
-      "Top 15 Leagues Covered",
-      "Win Rate Analysis",
-      "Match Form & Head-to-Head Stats",
-      "Ad-Free Experience",
-      "24/7 Support"
-    ],
-    "type": "BASIC",
+    "type": "subscription",
     "isMostPopular": false,
     "kenyaOnly": false
   },
   {
-    "id": "premium",
-    "title": "Premium",
-    "subtitle": "Top Choice for Serious Bettors",
+    "id": "draw3",
+    "title": "3 Draws",
+    "subtitle": "KES 600/day · KES 3600/week · KES 12000/month",
+    "features": [
+      "3 hand-picked draw selections",
+      "Deep H2H + form analysis",
+      "Higher combined odds",
+      "Delivered before kickoff"
+    ],
     "price": {
-      "name": "Premium",
+      "name": "3 Draws",
       "prices": [
-        { "amount": 3,  "duration": "DAILY",   "baseCurrency": "USD" },
-        { "amount": 15, "duration": "WEEKLY",  "baseCurrency": "USD" },
-        { "amount": 50, "duration": "MONTHLY", "baseCurrency": "USD" }
+        {
+          "amount": 4.62,
+          "duration": "DAILY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        },
+        {
+          "amount": 27.69,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        },
+        {
+          "amount": 92.31,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        }
       ],
       "jackpots": []
     },
-    "features": [
-      "15–30 Premium Tips Daily",
-      "Top 5 Leagues — Elite Analysis",
-      "High Win Probability Selections",
-      "BTTS & Over/Under Insights",
-      "In-Depth Team & Player Form",
-      "Injury & Lineup Alerts",
-      "Ad-Free Experience",
-      "Priority 24/7 Support"
-    ],
-    "type": "PREMIUM",
+    "type": "subscription",
     "isMostPopular": true,
     "kenyaOnly": false
   },
   {
-    "id": "draws",
-    "title": "Draws",
-    "subtitle": "High-Value Draw Predictions",
+    "id": "odds2",
+    "title": "2 Odds",
+    "subtitle": "KES 100/day · KES 600/week · KES 2000/month",
+    "features": [
+      "2 high-confidence picks",
+      "Simple accumulator",
+      "Delivered before kickoff"
+    ],
     "price": {
-      "name": "Draws",
+      "name": "2 Odds",
       "prices": [
-        { "amount": 3,  "duration": "DAILY",   "baseCurrency": "USD" },
-        { "amount": 15,  "duration": "WEEKLY",  "baseCurrency": "USD" },
-        { "amount": 60, "duration": "MONTHLY", "baseCurrency": "USD" }
+        {
+          "amount": 0.77,
+          "duration": "DAILY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        },
+        {
+          "amount": 4.62,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        },
+        {
+          "amount": 15.38,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        }
       ],
       "jackpots": []
     },
-    "features": [
-      "Daily Draw Predictions",
-      "Top 10 Leagues Covered",
-      "Draw Probability Scoring",
-      "Low-Scoring Match Analysis",
-      "Defensive Form & H2H Draw Stats",
-      "Combo Draw Accumulators",
-      "Ad-Free Experience",
-      "24/7 Support"
-    ],
-    "type": "DRAWS",
+    "type": "subscription",
     "isMostPopular": false,
     "kenyaOnly": false
   },
   {
-    "id": "correct",
+    "id": "odds5",
+    "title": "5 Odds",
+    "subtitle": "KES 150/day · KES 900/week · KES 3000/month",
+    "features": [
+      "5 high-confidence picks",
+      "Balanced accumulator",
+      "Delivered before kickoff"
+    ],
+    "price": {
+      "name": "5 Odds",
+      "prices": [
+        {
+          "amount": 1.15,
+          "duration": "DAILY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        },
+        {
+          "amount": 6.92,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        },
+        {
+          "amount": 23.08,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        }
+      ],
+      "jackpots": []
+    },
+    "type": "subscription",
+    "isMostPopular": false,
+    "kenyaOnly": false
+  },
+  {
+    "id": "odds10",
+    "title": "10 Odds",
+    "subtitle": "KES 300/day · KES 1800/week · KES 6000/month",
+    "features": [
+      "10 high-confidence picks",
+      "Maximum accumulator odds",
+      "Delivered before kickoff"
+    ],
+    "price": {
+      "name": "10 Odds",
+      "prices": [
+        {
+          "amount": 2.31,
+          "duration": "DAILY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        },
+        {
+          "amount": 13.85,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        },
+        {
+          "amount": 46.15,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        }
+      ],
+      "jackpots": []
+    },
+    "type": "subscription",
+    "isMostPopular": false,
+    "kenyaOnly": false
+  },
+  {
+    "id": "ctscore",
     "title": "Correct Score",
-    "subtitle": "High-Precision Score Predictions",
+    "subtitle": "KES 1000/day · KES 6000/week · KES 20000/month",
+    "features": [
+      "Exact scoreline predictions",
+      "Statistical + AI model blend",
+      "Highest odds potential",
+      "Delivered before kickoff"
+    ],
     "price": {
       "name": "Correct Score",
       "prices": [
-        { "amount": 10,  "duration": "DAILY",   "baseCurrency": "USD" },
-        { "amount": 50,  "duration": "WEEKLY",  "baseCurrency": "USD" },
-        { "amount": 150, "duration": "MONTHLY", "baseCurrency": "USD" }
+        {
+          "amount": 7.69,
+          "duration": "DAILY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        },
+        {
+          "amount": 46.15,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        },
+        {
+          "amount": 153.85,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD",
+          "planCode": ""
+        }
       ],
       "jackpots": []
     },
-    "features": [
-      "Daily Correct Score Predictions",
-      "AI-Powered Scoreline Modelling",
-      "Risk & Confidence Rating per Match",
-      "Attacking & Defensive Form Stats",
-      "Average Goals Scored/Conceded",
-      "Expert Match-by-Match Commentary",
-      "Ad-Free Access",
-      "24/7 Support"
-    ],
-    "type": "CORRECT_SCORE",
+    "type": "subscription",
     "isMostPopular": false,
     "kenyaOnly": false
-  },
-  {
-    "id": "jackpot",
-    "title": "Jackpot",
-    "subtitle": "Kenya Jackpot Predictions",
-    "price": {
-      "name": "Jackpot",
-      "prices": [],
-      "jackpots": [
-        { "bookmaker": "SportPesa Jackpot",     "amount": 3, "baseCurrency": "USD" },
-        { "bookmaker": "SportPesa MegaJackpot", "amount": 4, "baseCurrency": "USD" },
-        { "bookmaker": "Betika Jackpot",        "amount": 3, "baseCurrency": "USD" }
-      ]
-    },
-    "features": [
-      "SportPesa Jackpot Predictions",
-      "SportPesa MegaJackpot Predictions",
-      "Betika Jackpot Predictions",
-      "Expert Match Selection & Reasoning",
-      "High-Odds Combination Tips",
-      "Value Bet Identification",
-      "Ad-Free Access",
-      "24/7 Support"
-    ],
-    "type": "JACKPOT",
-    "isMostPopular": false,
-    "kenyaOnly": true
   }
 ]
