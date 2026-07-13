@@ -223,7 +223,7 @@
     "kenyaOnly": false
   },
   {
-    "id": "ctscore",
+    "id": "correctscore",
     "title": "Correct Score",
     "subtitle": "KES 1000/day · KES 6000/week · KES 20000/month",
     "features": [
