@@ -2,6 +2,15 @@
   "whatsapp": "https://wa.me/254724101814",
   "telegram": "https://t.me/victonicsports",
   "email": "support@victonicsports.com",
+  "instagram": "https://instagram.com/victonicsports",
+  "tiktok": "https://tiktok.com/@victonicsports",
+  "facebook": "https://facebook.com/victonicsports",
+  "youtube": "https://youtube.com/@victonicsports",
   "adsense_client": "ca-pub-3677802356093700",
-  "adsense_slot": "XXXXXXXXXX"
+  "adsense_slot": "",
+  "payment": {
+    "paybill_number": "339753",
+    "paybill_name": "Victonic Sports",
+    "paystack_public_key": "pk_live_e78dc6841dfd7ce684f3304bab405bcc2d88f614"
+  }
 }
